@@ -54,12 +54,12 @@ p {
 a:link,
 a:visited {
   color: rgb(219, 219, 219);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 :target,
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: rgb(255, 255, 255);
 }
 
