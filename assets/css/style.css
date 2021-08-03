@@ -93,3 +93,19 @@ nav {
   text-align: center;
   word-spacing: 10px;
 }
+
+nav a:link,
+nav a:visited {
+  color: #00000091;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: black;
+  text-shadow: unset;
+}
+
+nav span {
+  display: inline-block;
+}
