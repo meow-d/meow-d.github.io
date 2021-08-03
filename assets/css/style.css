@@ -1,0 +1,95 @@
+@media (orientation: portrait) {
+  :root {
+    --body-padding: 5vw;
+  }
+}
+
+@media (orientation: landscape) {
+  :root {
+    --body-padding: 5vh;
+  }
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+  padding: var(--body-padding);
+  margin: 0;
+  overflow: overlay;
+}
+
+body {
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  perspective: 1000px;
+  perspective-origin: 50% 50%;
+}
+
+#content {
+  margin: 0 auto;
+  padding: 1em;
+  max-width: 35em;
+
+  border-radius: 20px;
+  backdrop-filter: blur(20px);
+
+  animation-timing-function: ease;
+
+  background-color: rgba(0, 0, 0, 0.6);
+  color: rgb(219, 219, 219);
+}
+
+p {
+  font-size: 0.9em;
+}
+
+a:link,
+a:visited {
+  color: rgb(219, 219, 219);
+  text-decoration: none;
+}
+
+:target,
+a:hover {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  text-shadow: 1px 1px 20px #8f8f8f;
+}
+
+::selection {
+  background: #00587e;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.6);
+
+  border-radius: 5px;
+  background-clip: content-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+nav {
+  text-align: center;
+  word-spacing: 10px;
+}
