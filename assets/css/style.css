@@ -103,7 +103,7 @@ nav a:visited {
 nav a:hover {
   text-decoration: none;
   color: black;
-  text-shadow: unset;
+  text-shadow: 0px 0px 3px #ffffff;
 }
 
 nav span {
