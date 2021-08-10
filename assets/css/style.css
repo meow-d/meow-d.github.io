@@ -117,6 +117,34 @@ nav a:hover {
   text-shadow: 0px 0px 3px #ffffff;
 }
 
+/* Expanding underline */
+nav a:after {
+  display: block;
+  content: "";
+
+  position: relative;
+  top: -4px;
+
+  width: 0;
+  height: 2px;
+  background: #000;
+
+  transition: width 0.1s;
+}
+
+nav a:hover:after {
+  width: 100%;
+}
+
+/* Current page */
+nav a#current {
+  color: black;
+}
+
+nav a#current:after {
+  width: 100%;
+}
+
 nav span {
   display: inline-block;
 }
