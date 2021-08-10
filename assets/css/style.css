@@ -51,6 +51,10 @@ p {
   font-size: 0.9em;
 }
 
+h1 {
+  color: white;
+}
+
 a:link,
 a:visited {
   color: rgb(219, 219, 219);
