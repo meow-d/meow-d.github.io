@@ -57,18 +57,18 @@ h1 {
 
 a:link,
 a:visited {
-  color: rgb(219, 219, 219);
-  text-decoration: underline;
+  color: #1c9af5;
+  text-decoration: none;
 }
 
 :target,
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: rgb(255, 255, 255);
 }
 
 a:hover {
-  text-shadow: 1px 1px 20px #8f8f8f;
+  text-shadow: 1px 1px 20px #ffffffbd;
 }
 
 ::selection {
