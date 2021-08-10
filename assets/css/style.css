@@ -67,7 +67,7 @@ a:visited {
 
 :target,
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: rgb(255, 255, 255);
 }
 
