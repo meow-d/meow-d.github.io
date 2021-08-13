@@ -63,6 +63,7 @@ a:link,
 a:visited {
   color: #1c9af5;
   text-decoration: none;
+  transition: text-shadow 0.05s, color 0.1s;
 }
 
 :target,
