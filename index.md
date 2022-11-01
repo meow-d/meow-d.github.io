@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my very quirky site sklajf'asldkfhc;lawskdfc. I wanted to make a Carrd but i'm a nerd so i'm using a website i made myself. 🤓
 
-Minor, any pronouns (for anonymity)
+Minor (for now), any pronouns (for anonymity)
 
 ## 🚫 DNI
 Transphobes DNI i guess, but i feel like they'll run away the moment they see pronouns in my bio 👍
