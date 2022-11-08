@@ -10,9 +10,9 @@ Welcome to my very quirky site sklajf'asldkfhc;lawskdfc. I wanted to make a Carr
 Minor (for now), any pronouns (for anonymity)
 
 ## 🚫 DNI
-Transphobes DNI i guess, but i feel like they'll run away the moment they see pronouns in my bio 👍
+I have no DNI do what ever you want i guess
 
-TBH I find most twitter DNIs stupid
+Unless you're a transphobe or smth, but i feel like they'll run away the moment they see pronouns in my bio 👍
 
 ## ❤️ Likes
 - Linux
