@@ -17,7 +17,7 @@ Unless you're a transphobe or smth, but i feel like they'll run away the moment 
 ## ❤️ Likes
 - Linux
   - ricing
-  - i use arch btw
+  - ~~i use arch btw~~ i no longer use arch, btw. currently using Fedora Silverblue(tm).
   - spending 6 hours trying to solve a minor problem
 - Music
   - artists
@@ -29,7 +29,9 @@ Unless you're a transphobe or smth, but i feel like they'll run away the moment 
     - IGOR
     - Worlds
   - oh wow such unpredictable music taste, oh wow
-- Gamedev (have not actually made a game yet because i always get too ambitious and give out)
+- Gamedev
+  - i don't make games myself, i just love watching others talking about gamedev
+    - i've tried a few times, but i always get too ambitious and give up
 - Boobs
 
 ## 💔 Dislikes
