@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my very quirky site sklajf'asldkfhc;lawskdfc. I wanted to make a Carrd but i'm a nerd so i'm using Github dot io. 🤓
 
-Minor (for now), any pronouns (for anonymity)
+formerly a minor, any pronouns (for anonymity)
 
 ## 🚫 DNI
 I have no DNI do what ever you want i guess
