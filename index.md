@@ -4,17 +4,16 @@ title: Home
 
 ---
 # Hello!
+name: i don't have an internet name but i always use some variation of `meow_d` as my account handle
 
-Welcome to my very quirky site sklajf'asldkfhc;lawskdfc. I wanted to make a Carrd but i'm a nerd so i'm using Github dot io. 🤓
+catgirl status: aspiring catgirl
 
-formerly a minor, any pronouns (for anonymity)
+pronouns: any
 
 ## 🚫 DNI
-I have no DNI do what ever you want i guess
+I have no DNI except for the basic stuff like "don't be transphobic", "don't be racist", etc, cause i'm like a boomer when it comes to internet discource.
 
-Unless you're a transphobe or smth, but i feel like they'll run away the moment they see pronouns in my bio 👍
-
-## ❤️ Likes
+## ❤️ Likes (changes over time, so this is probably outdated)
 - Linux
   - ricing
   - ~~i use arch btw~~ i no longer use arch, btw. currently using Fedora Silverblue(tm).
