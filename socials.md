@@ -5,7 +5,7 @@ some are more active than others
 - 🐞 [Cohost](https://cohost.org/meow-d)
 - 🐘 [Mastodon](https://mas.to/@meow_d)
 - 🐸 [Tumblr](https://www.tumblr.com/blog/meow-d)
-- 🤓 [Reddit](https://www.reddit.com/user/meow_d_)
+- 🔥🤓🔥 [Reddit](https://www.reddit.com/user/meow_d_)
 
 ## technically socials
 - 📺 [Anilist](https://anilist.co/user/meowd/)
@@ -16,4 +16,4 @@ some are more active than others
 - 🐨 [Lemmy](https://lemmy.blahaj.zone/u/meow_d)
 
 ## inactive
-- 🔥🐦🔥 [Twitter](https://twitter.com/meow_dddaswe)
+- 🔥🔥🐦🔥🔥 [Twitter](https://twitter.com/meow_dddaswe)
