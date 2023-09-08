@@ -34,8 +34,8 @@ body {
   background-attachment: fixed;
 }
 
-/* Content box */
-#content {
+/* Main content / Content box */
+main {
   margin: 0 auto;
   padding: 1.5em;
   max-width: 35em;
