@@ -8,10 +8,11 @@ name: i don't have an internet name but i always use some variation of `meow_d` 
 
 catgirl status: aspiring catgirl
 
-pronouns: any
+pronouns: don't care, any
 
-## 🚫 DNI
-I have no DNI except for the basic stuff like "don't be transphobic", "don't be racist", etc, cause i'm like a boomer when it comes to internet discource.
+## 🚫 DNIs
+- have basic human decency ("don't be transphobic", "don't be racist", etc)
+- that's it, cause i'm like a boomer when it comes to internet discource
 
 ## ❤️ Likes (changes over time, so this is probably outdated)
 - Linux
