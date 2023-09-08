@@ -11,8 +11,9 @@ catgirl status: aspiring catgirl
 pronouns: don't care, any
 
 ## 🚫 DNIs
+- none.
 - have basic human decency ("don't be transphobic", "don't be racist", etc)
-- that's it, cause i'm like a boomer when it comes to internet discource
+  - tbh this is pointless, cause i don't think a racist will see and go "omq i'm racist i'm going to not interact with them".
 
 ## ❤️ Likes (changes over time, so this is probably outdated)
 - Linux
