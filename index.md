@@ -4,11 +4,11 @@ title: Home
 
 ---
 # Hello!
-name: i don't have an internet name but i always use some variation of `meow_d` as my account handle
+**name:** i don't have an internet name but i always use some variation of `meow_d` as my account handle
 
-catgirl status: aspiring catgirl
+**catgirl status:** aspiring catgirl
 
-pronouns: don't care, any
+**pronouns:** don't care, any
 
 ## 🚫 DNIs
 - none.
