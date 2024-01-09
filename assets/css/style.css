@@ -28,7 +28,7 @@ body {
   overflow: overlay;
 
   /* Background */
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/background.webp");
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
