@@ -16,6 +16,7 @@ some are more active than others
 ## socials that i signed up just to try out but idk anything about it
 - 🟥 [Raddle](https://raddle.me/user/meow_d)
 - 🐨 [Lemmy](https://lemmy.blahaj.zone/u/meow_d)
+- 🤠 [Pronouns.page](https://en.pronouns.page/@meow_d)
 
 ## inactive
 - 🔥🔥🐦🔥🔥 [Twitter](https://twitter.com/meow_dddaswe)
