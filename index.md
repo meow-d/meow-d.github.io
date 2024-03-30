@@ -10,6 +10,8 @@ title: Home
 
 **pronouns:** don't care, any
 
+I'm not active on social media nowadays, except for [Cohost](https://cohost.org/meow-d).
+
 ## 🚫 DNIs
 - none.
 - have basic human decency
