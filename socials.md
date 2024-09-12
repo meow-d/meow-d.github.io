@@ -3,6 +3,8 @@ some are more active than others
 
 ## active socials
 - 🐞 [**Cohost**](https://cohost.org/meow-d)
+
+## occationially socials
 - 🐘 [Mastodon](https://mas.to/@meow_d)
 - 🐸 [Tumblr](https://www.tumblr.com/blog/meow-d)
 - 🔥🤓🔥 [Reddit](https://www.reddit.com/user/meow_d_)

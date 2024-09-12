@@ -10,15 +10,20 @@ title: Home
 
 **pronouns:** don't care, any
 
+I'm not active on social media nowadays, except for [Cohost](https://cohost.org/meow-d).
+
 ## 🚫 DNIs
 - none.
-- have basic human decency ("don't be transphobic", "don't be racist", etc)
+- have basic human decency
   - tbh this is pointless, cause i don't think a racist will see and go "omq i'm racist i'm going to not interact with them".
 
 ## ❤️ Likes (changes over time, so this is probably outdated)
+- Manga
+  - Yuri!!!
+- Anime
 - Linux
   - ricing
-  - ~~i use arch btw~~ i no longer use arch, btw. currently using Fedora Silverblue(tm).
+  - ~~i use arch btw~~ i no longer use arch, btw. currently using Fedora (tm).
   - spending 6 hours trying to solve a minor problem
 - Music
   - artists
