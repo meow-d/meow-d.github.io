@@ -49,6 +49,13 @@ main {
   color: rgb(219, 219, 219);
 }
 
+/* blog */
+.post-item {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 /* Text */
 p {
   font-size: 0.9em;
