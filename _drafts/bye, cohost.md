@@ -1,5 +1,5 @@
 ---
 layout: post
 author: meow_d
-tags: cohost
+tags: internet cohost
 ---
