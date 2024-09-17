@@ -29,6 +29,7 @@ body {
 
   /* Background */
   background-image: url("../images/background.webp");
+  background-position: center;
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -38,7 +39,7 @@ body {
 main {
   margin: 0 auto;
   padding: 1.5em;
-  max-width: 35em;
+  max-width: 38em;
 
   border-radius: 20px;
   backdrop-filter: blur(20px);
