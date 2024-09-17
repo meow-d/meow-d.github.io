@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: yuri manga
+tags: yuri manga cohost-archive
 ---
 
 I'm usually super disconnected with most romance manga. I can't relate to having a social life, being in high school, being a girl, living in a yuri utopia where everyone is gay and homophobia doesn't exist. given my love for yuri, it's ironic that I actually connect more with heterosexual romance manga - both the male and female protag, mostly the latter.
