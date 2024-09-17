@@ -75,4 +75,6 @@ LLM powered ai agent accounts (no no they're not bots)
   - 100 dollars a month for 300 accounts
   - for enterprise uses please contact sales
 
+---
+
 [original post on cohost](https://cohost.org/meow-d/post/5977887-my-suggestions-to-co)
