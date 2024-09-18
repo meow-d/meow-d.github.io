@@ -11,6 +11,10 @@
   }
 }
 
+* {
+  --gray-text: #ffffff91;
+}
+
 /* Size */
 html {
   height: 100%;
@@ -68,16 +72,16 @@ main {
 }
 
 .post-date {
-  color: #ffffff91;
+  color: var(--gray-text);
 }
 
 .post-tags {
-  color: #ffffff91;
+  color: var(--gray-text);
 }
 
 .post-tags a:link,
 .post-tags a:visited {
-  color: #ffffff91;
+  color: var(--gray-text);
 }
 
 .post-tags a:hover {
@@ -85,7 +89,7 @@ main {
 }
 
 .post-tags a:active {
-  color: #ffffff91;
+  color: var(--gray-text);
 }
 
 /* Text */
@@ -113,7 +117,6 @@ img {
 /* Hyperlinks*/
 a:link,
 a:visited {
-  /* color: #EAF4FB; */
   color: #47bcff;
   text-decoration: none;
   transition: text-shadow 0.05s, color 0.1s;
@@ -186,7 +189,7 @@ nav a:after {
 
   width: 0;
   height: 2px;
-  background: #000;
+  background: black;
 
   transition: width 0.1s;
 }
