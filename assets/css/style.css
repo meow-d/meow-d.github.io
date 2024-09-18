@@ -29,6 +29,7 @@ body {
 
   /* Background */
   background-image: url("../images/background.webp");
+  background-position: center;
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -38,7 +39,7 @@ body {
 main {
   margin: 0 auto;
   padding: 1.5em;
-  max-width: 35em;
+  max-width: 38em;
 
   border-radius: 20px;
   backdrop-filter: blur(20px);
@@ -49,19 +50,71 @@ main {
   color: rgb(219, 219, 219);
 }
 
-/* Text */
-p {
-  font-size: 0.9em;
+/* Blog */
+.posts {
+  padding: 0;
 }
 
+.post-item {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.post-item a h3 {
+  margin-top: 0.7em;
+  font-size: 1.1rem;
+}
+
+.post-date {
+  color: #ffffff91;
+}
+
+.post-tags {
+  color: #ffffff91;
+}
+
+.post-tags a:link,
+.post-tags a:visited {
+  color: #ffffff91;
+}
+
+.post-tags a:hover {
+  color: white;
+}
+
+.post-tags a:active {
+  color: #ffffff91;
+}
+
+/* Text */
 h1 {
   color: white;
+}
+
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+
+  border-radius: 10px;
 }
 
 /* Hyperlinks*/
 a:link,
 a:visited {
-  color: #1c9af5;
+  /* color: #EAF4FB; */
+  color: #47bcff;
   text-decoration: none;
   transition: text-shadow 0.05s, color 0.1s;
 }
@@ -77,9 +130,13 @@ a:hover {
   text-shadow: 1px 1px 20px #ffffff98;
 }
 
+a:active {
+  color: #ffffffbb;
+}
+
 /* Selection */
 ::selection {
-  background: #00587e;
+  background: #0078ab;
 }
 
 /* Scrollbar */
