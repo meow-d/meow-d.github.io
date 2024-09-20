@@ -1,6 +1,8 @@
 - name: Home
   link: /
 - name: Socials
-  link: /socials.html
+  link: /socials
 - name: Blog
-  link: /blog.html
+  link: /blog
+- name: Roll
+  link: /blogroll

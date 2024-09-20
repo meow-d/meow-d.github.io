@@ -13,6 +13,7 @@
 
 * {
   --gray-text: #ffffff91;
+  --button-scale: 1.5;
 }
 
 /* Size */
@@ -32,7 +33,7 @@ body {
   overflow: overlay;
 
   /* Background */
-  background-image: url("../images/background.webp");
+  background-image: url("../images/background/background.webp");
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
@@ -209,4 +210,18 @@ nav a#current:after {
 
 nav span {
   display: inline-block;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.buttons img,
+.buttons a img {
+  width: calc(81px * var(--button-scale));
+  height: calc(31px * var(--button-scale));
+  image-rendering: pixelated;
+  border-radius: 1px;
 }

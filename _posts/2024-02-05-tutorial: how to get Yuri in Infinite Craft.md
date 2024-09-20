@@ -22,7 +22,7 @@ you can look at the spreadsheet for any alternatives, like internet + tentacle =
 
 that's it. you can actually go pretty wild with yuri and yaoi. like, i actually unlocked gay, reddit, tumblr, pride, ego as a direct result.
 
-![screenshot of the final steps](/assets/images/infinite-craft-yuri.png)
+![screenshot of the final steps](/assets/images/post-images/infinite-craft-yuri.png)
 
 ## bonus (kink warning)
 - hentai + slavery = hentai slaves
