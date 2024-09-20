@@ -14,6 +14,11 @@ some are more active than others
 - 🌐 [the site you're on right now](https://meow-d.github.io/)
   - ⚛️ [Atom feed!](https://meow-d.github.io/feed.xml)
 - 🐸 [Tumblr](https://www.tumblr.com/blog/meow-d)
+
+- 🦋 [Bluesky](https://bsky.app/profile/meowd.bsky.social)
+- 🛌🏻 [Pillowfort](https://www.pillowfort.social/meow_d)
+- 💤 [Dreamwidth](https://meow-d.dreamwidth.org/)
+
 <!-- - 🔥🤓🔥 [Reddit](https://www.reddit.com/user/meow_d_) -->
 
 ## technically socials
@@ -24,8 +29,6 @@ some are more active than others
 
 ## inactive socials
 - 🔥🔥🐦🔥🔥 [Twitter](https://twitter.com/meow_dddaswe)
-
-### i signed up just to try out but idk anything about it socials
 - 🟥 [Raddle](https://raddle.me/user/meow_d)
 - 🐨 [Lemmy](https://lemmy.blahaj.zone/u/meow_d)
 - 🤠 [Pronouns.page](https://en.pronouns.page/@meow_d)
