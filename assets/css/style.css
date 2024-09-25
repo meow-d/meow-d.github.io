@@ -115,6 +115,10 @@ img {
   border-radius: 10px;
 }
 
+ul {
+  padding-left: 1.5em;
+}
+
 /* Hyperlinks*/
 a:link,
 a:visited {
