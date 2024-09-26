@@ -41,7 +41,8 @@ body {
 }
 
 /* Main content / Content box */
-main {
+main,
+#comments {
   margin: 0 auto;
   padding: 1.5em;
   max-width: 38em;
@@ -117,6 +118,16 @@ img {
 
 ul {
   padding-left: 1.5em;
+}
+
+/* Comments */
+#comments {
+  margin-top: 1.5em;
+}
+
+#cusdis_thread label,
+#cusdis_thread input {
+  color: var(--gray-text);
 }
 
 /* Hyperlinks*/
