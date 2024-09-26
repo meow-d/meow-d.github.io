@@ -34,9 +34,18 @@ here are some common things your wands can do, classified by the community:
 
 in god runs, people usually like to combine different types into their teleport. like teleport + digging + healing + damage.
 
-### spells
-**multicast** and **trigger** spells are essentials. there is a lot of variety, some are easier to use than others, but they're all functional.
+### basic wandbuilding
+firstly, all discussions around wandbuilding revolves around no-shuffle wands. shuffle wands will shuffle your spells before firing, so you basically can't do any wandbuilding. they do tend to have better stats, so in early game, you might perfer a really good shuffle wand over a garbage non-shuffle.
 
+in a no-shuffle wand, the spells are fired from left to right. **modifier** spells modify the next spell, while **multicast** casts multiple spells at the same time. **trigger** spells will look for the next spell (or a block of spells fired by multicasts), stores it as the _payload_, then releases it upon hidding a wall. **timer** spells work the same, except it's on a timer.
+
+if you combine a modifier and multicast, all of the spells will be affected by the modifier. one damage plus can affect 10 spark bolts, for example.
+
+if you put a modifier (or multicast, or trigger) at the end, the wand will loop back and look for a spell at the beginning. this is called **spell wraping**. you're basically firing an extra spell. it gets very useful when you have a spell that reduces recharge time / cast delay, as you're able to cast it twice, reducing it further.
+
+triggers spells ignore the payload's cast delay. you can shove a lot of spells in the payload and the cast delay will never increase.
+
+### how to loot them
 over time, you'll develop a mental tier list on which spells are good. the only way to learn is to spend time in the community and read the wiki. that said, i'm going to list a few spells/combos that i consider to be S-tier:
 - add mana
 - reduce recharge time
@@ -48,7 +57,6 @@ over time, you'll develop a mental tier list on which spells are good. the only 
 - shield
 - any healing
 
-### wand stats
 wand stats might seem overwhelming at first, but you usually only need to look for 2-3 stats, depeneding on which stage of the game you're at, and what you have. for example:
 - in early game, look for wands with low cast delay and recharge time
 - at some point, you'll have to start looking for decent no-shuffle wands
