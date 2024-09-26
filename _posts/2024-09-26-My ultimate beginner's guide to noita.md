@@ -117,7 +117,7 @@ ways to counter **Steve**:
 - just run away
   - you can safely shop as long as it haven't see you yet
   - great if you really really don't want to deal with Skoude
-- see: https://noita.wiki.gg/wiki/Stevari#Combat_Tips
+- see: [https://noita.wiki.gg/wiki/Stevari#Combat_Tips](https://noita.wiki.gg/wiki/Stevari#Combat_Tips)
 
 Once you kill 3 Steves, Skoude will spawn in his place. Skoude is much, much, much tougher than steve. ways to counter **Skoude**:
 - homing rock
@@ -125,7 +125,7 @@ Once you kill 3 Steves, Skoude will spawn in his place. Skoude is much, much, mu
 - plasma beam
   - homing makes it trival
 - ambrosia
-- see: https://noita.wiki.gg/wiki/Skoude#Tips
+- see: [https://noita.wiki.gg/wiki/Skoude#Tips](https://noita.wiki.gg/wiki/Skoude#Tips)
 
 ## keybinds
 - bind throw to somewhere like G so you can't accidentally click it.
