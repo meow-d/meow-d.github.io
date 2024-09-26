@@ -125,9 +125,8 @@ ul {
   margin-top: 1.5em;
 }
 
-#cusdis_thread label,
-#cusdis_thread input {
-  color: var(--gray-text);
+#comments>h2 {
+  margin-top: 0;
 }
 
 /* Hyperlinks*/

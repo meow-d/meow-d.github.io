@@ -1,0 +1,85 @@
+/* universal */
+* {
+    --gray-text: #ffffff91;
+}
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+
+    color: var(--gray-text);
+    border-color: var(--gray-text);
+}
+
+/* general */
+label,
+input,
+textarea {}
+
+input,
+textarea,
+button {
+    border-radius: 10px;
+}
+
+/* text input */
+input:focus,
+textarea:focus,
+button:focus {
+    border-color: #8fddff;
+    outline: 1px solid #8fddff;
+}
+
+/* button */
+button {
+    transition: 0.1s;
+    color: black;
+}
+
+button:hover {
+    background-color: rgb(187, 188, 189);
+}
+
+button:active {
+    background-color: rgb(151, 151, 152);
+}
+
+/* comments */
+.mr-2.font-medium.dark\:text-gray-100 {
+    font-weight: bold;
+}
+
+.text-gray-500.text-sm.dark\:text-gray-400 {
+    color: var(--gray-text);
+}
+
+/* reply button */
+/* make it look like a link */
+button.font-medium.text-sm.text-gray-500.dark\:bg-transparent.dark\:text-gray-100 {
+    outline: none;
+    background-color: transparent;
+
+    color: #47bcff;
+    text-decoration: none;
+
+    transition: text-shadow 0.05s, color 0.1s;
+}
+
+button.font-medium.text-sm.text-gray-500.dark\:bg-transparent.dark\:text-gray-100:hover {
+    background-color: transparent;
+
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    text-underline-offset: 1px;
+    text-shadow: 1px 1px 20px #ffffff98;
+}
+
+button.font-medium.text-sm.text-gray-500.dark\:bg-transparent.dark\:text-gray-100:active {
+    color: #ffffffbb;
+}
+
+button.font-medium.text-sm.text-gray-500.dark\:bg-transparent.dark\:text-gray-100:focus {
+    outline: none;
+}
