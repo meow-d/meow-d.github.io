@@ -1,4 +1,4 @@
-{%- if page.id -%}
+{% if page.layout == 'post' %}
 <section id="comments">
     <h2>Comments (under construction)</h2>
     <div id="cusdis_thread" data-host="https://cusdis-9lcyoz1jp-meow-ds-projects.vercel.app"
@@ -7,4 +7,4 @@
         ></div>
     <script async defer src="https://cusdis-9lcyoz1jp-meow-ds-projects.vercel.app/js/cusdis.es.js"></script>
 </section>
-{%- endif -%}
+{% endif %}
