@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: internet anime
+tags: anime
 ---
 
 Let's take a few examples:

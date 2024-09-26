@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: internet
+tags: personal
 ---
 
 So, some meme subreddits don't allow anything other than memes, like r/dankmemes. But the problem is that they're a community. There will always be discussions in the comments.

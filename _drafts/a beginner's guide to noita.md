@@ -136,19 +136,45 @@ Once you kill 3 Steves, Skoude will spawn in his place. Skoude is much, much, mu
 
 - frozen enemies is exteremely vulnerable to physical damage, like kicking or tentacles. it's so strong that most enemies just get one-shot. very useful for dealing with Steve.
 
-## walkthrough (contains spoilers)
+## misc notes for each biomes (contains spoilers)
 ### the mines
 - pick up the tablet on the right side. it's not that important for beginners who haven't mastered tablet tech.
 - the collapsed mines sucks. it literally has the same loot as normal mines.
 
 ### coal pits
-- for the first two areas, i recommend exploring as much as you can. i know it's tempting to jump straight to the next areas with better loot, but they're also exponentially more dangerous. take advantage of the relative safery of the early areas to prepare yourself, get yourself strong enough to actually loot the tougher areas.
+- for the first two areas, i personally recommend exploring as much as you can. i know it's tempting to jump straight to the next areas with better loot, but they're also exponentially more dangerous. take advantage of the relative safery of the early areas to prepare yourself, get yourself strong enough to actually loot the tougher areas.
 - to the left of the map is the Fungal Caverns. if you ever decide to go to the Fungal Caverns, be very, very careful.
+  - the fungal caverns also appears in the underground jungle, i think this means the enemies there are at that level of strength.
   - watch out for the blindness mage, the teleport mage, and robocop (can't be stunned, bleeds oil, immune to a lot of things). the enemies there are already dangerous but these 3 can instantly end your run.
 
 ### snowy depths
-- to the left of the map is the Fungal Caverns. if you ever decide to go to the Magical Temple, be very, very, very careful.
+- huge difficulty spike. the most open biome, while also having long range enemies like the hissi sniper.
+- watch out for Ukko. it can one-shot you.
+- to the left of the map is the Magical Temple. if you ever decide to go to the Magical Temple, be very, very, very careful.
 - to the right is a chasm that leads to Squidward's home, near the mines.
+- if you kick the hands, they'll spawn robotic monks. you can tablet them for free gold. be aware that the more you do this, the more monks will spawn.
+
+### hissi base
+- do you know concentrated mana melts steel? do you know concentrated mana + water = more concentrated mana? have fun.
+- a shop spawns on the left or right side of the map
+  - (extra spoiler warning) above the shop is the hourglass chamber. fill in teleportanium to spawn a porter to the **eye room**, which contains a lot of spells.
+    - if you have the patience or a good diggin wand, you can just dig to the eye room. go to the top left corner of the biome and keep digging left.
+
+### underground jungle
+- a _relatively_ safe biome. enemies are very tanky, but mechanical enemies are rare so i like to just keep stunning them.
+- if you have ambrosia, a max health upgrade, and a heart mage, you can do the [heartache exploit](https://noita.wiki.gg/wiki/Haavoittajamestari#Heartache_Exploit).
+- to the left is the dragoncave, with the dragon, the easiest boss in the game. the catch is that its bite deals 2000 damage *per second*, which will basically one shot you.
+  - it drops a tier 6 non-shuffle wand (equivalent to wands found in the Temple of the Art), and a random projectile orbit spell, and a max health upgrade.
+  - melee immunity makes his bite harmless
+
+### the vault
+- hissi base but even more dangerous.
+- watch out for plasma
+
+### temple of the art
+- watch out for the crystals. especiall the red (earthquake) and green (cursed rock) ones.
+- watch out for the Glowing creep / Hohtava hyypiö. it retialiates for every projectile you shoot at it, but it can't attack you if you don't attack. obviously do not use rapid fire wands against it. my preferred way to kill it is the tablet.
+- watch out for lava when you're teleporting
 
 ---
 

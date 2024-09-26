@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: internet cohost
+tags: personal
 ---
 
 *I heard someone calling me from outside the car. so I opened the car door.*
