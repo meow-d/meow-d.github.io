@@ -122,13 +122,14 @@ ul {
   padding-left: 1.5em;
 }
 
-/* Comments */
-#comments {
-  margin-top: 1.5em;
+blockquote {
+  border-left: 2px solid var(--gray-text);
+  padding-left: 1em;
+  margin-left: 0;
 }
 
-#comments>h2 {
-  margin-top: 0;
+audio {
+  width: 100%;
 }
 
 /* Hyperlinks*/
@@ -153,6 +154,17 @@ a:hover {
 a:active {
   color: #ffffffbb;
 }
+
+
+/* Comments */
+#comments {
+  margin-top: 1.5em;
+}
+
+#comments>h2 {
+  margin-top: 0;
+}
+
 
 /* Selection */
 ::selection {
