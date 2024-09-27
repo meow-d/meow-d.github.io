@@ -1,13 +1,15 @@
 /* Variables */
 @media (orientation: portrait) {
   :root {
-    --body-padding: 5vw;
+    --body-padding: 3vw;
+    --main-padding: 1em;
   }
 }
 
 @media (orientation: landscape) {
   :root {
     --body-padding: 5vh;
+    --main-padding: 1.5em;
   }
 }
 
@@ -44,7 +46,7 @@ body {
 main,
 #comments {
   margin: 0 auto;
-  padding: 1.5em;
+  padding: var(--main-padding);
   max-width: 38em;
 
   border-radius: 20px;
