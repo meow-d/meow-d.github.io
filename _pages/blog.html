@@ -7,7 +7,7 @@ title: Blog
 
 <ul class="posts">
   {% for post in site.posts %}
-  <section class="post-item">
+  <article class="post-item">
 
     <a href="{{ post.url }}">
       <h3>
@@ -24,6 +24,6 @@ title: Blog
       {% endfor %}
     </span>
 
-  </section>
+  </article>
   {% endfor %}
 </ul>
