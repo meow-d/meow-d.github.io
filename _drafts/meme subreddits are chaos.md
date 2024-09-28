@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: personal
+tags: personal lgbtq
 ---
 
 <details>

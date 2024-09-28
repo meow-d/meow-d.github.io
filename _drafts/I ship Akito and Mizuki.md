@@ -1,7 +1,10 @@
 ---
 layout: post
 tags: project-sekai
+title: I ship Akito and Mizuki
 ---
+
+![The "I'll ask lil bro" card](/assets/images/post-images/Mizuaki-2.png)
 
 I ship Akito and Mizuki solely to piss off Ena. Not Ena fans (I love them) (I am one of them), but Ena herself.
 
