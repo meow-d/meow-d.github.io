@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: personal
+title: An actual encounter I had
 ---
 
 *I heard someone calling me from outside the car. so I opened the car door.*
