@@ -36,4 +36,4 @@ lastly, pls listen to this Porter Robinson song. it's really good and thematical
 
 ---
 
-<!-- [Cohost crosspost link](tba) -->
+[Cohost crosspost link](https://cohost.org/meow-d/post/7867321-blog-link-https)
