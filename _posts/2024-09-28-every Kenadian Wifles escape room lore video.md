@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: Kenadian
+title: Every Kenadian-Wifles escape room lore video
 ---
 
 "what kind of loser actually cares about Kenadian lore?" i do. i'm the loser. sorry for being cringe.
