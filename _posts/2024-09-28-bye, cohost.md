@@ -30,7 +30,7 @@ speaking of the future - over the past few weeks, i realised you can't just Repl
 
 at the end of the day, it really doesn't matter. most social media relationships are fleeting anyways. i was following everyone at any platform possible as an attempt to preserve something, then fall out of love on my own organically, instead of being dictated by Cohost's shut down. but i've already partially failed at this, i can't really keep up with every single platform. BUT i've preserved a few things, which it's better than nothing, i guess.
 
-lastly, pls listen to this Porter Robinson song.
+lastly, pls listen to this Porter Robinson song. it's really good and thematically fitting here i promise.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3y1gPtOD1N8?si=8rvkZvImwkLGxcoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
