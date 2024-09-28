@@ -3,16 +3,20 @@ layout: default
 permalink: pretty
 ---
 
-<h1>{{ page.title }}</h1>
-<section>
-  <span class="post-date"> {{ page.date | date_to_string }} </span> ·
-  <span class="post-tags">
-    {% for tag in page.tags %}
-    <a href="/tags#{{ tag }}">#{{ tag }}</a>
-    {% endfor %}
-  </span>
-</section>
+<article class="h-entry">
+  <h1 class="p-name">{{ page.title }}</h1>
+  <section>
+    <span class="post-date dt-published" datetime="{{ page.date | date: " %Y-%m-%d %H:%M:%S" }}">
+      {{ page.date | date_to_string }} </span> ·
+      <span class="p-author h-card">meow_d</span> ·
+      <span class="post-tags">
+      {% for tag in page.tags %}
+      <a class="p-category" href="/tags#{{ tag }}">#{{ tag }}</a>
+      {% endfor %}
+    </span>
+  </section>
 
-<section>
-  {{ content }}
-</section>
+  <section class="e-content">
+    {{ content }}
+  </section>
+</article>
