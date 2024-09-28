@@ -75,14 +75,9 @@ main,
   font-size: 1.1rem;
 }
 
-.post-date {
-  color: var(--gray-text);
-}
-
-.post-tags {
-  color: var(--gray-text);
-}
-
+.post-info,
+.post-date,
+.post-tags,
 .post-tags a:link,
 .post-tags a:visited {
   color: var(--gray-text);
@@ -129,6 +124,10 @@ blockquote {
 }
 
 audio {
+  width: 100%;
+}
+
+iframe {
   width: 100%;
 }
 
