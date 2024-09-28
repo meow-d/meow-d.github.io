@@ -46,6 +46,6 @@ strangely, this video was taken down, but not the first one.
 thank god she did not make this video public.
 
 ## my take
-my take is that she genuinely thought it was funny, then realise she fucked up. in the Patreon response video, you can see her trying to cope it. she may or may not have come up with the parasocial relationship commentary beforehand, but it's greatly helping her cope.
+my take is that she genuinely thought it was funny, then realise she fucked up. in the Patreon response video, you can see her trying to cope with it. she may or may not have come up with the parasocial relationship commentary beforehand, but it's greatly helping her cope.
 
 if there are any updates i missed feel free to comment. cause i'm not researching this ever again.

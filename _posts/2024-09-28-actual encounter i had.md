@@ -7,7 +7,7 @@ tags: personal
 
 *that guy told me something about congratulations you're lucky*
 
-*I think he told me to talk through the car window instead, so I did that*
+*I think he told me to talk through the car window instead, so I closed a door to open a window*
 
 "young man, you're lucky, you're blessed with good luck, do you know why?"
 
