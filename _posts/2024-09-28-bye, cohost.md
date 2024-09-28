@@ -28,7 +28,7 @@ it's not like Cohost changed my life or anything. my life would have been the sa
 
 speaking of the future - over the past few weeks, i realised you can't just Replicate Cohost. you can't recreate the exact same feed on some other social since everyone uses different socials, while some people just aren't on anywhere else (how did these people even discover Cohost?) (Bluesky seems to be the most popular place to migrate to). don't get me started on the lack of long form posting on most places, companies being weird about adult creators, etc. and how are you supposed to get in touch with people with discord DMs?? All this talk is making me feel sad.
 
-at the end of the day, it really doesn't matter. most social media relationships are fleeting anyway. i was following everyone at any platform possible as an attempt to preserve something, then fall out of love on my own, organically. but i've already partially failed at this. i can't really keep up with every single platform. but i've preserved a few things, which it's better than nothing, i guess.
+at the end of the day, it really doesn't matter. most social media relationships are fleeting anyway. i was following everyone at any platform possible as an attempt to preserve something, then fall out of love on my own, organically. but i've already partially failed at this. i can't really keep up with every single platform. BUT i've preserved a few things. better than nothing, i guess.
 
 lastly, pls listen to this Porter Robinson song. it's really good and thematically fitting here i promise.
 
