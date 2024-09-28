@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: anime cohost-archive
+tags: anime
 ---
 
 the last episode of Zom 100 ended in a cliffhanger, teasing an evil version of the main cast, even with a similar "100 things to do before i die" notebook. after a very long break, it recently came to drop its 3-episode finale, and it comfirmed my fears about the cliffhanger:

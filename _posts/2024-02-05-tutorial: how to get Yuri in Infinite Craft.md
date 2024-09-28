@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: internet yuri cohost-archive
+tags: internet yuri
 ---
 
 #### 1. get hentai

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: css internet cohost-archive
+tags: css internet
 ---
 
 Twitter is terrifyingly addicting - it's super easy to click on the home page and get stuck in the algorithm for hours. An easy solution was to just not have an account, but thanks to Elon you need an account to see anything on the site. Nitter worked for while but was eventually shut down.

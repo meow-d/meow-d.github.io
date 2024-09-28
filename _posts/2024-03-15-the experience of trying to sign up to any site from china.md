@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: internet cohost-archive
+tags: internet
 ---
 
 - "to perform {basic function}, you MUST have an account AND our APP"
