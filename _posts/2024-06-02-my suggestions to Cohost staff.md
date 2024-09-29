@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: cohost shitpost
+tags: cohost-meta shitpost
 ---
 
 - we're currently lagging behind other social media. we should be able to see the a profile's follower count and more...
