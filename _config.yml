@@ -1,8 +1,10 @@
 layout: default
 
-include: ['_pages']
+include: ['_pages', '_secret']
 
 collections:
   pages:
     output: true
     permalink: /:path
+  secret:
+    output: true
