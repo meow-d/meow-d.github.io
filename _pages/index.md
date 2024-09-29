@@ -13,7 +13,7 @@ check out [my blog](/blog) where i write stuff
 ## 🚫 DNIs
 - none.
 - have basic human decency
-  - tbh this is pointless, cause i don't think a racist will see and go "omq i'm racist i'm going to not interact with them".
+  - isn't this pointless? i wish racists would see and go "omq i'm racist i'm going to not interact with them", but if they were that nice they wouldn't be racists in the first place.
 
 ## ❤️ Likes (changes over time, so this is probably outdated)
 - Manga
