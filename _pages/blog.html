@@ -7,17 +7,17 @@ title: Blog
 
 <h2>Pinned</h2>
 {% for post in site.posts %}
-{% if post.pinned %}
-{% include post-item.html %}
-{% endif %}
+  {% if post.pinned %}
+    {% include post-item.html %}
+  {% endif %}
 {% endfor %}
 
 <h2>Posts by date</h2>
 <ul class="posts">
 
   {% for post in site.posts %}
-  {% unless post.pinned %}
-  {% include post-item.html %}
-  {% endunless %}
+    {% unless post.pinned %}
+      {% include post-item.html %}
+    {% endunless %}
   {% endfor %}
 </ul>
