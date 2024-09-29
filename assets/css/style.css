@@ -1,15 +1,13 @@
 /* Variables */
-@media (orientation: portrait) {
+:root {
+  --body-padding: 5vh;
+  --main-padding: 1.5em;
+}
+
+@media screen and (max-width: calc(38rem)) {
   :root {
     --body-padding: 3vw;
     --main-padding: 1em;
-  }
-}
-
-@media (orientation: landscape) {
-  :root {
-    --body-padding: 5vh;
-    --main-padding: 1.5em;
   }
 }
 
@@ -30,7 +28,7 @@ body {
   line-height: 1.6em;
 
   /* Padding, margin and stuff */
-  padding: var(--body-padding);
+  padding: 5vh var(--body-padding);
   margin: 0;
   overflow: overlay;
 
@@ -47,7 +45,7 @@ main,
 #comments {
   margin: 0 auto;
   padding: var(--main-padding);
-  max-width: 38em;
+  max-width: 38rem;
 
   border-radius: 20px;
   backdrop-filter: blur(20px);
