@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: css
+tags: computers
 ---
 
 whatsapp's organization features are so lackluster. well business accounts get to tag their chats, but the rest of us will have to stick to the communities feature, which is so bad that i don't know where to start. it's like a mix of discord and whatsapp with the worst of both worlds.

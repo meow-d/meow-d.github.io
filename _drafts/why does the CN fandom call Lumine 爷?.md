@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: genshin
+tags: anime-manga gaming
 ---
 
 Do you know people call Lumine 爷 in the CN fandom? no, not as in grandpa, but as in 少爷 (young master).

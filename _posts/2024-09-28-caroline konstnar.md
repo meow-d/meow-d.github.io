@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: internet
+title: on Caroline Konstnar
 ---
 
 (i'm not qualified to speak on the topic (and neither is she))

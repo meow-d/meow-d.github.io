@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: personal anime jellyfish-cant-swim-in-the-night
-title: "Marshmello Can't Swim in the Night"
+tags: personal anime-manga
+title: "Marshmello Can't Swim In The Night"
 ---
 
 ![Mahiru covering up her own name in her graffiti, as her friends make fun of it](/assets/images/post-images/mahiru.webp)
@@ -14,7 +14,7 @@ obviously, your average Sekolah Jenis Kebangsaan Cina kids don't understand Mars
 
 he, and i, never brought up Marshmello ever again.
 
-my point is, _____ is just like Mahiru; but instead of jellyfish, it's hit American electronic music producer and DJ Marshmello. and also kids are fucking ruthless and will tear apart everything if they arbitrarily decide it's not cool.
+my point is, _____ is just like Mahiru from Jellyfish Can't Swim In The Night; but instead of jellyfish, it's hit American electronic music producer and DJ Marshmello. and also kids are fucking ruthless and will tear apart everything if they arbitrarily decide it's not cool.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: cohost-meta personal
+tags: cohost personal
 title: eggbug is kil
 ---
 

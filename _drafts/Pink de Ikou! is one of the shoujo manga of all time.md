@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: personal manga
+tags: personal anime-manga
 ---
 
 ![I took a photo of a panel where: the FMC was telling her crush "如、如果你對女生沒興趣，我可以從今天起再也不當女生！要是你對男生有興趣，我就開始當男生！" and the everyone watching is shocked 😦 ofc](/assets/images/post-images/pink-de-ikou.jpg)

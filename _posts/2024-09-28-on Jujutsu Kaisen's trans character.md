@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: manga jujutsu-kaisen lgbtq
+tags: anime-manga lgbtq
 title: on Jujutsu Kaisen's trans character
 ---
 

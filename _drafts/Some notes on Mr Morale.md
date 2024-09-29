@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: internet cohost lgbtq
+tags: lgbtq music
 title: Some notes on Mr Morale
 ---
 

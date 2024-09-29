@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: meta
+tags: site-meta
 ---
 
 [Feed URL](https://meow-d.github.io/feed.xml).

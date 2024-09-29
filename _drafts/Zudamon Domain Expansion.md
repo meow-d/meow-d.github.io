@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: voicevox
+tags: anime-manga music-production
 ---
 
 

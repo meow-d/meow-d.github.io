@@ -1,6 +1,6 @@
 ---
 layout: post
-tags:
+tags: computers
 title: How to save a whiteboard from Whiteboardfox.com as a high-quality image
 ---
 

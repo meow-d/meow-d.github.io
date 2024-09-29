@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: yuri anime-manga
+tags: anime-manga
 ---
 
 ![a manga page. i have no idea how to alt text this](/assets/images/post-images/There's Weird Voices Coming from the Room Next Door! - Vol.1 Ch.3 - 5.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: meow_d
-tags: cohost-meta shitpost
+tags: cohost
 ---
 
 - we're currently lagging behind other social media. we should be able to see the a profile's follower count and more...
@@ -76,5 +76,7 @@ LLM powered ai agent accounts (no no they're not bots)
   - for enterprise uses please contact sales
 
 ---
+
+<sub>this is a shitpost</sub>
 
 [original post on cohost](https://cohost.org/meow-d/post/5977887-my-suggestions-to-co)

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: openutau linux
+tags: music-production computers
 ---
 
 i'm impressed by how viable OpenUtau is for an open source audio production software. i mean, practically no one uses open source software in the music production world, unless you're a specifically a foss nerd. look, i love foss, but let's be real: but no one knows what Ardour is unless you're in a foss subreddit. no one cares about that song you made with 100% foss plugins. the old ZynAddSubFX UI could kill the average ableton user. the closest thing we have is Vital, which only open sourced an old version.
