@@ -2,6 +2,7 @@
 layout: post
 tags: cohost personal
 title: eggbug is kil
+pinned: true
 ---
 
 i saw a post that said something like: "no matter how you feel about the site itself, don't wish for twitter to die. people have relationships/connections with people there, some even have jobs that depend on the site. losing twitter would mean losing their friends, having the rebuilt connections again." this is how i feel about Cohost.

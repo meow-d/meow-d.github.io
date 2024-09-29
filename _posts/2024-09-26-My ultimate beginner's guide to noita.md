@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: gaming
+pinned: true
 ---
 
 the basic gameplay loop of Noita is explore, holy mountain, explore, holy mointain...
