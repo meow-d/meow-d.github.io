@@ -6,3 +6,7 @@ collections:
     permalink: /:path
   secret:
     output: true
+
+url: "https://meow-d.github.io/"
+plugins:
+  - jekyll-sitemap
