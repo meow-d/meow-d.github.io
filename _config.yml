@@ -1,7 +1,5 @@
 layout: default
 
-include: ['_pages', '_secret']
-
 collections:
   pages:
     output: true
