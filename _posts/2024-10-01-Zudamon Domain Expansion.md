@@ -20,4 +20,8 @@ lyrics:
 
 ---
 
+i don't know japanese. i installed voicevox for some reason and this is the only thing i did with it. go watch jujutsu kaisen.
+
+---
+
 [Original post from Cohost](https://cohost.org/meow-d/post/5713812-just-installed-voice)
