@@ -7,13 +7,11 @@ pinned: true
 
 there's only one other guy talking about the manga on Cohost. it's mostly negative, talking about how trash it is. they're not wrong, but I don't think they gave it enough credit.
 
-when you read gender manga you usually prepare for the worst - fetishization, internalised homophobia+transphobic, making fun of people who don't pass, fatshaming, etc. you wouldn't trust the author to actually advocate for trans rights. **​this is the key difference between Tensei Pandemic and everything else**. Tensei Pandemic is proud to be a LGBTQ manga, and it's super up-front about it.
-
-gender manga are usually painfully heterosexual. you get two possible scenarios:
+when you read gender manga you usually prepare for the worst - fetishization, internalised homophobia+transphobic, making fun of people who don't pass, fatshaming, etc. you wouldn't trust the author to actually advocate for trans rights. they're also usually painfully heterosexual, you get two possible scenarios:
 - "b-but we're both guys" "it's fine, you're crossdressing as a girl', and I'm a man, therefore making it heterosexual and fine™️"
 - "b-but we're both girls" "actually, I'm an ex guy. therefore making it heterosexual and fine™️"
 
-watching queer people be in denial is entertaining, but turns into sad when it's never resolved. the entire genre is filled with unresolved internalised homophobia. Tensei Pandemic is 1000% a yuri manga.
+watching queer people be in denial is entertaining, but turns into sad when it's never resolved. the entire genre is filled with unresolved internalised homophobia. **​this is the key difference between Tensei Pandemic and everything else**. Tensei Pandemic is proud to be a LGBTQ (especially yuri) manga, and it's super up-front about it.
 
 don't get me wrong, Tensei Pandemic is still ecchi trash. everyone gets naked nearly every chapter. if you're looking for any serious deep dive into gender, this is Not It. BUT, the combination of sexualisation and the pride of being trans and yuri reminds me of... horny internet transbians. if that sounds like you, you'll definitely like this.
 
