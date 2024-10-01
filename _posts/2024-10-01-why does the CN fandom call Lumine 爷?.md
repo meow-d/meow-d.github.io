@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime-manga gaming
-title: why does the CN Genshin fandom call Lumine '爷'?
+title: Why does the CN Genshin fandom call Lumine '爷'?
 ---
 
 Do you know people call Lumine 爷 in the CN fandom? no, not as in grandpa, but as in 少爷 (young master).
