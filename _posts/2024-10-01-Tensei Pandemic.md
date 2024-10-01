@@ -12,6 +12,7 @@ when you read gender manga you usually prepare for the worst - fetishization, in
 gender manga are usually painfully heterosexual. you get two possible scenarios:
 - "b-but we're both guys" "it's fine, you're crossdressing as a girl', and I'm a man, therefore making it heterosexual and fine™️"
 - "b-but we're both girls" "actually, I'm an ex guy. therefore making it heterosexual and fine™️"
+
 watching queer people be in denial is entertaining, but turns into sad when it's never resolved. the entire genre is filled with unresolved internalised homophobia. Tensei Pandemic is 1000% a yuri manga.
 
 don't get me wrong, Tensei Pandemic is still ecchi trash. everyone gets naked nearly every chapter. if you're looking for any serious deep dive into gender, this is Not It. BUT, the combination of sexualisation and the pride of being trans and yuri reminds me of... horny internet transbians. if that sounds like you, you'll definitely like this.
