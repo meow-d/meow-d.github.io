@@ -1,0 +1,19 @@
+---
+layout: post
+tags: music
+title: Some notes on Porter Robinson's SMILE! :D
+---
+
+like how every Porter era pushes back on the previous era, SMILE! :D pushes back on Nurture's perfect porter robinson. while Nurture is also very personal, it's not honest. it's very coherent and complete. throughout the entire Nurture era, porter has built a "wholesome" impression of himself. to loosely quote porter himself, its gives off an impression that he has figured out a lot in life, a better person than he actually is. SMILE! :D is porter's attempt at moving away from false impression that he has been giving everyone and accepting who he is.
+
+i think `Year Of The Cup` best demonstrates the difference between SMILE and Nurture. in terms of style, it could absolutely fit into Nurture; but everything else is too messy for Nurture. apparently he made this in a single day while he had a cold, and never changed the song as it perfectly changed captured his mental state at the time. it's definitely objectively worse than anything on Nurture, but the writing completely blows Nurture out of the water. SMILE! era Porter could have made Blossom, but Nurture era Porter will never outright admit he was an asshole or talk about his relationship with alcohol during the Worlds era.
+
+in the Worlds era, he used to be notorious for looking down on the EDM scene in general, hating his Spitfire era for being too EDM, and half of Worlds for being too pop. at some point he tweeted out how he's "disowning" his songs except for a select few "canonical" songs. even during of Nurture era, we see porter starting viewing his attitude during the Worlds era as the angsty phase that it is, while accepting more of his past self. like on Second Sky 2022, he played a remix of Clarity, a song he co-wrote with Zedd, but rarely mentions until that point.
+
+it is only fitting that his next album would be a pop album. any artist who moves to pop will inevitably upset fans who follow them for their uniqueness. when i first listened to the album, i too thought the album is nowhere near as good as Worlds and Nurture. back then, every song felt special, beautiful and breathtaking in some way. as a fan, am i okay with Porter making "worse" music? am i okay with Porter making pop songs? am i okay with Porter losing what makes him Porter Robinson to us? am i okay with Porter Robinson being Porter Robinson?
+
+but [porter likes pop](https://www.reddit.com/r/popheads/comments/1efx3sd/comment/lfp803s/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), that's why he's making pop, instead of pretending otherwise. throughout the album, porter talks about clichés, and the lengths everyone goes to pretend they're somehow different. in `Russian Roulette`, he concluded "clichés... are beautiful, because they reflect us, and we are beautiful".
+
+in `Is There Really No Happiness?`, porter talks about nostalgia. he sings about chasing how he once felt, refusing to accept that he'll never feel the same again. as time went on, i realised much of my disappointment is indeed, due to the nostalgia, due to me comparing SMILE! :D to Nurture by Nurture standards. When Nurture first dropped, I was disappointed too, because I liked Worlds because I was tired of the same generic song structures in EDM songs. it took me a while to appreciate Nurture for its beauty and stop comparing it to Worlds. When SMILE! :D first dropped, I was looking for Nurture's beauty, even though it wasn't really going that route. even if it tried, it wouldn't feel the same.
+
+i'm so glad that Fantano is Smilepilled. it made me realise I'm not evaluating the album properly. I echo his thoughts that, in exchange for the beauty and consistency, SMILE! :D makes up for it thought authenticity and its higher peaks.
