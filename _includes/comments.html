@@ -1,19 +1,13 @@
 {% if page.layout == 'post' %}
-  <section id="comments">
-    <h2>Comments</h2>
+<section id="comments">
+  <h2>Comments</h2>
+  <p>unfortunately there are no email notifications here, maybe i'll switch to something else later...</p>
 
-    <div
-      id="cusdis_thread"
-      data-host="https://cusdis-meow-d.vercel.app"
-      data-app-id="7a1b82dd-1c35-4c8a-96ee-86339ee9a0a8"
-      data-page-id="{{ page.id }}"
-      data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
-      data-page-title="{{ page.title }}"></div>
+  <div id="cusdis_thread" data-host="https://cusdis-meow-d.vercel.app"
+    data-app-id="7a1b82dd-1c35-4c8a-96ee-86339ee9a0a8" data-page-id="{{ page.id }}"
+    data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}" data-page-title="{{ page.title }}"></div>
 
-    <script
-      async
-      defer
-      src="/assets/js/cusdis.js"></script>
+  <script async defer src="/assets/js/cusdis.js"></script>
 
-  </section>
+</section>
 {% endif %}
