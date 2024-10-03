@@ -1,5 +1,8 @@
 layout: default
 
+include:
+  - .well-known
+
 collections:
   pages:
     output: true
