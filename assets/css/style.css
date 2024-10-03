@@ -68,10 +68,12 @@ main,
   font-size: 0.9rem;
 }
 
-.post-item a p {
+.post-item a p,
+.post-item a h3 {
   margin-top: 0.7em;
   margin-bottom: 0;
   font-size: 1.1rem;
+  font-weight: bold;
 }
 
 .post-info,
