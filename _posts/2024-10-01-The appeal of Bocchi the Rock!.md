@@ -10,7 +10,7 @@ one of those _oddly specific details_ is bocchi's wildness. whenever someone men
 
 personally, the one that hit hardest is the youth complex thing. you see young people (in media or irl) enjoying youth, falling in love, make friends, etc, then you start wondering what went wrong in your life to end up like this.
 
-Bocchi the rock is walking a thin line between maintianing the fantasy by being loser enough to be relatable, while not being too unrelistic to avoid invoking jelousy from viewers.
+Bocchi the rock is walking a thin line between maintianing the fantasy by being loser enough to be relatable, while not being too unrelistic to avoid invoking jelousy from viewers. It's really good at it, but I can see that fail for some people.
 
 ---
 
