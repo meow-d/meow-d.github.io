@@ -8,7 +8,7 @@ some are more active than others
 
 ## active socials
 - 🐘 [Mastodon](https://mas.to/@meow_d)
-- 🦋 [Bluesky](https://bsky.app/profile/meowd.bsky.social)
+- 🦋 [Bluesky](https://bsky.app/profile/meow-d.github.io)
 
 ## maybe occationially socials
 - 🌐 [the site you're on right now](https://meow-d.github.io/)
