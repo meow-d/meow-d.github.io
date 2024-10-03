@@ -4,7 +4,7 @@ title: Socials
 ---
 
 # Socials and links
-some are more active than others
+nearly all of my socials from the internet. some are more active than others.
 
 ## active socials
 - 🐘 [Mastodon](https://mas.to/@meow_d)

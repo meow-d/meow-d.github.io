@@ -4,6 +4,8 @@ tags: gaming
 pinned: true
 ---
 
+_Every lesson I know about Noita, as an intermediate player, condensed into one post._
+
 the basic gameplay loop of Noita is explore, holy mountain, explore, holy mointain...
 - **exploration**: survive, kill enemies, loot
 - **holy mountain**: heal, refill water, shop for stuff, edit wands, select perks
@@ -19,7 +21,7 @@ one of the most important thing in the game is **water**. water neutralises toxi
 
 treat Noita as a hardcore survival game, as healing is exteremely rare. try to take no damage. you will not suceed, but it'll train you to be as careful as possible.
 
-here's a tip applicable to every roguelite: remember to utilize all the resources you have.
+here's a tip applicable to every roguelite: remember to utilize all the resources you have. when you die, ask "was I really completely helpless?"
 - test out spells that you think are trash, cause they might actually be good.
 - use that bottle of invisiblum that's been sitting around in your inventory.
 - use Ambrosia in difficult situations. it's good enough to completely counter Big Steve.
