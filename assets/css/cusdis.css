@@ -55,6 +55,13 @@ button:active {
     color: var(--gray-text);
 }
 
+blockquote {
+    background-color: transparent;
+    border-left: 2px solid var(--gray-text);
+    padding-left: 1em;
+    margin-left: 0;
+}
+
 /* reply button */
 /* make it look like a link */
 button.font-medium.text-sm.text-gray-500.dark\:bg-transparent.dark\:text-gray-100 {
