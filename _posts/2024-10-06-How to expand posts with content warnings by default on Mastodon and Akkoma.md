@@ -6,7 +6,7 @@ title: How to expand posts with content warnings by default on Mastodon and Akko
 
 ## how
 - Akkoma
-  - Settings> General > Posts Look & Feel > untick Collapse posts with content warnings
+  - Settings > General > Posts Look & Feel > untick Collapse posts with content warnings
 - Mastodon
   - Preferences > Appearance> Sensitive content > tick Always expand posts marked with content warnings
 
