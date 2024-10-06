@@ -1,21 +1,21 @@
 ---
 layout: post
 tags: internet
-title:
+description: one of the tags of all time.
 ---
-
-one of the tags of all time.
 
 _nsfw warning, obviously_
 
+[here's the link](https://archiveofourown.org/tags/Bodily%20Fluids)
+
 ![screenshot of the page](/assets/images/post-images/ao3-body-fluid.png)
 
-[link](https://archiveofourown.org/tags/Bodily%20Fluids)
+one of the tags of all time.
 
 ## highlights
 - Snowballing
-  - [Cosmopolitan has an article about it (of course)](https://www.cosmopolitan.com/sexopedia/a12445875/snowballing/)
   - >A sexual game when after someone has had sperm ejaculated into their mouth they hold it orally rather than spitting or swallowing, then french-kiss with their partner.
+  - [Cosmopolitan has an article about it (of course)](https://www.cosmopolitan.com/sexopedia/a12445875/snowballing/)
   - similar to "gokkun"
     - drinking semen in a container
     - wow the japanese really like semen
