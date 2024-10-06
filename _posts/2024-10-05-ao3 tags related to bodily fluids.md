@@ -10,7 +10,7 @@ _nsfw warning, obviously_
 
 ![screenshot of the page](/assets/images/post-images/ao3-body-fluid.png)
 
-[link](https://archiveofourown.org/tags/Bodily%20Fluids)`
+[link](https://archiveofourown.org/tags/Bodily%20Fluids)
 
 ## highlights
 - Snowballing
