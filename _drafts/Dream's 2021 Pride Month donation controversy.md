@@ -1,17 +1,17 @@
 ---
 layout: post
 tags: internet
-title: What actually happened during Dream's 2021 Pride Month donation controversy?
+title: Dream's 2021 Pride Month donation controversy
 ---
 
 _a bit of research on the situation i've done back in the day, not as complete as i've liked, but i'm not researching further cause i really don't like researching internet drama._
 
-## the story
+## story and spread
 the narrative goes like this: Dream promised to donate all money he earned during his streams in pride month, but did not stream for the month. And then only streamed on the last day after being called out.
 
 as usual, the source are all just random tweets. [this one tweet seems to have significance.](https://web.archive.org/web/20210630171210/https://twitter.com/gunksnorter/status/1410250025746276353), but i'm probably missing a few tweets.
 
-## timeline on what actually happened
+## timeline
 ![](/assets/images/post-images/dream-pride-donation-announcement.png)
 
 - Here's the original promise made on his (now deleted) private account. most fans don't know about it, so all accusations of clout farming fall flat there. I actually had to do some digging for all of this, since the sources that most people have been using are all tweets by random people without any sources. Says a lot about society.
@@ -33,3 +33,5 @@ as usual, the source are all just random tweets. [this one tweet seems to have s
 
 ## conclusion
 the main takeaway is that people can just lie on the internet. and most people will just believe it. and we all have believed in a lot of lies. i guess the only thing you can feasibly do is never share something unless you're absolutely sure it's true?
+
+"why are you defending Dream you Dream Stan" you have no conviction in your beliefs, you feel the need to exaggerate and lie to get people behind them. I don't care how you feel about Dream, I'm just correcting misinformation. there are a billion legitimate reasons to hate him, pick one of them next time.
