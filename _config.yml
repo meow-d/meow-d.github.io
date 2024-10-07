@@ -1,5 +1,3 @@
-layout: default
-
 include:
   - .well-known
 
@@ -9,6 +7,17 @@ collections:
     permalink: /:path
   secret:
     output: true
+
+defaults:
+  - scope:
+      path: "_secret/"
+    values:
+      layout: default
+      sitemap: false
+  - scope:
+      path: "_posts/"
+    values:
+      layout: post
 
 url: "https://meow-d.github.io"
 plugins:
