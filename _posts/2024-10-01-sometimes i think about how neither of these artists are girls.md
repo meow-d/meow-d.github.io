@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: music
 description: Moe Shop and Smail's house my beloved.
 ---

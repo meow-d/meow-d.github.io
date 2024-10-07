@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: lgbtq music
 title: Some notes on Mr Morale
 ---

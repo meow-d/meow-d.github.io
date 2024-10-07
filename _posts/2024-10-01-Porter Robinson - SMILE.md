@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: music
 title: Some notes on Porter Robinson's SMILE! :D
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: linux productivity
 title: How I navigate my school documents using the command line (and why you might want to too)
 ---

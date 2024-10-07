@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: anime-manga
 title: Tensei Pandemic is unironically good
 pinned: true

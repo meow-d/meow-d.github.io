@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: anime-manga gaming
 title: I ship Akito and Mizuki
 ---

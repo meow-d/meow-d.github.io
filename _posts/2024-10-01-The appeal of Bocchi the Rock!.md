@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: anime-manga
 title: The appeal of Bocchi the Rock! is the oddly specific details
 ---

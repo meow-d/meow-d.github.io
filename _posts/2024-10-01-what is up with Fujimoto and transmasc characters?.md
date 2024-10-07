@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: anime-manga lgbtq
 title: What is up with Tatsuki Fujimoto and transmasc characters?
 ---

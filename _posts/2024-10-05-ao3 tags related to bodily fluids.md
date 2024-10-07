@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: internet
 description: one of the tags of all time.
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: internet
 title: on Caroline Konstnar
 ---

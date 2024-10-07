@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: internet gaming
 title: Every Kenadian-Wifles escape room lore video
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: anime-manga gaming
 title: Why does the CN Genshin fandom call Lumine '爷'?
 ---

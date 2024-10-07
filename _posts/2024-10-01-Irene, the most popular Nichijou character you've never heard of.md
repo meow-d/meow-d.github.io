@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: anime-manga
 title: Irene, the most popular Nichijou character you've never heard of
 ---

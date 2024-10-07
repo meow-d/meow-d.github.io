@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: personal anime-manga
 title: "Marshmello Can't Swim In The Night"
 ---

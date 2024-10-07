@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: music-production computers
 ---
 

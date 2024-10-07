@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: personal
 title: An actual encounter I had
 ---

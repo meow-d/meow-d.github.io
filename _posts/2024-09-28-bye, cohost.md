@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: cohost personal
 title: eggbug is kil
 pinned: true

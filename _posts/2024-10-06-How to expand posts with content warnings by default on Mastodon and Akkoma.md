@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: internet
 title: How to expand posts with content warnings by default on Mastodon and Akkoma
 ---
