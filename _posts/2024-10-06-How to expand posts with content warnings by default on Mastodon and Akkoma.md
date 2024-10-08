@@ -19,6 +19,6 @@ I was a Cohost user. apparnetly the Cohost staff and most of the big users have 
 
 changing Mastodon's CW system would obviously require a lot of work, _if_ they're even willing to change.
 
-i think the simplest possible solution is to just expand CWs by default, with sensitive images still hidden under a click. most of the criticisms is just the lack of CWs that don't hide your post by default - this is just sacrificing the standard CWs for optional CWs. if you're sensitive to a certain topic, you should already have those filtered anyways. i guess the other catch is that it's impossible to recreate Cohost's tag muffling with this.
+i think the simplest possible solution is to just expand CWs by default, with sensitive images still hidden under a click. most of the criticisms is just the lack of CWs that don't hide your post by default - this is just sacrificing the standard CWs for optional CWs. if you're sensitive to a certain topic, you should already have those filtered anyways.
 
 obviously, doing that to all existing Mastodon users is a bad idea, but still, you can solve the whole CW discourse (albeit just for for yourself) with just a single click.
