@@ -1,4 +1,4 @@
-I kept my promise. I've created the cringe generator 9000.
+I kept my promise. I've created the cringe generator.
 
 here's link of some AI slop it generated.
 
