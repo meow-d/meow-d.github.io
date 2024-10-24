@@ -35,6 +35,6 @@ as usual, the source are all just random tweets. [this one tweet seems to have s
 ## conclusion
 the main takeaway is that people can just lie on the internet. and most people will just believe it. and we all have believed in a lot of lies. i guess the only thing you can feasibly do is never share something unless you're absolutely sure it's true?
 
-"why are you defending Dream you Dream Stan" you have no conviction in your beliefs, you feel the need to exaggerate and lie to get people behind them. I don't care how you feel about Dream, I'm just correcting misinformation.
+to the kind of people who says "why are you defending Dream you Dream Stan": you have no conviction in your beliefs, you feel the need to exaggerate and lie to get people behind them. I don't care how you feel about Dream, I'm just correcting misinformation.
 
 there are a billion legitimate reasons to hate Dream, pick one of them next time.
