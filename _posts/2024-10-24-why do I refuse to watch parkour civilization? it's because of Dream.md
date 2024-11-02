@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: internet
-title: Why do I refused to watch parkour civilization? it's because of Dream.
+title: Why do I refuse to watch parkour civilization? it's because of Dream.
 ---
 
 you know why I was a Dream stan? because he was cringe and free. that guy just uploads cringy 40-minute long videos of him and his friends having fun, no one hated him for being cringe. everyone roots for that guy everytime he's mentioned.
