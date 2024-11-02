@@ -12,4 +12,4 @@ parkour civilization is a ticking time bomb. maybe there will be some controvers
 
 ---
 
-for the record, i never fully believed the groomer thing in the first place, i was just cautious and waiting for evidence. how that [his video](https://www.youtube.com/watch?v=18jB0zQysgg) is up, the consensus is that he really didn't do anything.
+for the record, i never fully believed the groomer thing in the first place, i was just cautious and waiting for evidence. now that [his video](https://www.youtube.com/watch?v=18jB0zQysgg) is up, the consensus is that he really didn't do anything.
