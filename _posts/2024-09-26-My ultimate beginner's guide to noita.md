@@ -141,7 +141,7 @@ Once you kill 3 Steves, Skoude will spawn in his place. Skoude is much, much, mu
   - to tablet kick, kick right _before_ throwing the tablet.
   - imo an essential skill to learn.
   - it's a nearly guarenteed way to oneshot an enemy.
-- tablet kicking comes with a risk. use the tablet in risk free situations, or when it's less risky to tablet kick than to fight a strong enemy. don't risk your health to retrieve a thrown tablet.
+- tablet kicking requires skill so it comes with a risk. use the tablet in risk free situations, or when it's less risky to tablet kick than to fight a strong enemy. don't risk your health to retrieve a thrown tablet.
 - tablet throwing always count as trick/accident kills, giving you double gold. tablet kicking is a bit inconsistent for some reason.
 
 - frozen enemies is exteremely vulnerable to physical damage, like kicking or tentacles. it's so strong that most enemies just get one-shot. very useful for dealing with Steve.
