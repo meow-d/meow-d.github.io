@@ -8,7 +8,7 @@ I'm **meow_d**. self proclaimed aspiring catgirl, back in the closet.
 
 pronouns: don't care, any
 
-check out [my blog](/blog) where i write stuff
+check out [my blog](/blog), it's where i put my personal notes on the not-so-personal internet
 
 ## 🚫 DNIs
 - none.
