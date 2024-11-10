@@ -27,10 +27,10 @@ nearly all of my socials from the internet. some are more active than others.
 - 🟢 [Spotify](https://open.spotify.com/user/g12snpu7584p6w3x9mz3mtnpc)
 - 🎵 [Last.fm](https://www.last.fm/user/meeeeeeooow)
 - 🎮 [Backloggd](https://backloggd.com/u/meow_d/)
+- 🤠 [Pronouns.page](https://en.pronouns.page/@meow_d)
 
 ## inactive socials
 - 🐞🪦🥀 [Cohost](https://cohost.org/meow-d)
 - 🔥🔥🐦🔥🔥 [Twitter](https://twitter.com/meow_dddaswe)
 - 🟥 [Raddle](https://raddle.me/user/meow_d)
 - 🐨 [Lemmy](https://lemmy.blahaj.zone/u/meow_d)
-- 🤠 [Pronouns.page](https://en.pronouns.page/@meow_d)
