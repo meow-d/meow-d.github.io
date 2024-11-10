@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Hello!
-I'm **meow_d**. self proclaimed aspiring catgirl, still in the closet, but i wanna be pretty again.
+I'm **meow_d**. self proclaimed aspiring catgirl, still in the closet, but i wanna be pretty again
 
 pronouns: don't care, any
 
