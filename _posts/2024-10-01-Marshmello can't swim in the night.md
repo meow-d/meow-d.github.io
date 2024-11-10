@@ -1,6 +1,7 @@
 ---
 tags: personal anime-manga
 title: "Marshmello Can't Swim In The Night"
+pinned: True
 ---
 
 ![Mahiru covering up her own name in her graffiti, as her friends make fun of it](/assets/images/post-images/mahiru.webp)
