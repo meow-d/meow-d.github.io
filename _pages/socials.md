@@ -14,7 +14,6 @@ nearly all of my socials from the internet. some are more active than others.
 - 🌐 [the site you're on right now](https://meow-d.github.io/)
   - ⚛️ [Atom feed!](https://meow-d.github.io/feed.xml)
 - 🐸 [Tumblr](https://www.tumblr.com/blog/meow-d)
-
 - 🛌🏻 [Pillowfort](https://www.pillowfort.social/meow_d)
 - 💤 [Dreamwidth](https://meow-d.dreamwidth.org/)
 - 🕸️ [Website League](https://akkoma.questingbeast.fyi/meow_d)
