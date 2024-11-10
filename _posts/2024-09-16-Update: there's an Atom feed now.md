@@ -1,7 +1,6 @@
 ---
 author: meow_d
 tags: site-meta
-pinned: true
 ---
 
 [Feed URL](https://meow-d.github.io/feed.xml).
