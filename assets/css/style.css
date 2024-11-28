@@ -290,3 +290,22 @@ footer {
     animation: none;
   }
 }
+
+/* vibes images */
+#vibes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-rows: repeat(auto-fit, 260px);
+  grid-auto-flow: dense;
+  grid-gap: 0.3rem;
+  align-items: center;
+  justify-items: center
+}
+
+#vibes>img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin: auto;
+  border-radius: 10px;
+}

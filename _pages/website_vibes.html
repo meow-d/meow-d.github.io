@@ -1,0 +1,17 @@
+---
+layout: default
+title: Vibes images
+---
+
+<p>
+  inspired by:
+  <a href="https://girl.surgery/website_vibes/">https://girl.surgery/website_vibes/</a>
+</p>
+
+<section id="vibes">
+  {% for image in site.static_files %}
+    {% if image.path contains 'images/vibes' %}
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+  {% endfor %}
+</section>
