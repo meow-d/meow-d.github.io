@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vibes images
+title: vibes images
 ---
 
 <p>
@@ -11,7 +11,7 @@ title: Vibes images
 <section id="vibes">
   {% for image in site.static_files %}
     {% if image.path contains 'images/vibes' %}
-      <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="image" loading="lazy"/>
     {% endif %}
   {% endfor %}
 </section>
