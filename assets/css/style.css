@@ -274,3 +274,19 @@ footer {
   image-rendering: pixelated;
   border-radius: 1px;
 }
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  animation: spin 0.5s linear infinite;
+}
+
+@media (prefers-reduced-motion) {
+  .spin {
+    animation: none;
+  }
+}
