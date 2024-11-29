@@ -275,6 +275,20 @@ footer {
   border-radius: 1px;
 }
 
+.buttons a img:hover {
+  filter: brightness(1.1);
+  box-shadow: 0 0 10px 0px #ffffff;
+  transform: scale(1.1);
+  transition: all 0.2s;
+}
+
+.buttons a img:active {
+  filter: brightness(0.9);
+  box-shadow: 0 0 10px 0px #000000;
+  transform: scale(0.9);
+  transition: all 0.01s;
+}
+
 @keyframes spin {
   to {
     transform: rotate(360deg);
