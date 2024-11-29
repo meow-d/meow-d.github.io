@@ -6,19 +6,17 @@ title: vibes images
 <h1>random photo dump with no quality control or anything!! contains nsfw stuff!!</h1>
 <p>
   inspired by
-  <a href="https://girl.surgery/website_vibes/">https://girl.surgery/website_vibes/</a>
+  <a href="https://girl.surgery/website_vibes/">https://girl.surgery/website_vibes/</a> and
+  <a href="https://zoey-on-github.github.io/yuri.html">julie's yuri collection</a>
 </p>
 
 <details>
   <summary>click to open!!!!!</summary>
   <section id="vibes">
     {% for image in site.static_files %}
-      {% if image.path contains 'images/vibes' %}
-        <img
-          src="{{ site.baseurl }}{{ image.path }}"
-          alt="image"
-          loading="lazy" />
-      {% endif %}
+    {% if image.path contains 'images/vibes' %}
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="image" loading="lazy" />
+    {% endif %}
     {% endfor %}
   </section>
 </details>
