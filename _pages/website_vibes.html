@@ -3,18 +3,22 @@ layout: default
 title: vibes images
 ---
 
-<section>
-  <h1>random photo dump with no quality control or anything!! contains nsfw stuff!!</h1>
-  <p>
-    inspired by
-    <a href="https://girl.surgery/website_vibes/">https://girl.surgery/website_vibes/</a>
-  </p>
-</section>
+<h1>random photo dump with no quality control or anything!! contains nsfw stuff!!</h1>
+<p>
+  inspired by
+  <a href="https://girl.surgery/website_vibes/">https://girl.surgery/website_vibes/</a>
+</p>
 
-<section id="vibes">
-  {% for image in site.static_files %}
-    {% if image.path contains 'images/vibes' %}
-      <img src="{{ site.baseurl }}{{ image.path }}" alt="image" loading="lazy"/>
-    {% endif %}
-  {% endfor %}
-</section>
+<details>
+  <summary>click to open!!!!!</summary>
+  <section id="vibes">
+    {% for image in site.static_files %}
+      {% if image.path contains 'images/vibes' %}
+        <img
+          src="{{ site.baseurl }}{{ image.path }}"
+          alt="image"
+          loading="lazy" />
+      {% endif %}
+    {% endfor %}
+  </section>
+</details>
