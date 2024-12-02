@@ -10,8 +10,8 @@ pronouns: don't care, any
 
 you know what, after originally making this site a carrd.co parody, i'm gonna admit it. i'm a fandom girl now. this is now a proper fandom carrd-like page. i might be cringe now but i'm free.
 
-## fandoms
-- urmmmmmmmmmmmmm
+## besties
+see [blogroll#mutuals](/blogroll#mutuals)
 
 ## kins
 - lumine genshin
