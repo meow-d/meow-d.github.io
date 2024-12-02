@@ -1,8 +1,0 @@
----
-layout: null
-sitemap: false
----
-
-User-agent: *
-Disallow:
-sitemap: {{site.url}}/sitemap.xml
