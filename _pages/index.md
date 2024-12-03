@@ -29,4 +29,4 @@ see [blogroll#mutuals](/blogroll#mutuals)
 - and.... you?
 
 ## testimonials
-- "faggot" - from multiple people
+- "faggot" - from three different people now
