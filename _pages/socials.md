@@ -7,8 +7,11 @@ title: Socials
 nearly all of my socials from the internet. some are more active than others.
 
 ## active socials
-- 🐘 [Mastodon](https://mas.to/@meow_d)
+- 🐘 [Fedi](https://blahaj.zone/@meow_d)
 - 🦋 [Bluesky](https://bsky.app/profile/meow-d.github.io)
+
+## dms
+- Discord: meow_d_.6233
 
 ## maybe occationially socials
 - 🌐 [the site you're on right now](https://meow-d.github.io/)
