@@ -9,50 +9,33 @@ description: Links to people I know, and people I don't know.
 <section>
     <h2 id="mutuals">Mutuals, past or present</h2>
     <p>if you're a mutual and wanna be here just tell me. or create a pull request.</p>
-    
+
+    {% assign buttons = site.data.frens %}
+
     <div class="buttons">
-        <a href="https://tanukicomputing.neocities.org/" target="_blank"> <img
-                src="https://tanukicomputing.neocities.org/buttons/Tanuki-Computing2.0.gif"
-                alt="a beige square resembeling a CDE window. “Tanuki-” is written between the window buttons, and “Computing” in the middle of the image. There’s also a pixel art drawing of Tom Nook, and the word Neocitites."
-                title="Tanuki Computing">
-        </a>
-
-        <a href="https://xanther.neocities.org/" target="_blank">
-            <picture>
-                <source srcset="/assets/images/buttons/xanther.static.gif" type="image/webp"
-                    media="(prefers-reduced-motion: reduce)">
-                <img src="/assets/images/buttons/xanther.gif" title="xan trannyman">
-            </picture>
-        </a>
-
-        <a href="https://beancurd.neocities.org/" target="_blank"><img
-                src="https://beancurd.neocities.org/images/button.png" alt="tofu" title="tofu"></a>
-
-        <a href="https://split.pet" target="_blank">
-            <img src="/assets/images/buttons/split.png" alt="split" title="split">
-        </a>
+        {% for button in buttons %}
+            {% if button.src %}
+                <a href="{{ button.href }}" target="_blank">
+                    {% if button.src-static %}
+                        <picture>
+                            <source srcset="{{ button.src-static }}" type="image/webp" media="(prefers-reduced-motion: reduce)">
+                            <img src="{{ button.src }}" alt="{{ button.title }}" title="{{ button.title }}">
+                        </picture>
+                    {% else %}
+                        <img src="{{ button.src }}" alt="{{ button.title }}" title="{{ button.title }}">
+                    {% endif %}
+                </a>
+            {% endif %}
+        {% endfor %}
     </div>
 
     <ul>
-        <li><a href="https://calayucu.com/" target="_blank">miyuko</a></li>
-        <li><a href="https://hamsternet.neocities.org/" target="_blank">Hamsternet</a></li>
-        <li><a href="https://daboross.net/" target="_blank">Daboross</a></li>
+        {% for button in buttons %}
+            {% unless button.src %}
+                <li><a href="{{ button.href }}" target="_blank">{{ button.title }}</a></li>
+            {% endunless %}
+        {% endfor %}
     </ul>
-
-    <details class="buttons">
-        <summary>giant spinning easrng button</summary>
-        <div class="spin" style="width: fit-content; height: fit-content;">
-            <a href="https://easrng.net/" target="_blank">
-                <picture title="sfhopsdjfasodfjdof">
-                    <source srcset="/assets/images/buttons/easrng.static.gif" type="image/webp"
-                        media="(prefers-reduced-motion: reduce)">
-                    <img src="/assets/images/buttons/easrng.gif" alt="a neon cursive 'easrng' floating in space"
-                        title="em!!!!!" style="width: 324px; height: 124px;">
-                </picture>
-            </a>
-        </div>
-    </details>
-
 </section>
 
 <section>

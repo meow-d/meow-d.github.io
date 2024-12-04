@@ -289,22 +289,6 @@ footer {
   transition: all 0.01s;
 }
 
-@keyframes spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.spin {
-  animation: spin 0.5s linear infinite;
-}
-
-@media (prefers-reduced-motion) {
-  .spin {
-    animation: none;
-  }
-}
-
 /* vibes images */
 #vibes {
   display: grid;
