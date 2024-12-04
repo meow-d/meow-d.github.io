@@ -45,48 +45,42 @@ description: Links to people I know, and people I don't know.
         i don't agree on them on everything, saying this just in case they say something stupid.
     </p>
 
-    <h3>Designs i like</h3>
+    <h3>Designs I Like</h3>
     <ul>
-        <li>
-            <a href="https://pixelde.su/" target="_blank">Pixel</a> - dissapointed to learn that Poly is a girl tho.
-        </li>
-        <li>
-            <a href="https://split.pet/" target="_blank">Split</a>
-            <ul>
-                <li>
-                    check out <a href="https://github.com/nbitzz/oyama.pictures" target="_blank">oyama.pictures</a>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <a href="https://lizainslie.dev/" target="_blank">Liz Ainslie</a>
-        </li>
-        <li>
-            <a href="https://synth.download/" target="_blank">sneexy</a>
-        </li>
-        <li>
-            <a href="https://tei.su/" target="_blank">alina(?)</a>
-        </li>
+        {% for design in site.data.blogroll.designs %}
+            <li>
+                <a href="{{ design.href }}" target="_blank">{{ design.title }}</a>
+                {% if design.note %}
+                    - {{ design.note }}
+                {% endif %}
+                {% if design.sublinks %}
+                    <ul>
+                        {% for sublink in design.sublinks %}
+                            <li>
+                                <a href="{{ sublink.href }}" target="_blank">{{ sublink.title }}</a>
+                                {% if sublink.note %}
+                                    - {{ sublink.note }}
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
+        {% endfor %}
     </ul>
 
     <h3>Other</h3>
     <ul>
-        <li>
-            <a href="https://redlib.lesbnyan.top/" target="_blank">someone's Redlib instance dedicated to yuri</a> - i
-            have no idea who owns this, but i don't need to know. all i know is that there's yuri.
-        </li>
-        <li>
-            <a href="https://guzey.com/" target="_blank">Alexey Guzey</a> - i don't like lesswrong "rationalists", but i
-            like how their blogs have a quality that makes you feel like you're getting a glimpse into their entire
-            life. almost inspiring.
-        </li>
-        <li>
-            <a href="https://girl.surgery/website_vibes/" target="_blank">vibes screenshots by... urm... Sophia..?</a> -
-            wait what am i supposed to call her...? actually, what even is she? this is a brand new flavour of transfem
-            to me and i'm scared. but i digress. <a href="/website_vibes">check out my direct ripoff</a>.
-        </li>
-        <li>
-            <a href="https://zoey-on-github.github.io/yuri.html" target="_blank">julie's yuri collection</a>
-        </li>
+        {% for item in site.data.blogroll.other %}
+            <li>
+                <a href="{{ item.href }}" target="_blank">{{ item.title }}</a>
+                {% if item.note %}
+                    - {{ item.note }}
+                {% endif %}
+                {% if item.additional %}
+                    <a href="{{ item.additional_href }}">{{ item.additional }}</a>.
+                {% endif %}
+            </li>
+        {% endfor %}
     </ul>
 </section>
