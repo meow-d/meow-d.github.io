@@ -77,9 +77,6 @@ description: Links to people I know, and people I don't know.
                 {% if item.note %}
                     - {{ item.note }}
                 {% endif %}
-                {% if item.additional %}
-                    <a href="{{ item.additional_href }}">{{ item.additional }}</a>.
-                {% endif %}
             </li>
         {% endfor %}
     </ul>
