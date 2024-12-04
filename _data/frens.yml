@@ -1,5 +1,23 @@
+- title: em!!!!!
+  href: https://easrng.net/
+  src: /assets/images/buttons/easrng.gif
+  src-static: /assets/images/buttons/easrng.static.gif
+
+- title: miyuko, calayucu, idk
+  href: https://calayucu.com/
+
+- title: split
+  href: https://split.pet
+  src: /assets/images/buttons/split.png
+
+- title: elysia
+  href: https://le.alphamethyl.barr0w.net/~elysia
+  src: /assets/images/buttons/elysia.png
+  alt: very pink background with dotted elements. it says \"meow!\" in big block letters, and \"elysia\" under that. there is a picture of a pink haired cat girl on the right
+
 - title: Tanuki Computing
   href: https://tanukicomputing.neocities.org/
+  alt: a beige square resembeling a CDE window. “Tanuki-” is written between the window buttons, and “Computing” in the middle of the image. There’s also a pixel art drawing of Tom Nook, and the word Neocitites.
   src: https://tanukicomputing.neocities.org/buttons/Tanuki-Computing2.0.gif
 
 - title: xan trannyman
@@ -10,18 +28,6 @@
 - title: tofu
   href: https://beancurd.neocities.org/
   src: https://beancurd.neocities.org/images/button.png
-
-- title: split
-  href: https://split.pet
-  src: /assets/images/buttons/split.png
-
-- title: em!!!!!
-  href: https://easrng.net/
-  src: /assets/images/buttons/easrng.gif
-  src-static: /assets/images/buttons/easrng.static.gif
-
-- title: miyuko
-  href: https://calayucu.com/
 
 - title: Hamsternet
   href: https://hamsternet.neocities.org/
