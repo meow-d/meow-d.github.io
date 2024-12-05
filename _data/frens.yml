@@ -1,3 +1,7 @@
+- title: meow_d (that's me)
+  href: https://meow-d.github.io/
+  src: /assets/images/buttons/meow_d.webp
+
 - title: em!!!!!
   href: https://easrng.net/
   src: /assets/images/buttons/easrng.gif
@@ -23,6 +27,11 @@
 - title: devi
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
+
+- title: spax
+  href: https://spax.zone/
+  src: /assets/images/buttons/spax.gif
+  src-static: /assets/images/buttons/spax.static.gif
 
 - title: thermia
   href: https://girlthi.ng/~thermia
