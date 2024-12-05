@@ -1,5 +1,5 @@
 ---
-tags: internet
+tags: projects
 title: please praise me!!!
 ---
 
