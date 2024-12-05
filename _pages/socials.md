@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Socials
+fontawesome: true
 ---
 
 # Socials and links
