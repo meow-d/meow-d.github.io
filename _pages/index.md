@@ -29,4 +29,4 @@ see [blogroll#mutuals](/blogroll#mutuals)
 - and.... you?
 
 ## testimonials
-- "faggot" - six different people now
+- "faggot" - from seven different people people they took this as in invitation to call me faggot. not that i don't like it, but this is a testimonials section, not faggot counter.
