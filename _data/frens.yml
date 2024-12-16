@@ -44,6 +44,10 @@
   src: /assets/images/buttons/thermia.gif
   src-static: /assets/images/buttons/thermia.static.gif
 
+- title: amemoia
+  href: https://buh.moe/
+  src: https://buh.moe/resources/buttons/88x31.png
+
 # yeah i don't talk to them anymore
 - title: Tanuki Computing
   href: https://tanukicomputing.neocities.org/

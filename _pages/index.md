@@ -28,5 +28,7 @@ see [blogroll#mutuals](/blogroll#mutuals)
 - ena pjsk
 - and.... you?
 
-## testimonials
-- "faggot" - from. eight. different. people.
+## what people have said about me
+- "I mean I don't know what you look like but 'girl who looks like a cute boy and wishes she didn't, unsure if to transition' usually hits the spot" - femininefreyanyctophile
+
+- "faggot" - from eight different people now
