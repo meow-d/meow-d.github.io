@@ -4,7 +4,7 @@
   --main-padding: 1.5em;
 }
 
-@media screen and (max-width: calc(38rem)) {
+@media screen and (max-width: calc(600px)) {
   :root {
     --body-padding: 3vw;
     --main-padding: 1em;
@@ -200,6 +200,10 @@ nav {
   word-spacing: 10px;
 }
 
+nav span {
+  display: inline-block;
+}
+
 nav a:link,
 nav a:visited {
   color: #00000091;
@@ -240,10 +244,6 @@ nav a#current:after {
   width: 100%;
 }
 
-nav span {
-  display: inline-block;
-}
-
 /* Footer */
 footer {
   text-align: center;
@@ -265,6 +265,12 @@ footer {
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(20px);
+}
+
+.buttons iframe {
+  width: calc(81px * var(--button-scale));
+  height: calc(31px * var(--button-scale));
+  border: none;
 }
 
 .buttons img,

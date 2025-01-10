@@ -1,0 +1,27 @@
+---
+layout: default
+title: Projects
+description: Stuff I've done. I guess
+---
+
+{% assign projects = site.data.projects %}
+
+<h1>Works</h1>
+<p>i do not have portfolio worthy projects but i
+  <i>do</i>
+  have.... urm...
+</p>
+
+<ul>
+  {% for project in projects %}
+    <li>
+      <p>
+        <a href="{{ project.href }}" target="_blank">
+          <b>{{ project.title }}</b>
+        </a>
+        -
+        {{ project.description }}
+      </p>
+    </li>
+  {% endfor %}
+</ul>

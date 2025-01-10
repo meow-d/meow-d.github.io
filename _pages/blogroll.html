@@ -7,77 +7,99 @@ description: Links to people I know, and people I don't know.
 <h1>Blogroll</h1>
 
 <section>
-    <h2 id="mutuals">Frens, past or present</h2>
-    <p>if you're a mutual and wanna be here just tell me or create a pull request, even if we barely interact! i barely interact with half of the people here anyways.</p>
+  <h2 id="mutuals">Frens, past or present</h2>
+  <p>if you're a mutual and wanna be here just tell me or create a pull request, even if we barely interact! i barely interact with half of the people here anyways.</p>
 
-    {% assign buttons = site.data.frens %}
+  {% assign buttons = site.data.frens %}
 
-    <div class="buttons">
-        {% for button in buttons %}
-            {% if button.src %}
-                <a href="{{ button.href }}" target="_blank">
-                    {% if button.src-static %}
-                        <picture>
-                            <source srcset="{{ button.src-static }}" type="image/webp" media="(prefers-reduced-motion: reduce)">
-                            <img src="{{ button.src }}" alt="{{ button.alt | default: button.title }}" title="{{ button.title }}" loading="lazy">
-                        </picture>
-                    {% else %}
-                        <img src="{{ button.src }}" alt="{{ button.alt | default: button.title }}" title="{{ button.title }}" loading="lazy">
-                    {% endif %}
-                </a>
-            {% endif %}
-        {% endfor %}
-    </div>
+  <div class="buttons">
+    {% for button in buttons %}
+      {% if button.src %}
+        <a href="{{ button.href }}" target="_blank">
+          {% if button.src-static %}
+            <picture>
+              <source
+                srcset="{{ button.src-static }}"
+                type="image/webp"
+                media="(prefers-reduced-motion: reduce)">
+              <img
+                src="{{ button.src }}"
+                alt="{{ button.alt | default: button.title }}"
+                title="{{ button.title }}"
+                loading="lazy">
+            </picture>
 
-    <ul>
-        {% for button in buttons %}
-            {% unless button.src %}
-                <li><a href="{{ button.href }}" target="_blank">{{ button.title }}</a></li>
-            {% endunless %}
-        {% endfor %}
-    </ul>
+          {% elsif button.iframe %}
+            <iframe
+              src="{{ button.src }}"
+              loading="lazy"
+              sandbox="allow-scripts allow-popups"></iframe>
+
+          {% else %}
+            <img
+              src="{{ button.src }}"
+              alt="{{ button.alt | default: button.title }}"
+              title="{{ button.title }}"
+              loading="lazy">
+          {% endif %}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <ul>
+    {% for button in buttons %}
+      {% unless button.src %}
+        <li>
+          <a href="{{ button.href }}" target="_blank">{{ button.title }}</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 </section>
 
 <section>
-    <h2>Collection of websites i think are cool</h2>
-    <p>
-        I don't know most of these people, these are not endorsements of their views, i just think their site is cool,
+  <h2>Collection of websites i think are cool</h2>
+  <p>
+    I don't know most of these people, these are not endorsements of their views, i just think their site is cool, 
         i don't agree on them on everything, saying this just in case they say something stupid.
-    </p>
+  </p>
 
-    <h3>Designs I Like</h3>
-    <ul>
-        {% for design in site.data.blogroll.designs %}
-            <li>
-                <a href="{{ design.href }}" target="_blank">{{ design.title }}</a>
-                {% if design.note %}
-                    - {{ design.note }}
+  <h3>Designs I Like</h3>
+  <ul>
+    {% for design in site.data.blogroll.designs %}
+      <li>
+        <a href="{{ design.href }}" target="_blank">{{ design.title }}</a>
+        {% if design.note %}
+          - {{ design.note }}
+        {% endif %}
+        {% if design.sublinks %}
+          <ul>
+            {% for sublink in design.sublinks %}
+              <li>
+                <a href="{{ sublink.href }}" target="_blank">{{ sublink.title }}</a>
+                {% if sublink.note %}
+                  - {{ sublink.note }}
                 {% endif %}
-                {% if design.sublinks %}
-                    <ul>
-                        {% for sublink in design.sublinks %}
-                            <li>
-                                <a href="{{ sublink.href }}" target="_blank">{{ sublink.title }}</a>
-                                {% if sublink.note %}
-                                    - {{ sublink.note }}
-                                {% endif %}
-                            </li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </li>
-        {% endfor %}
-    </ul>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 
-    <h3>Other</h3>
-    <ul>
-        {% for item in site.data.blogroll.other %}
-            <li>
-                <a href="{{ item.href }}" target="_blank">{{ item.title }}</a>
-                {% if item.note %}
-                    - {{ item.note }}
-                {% endif %}
-            </li>
-        {% endfor %}
-    </ul>
+  <h3>Other</h3>
+  <ul>
+    {% for item in site.data.blogroll.other %}
+      <li>
+        <p>
+          <a href="{{ item.href }}" target="_blank">{{ item.title }}</a>
+          {% if item.note %}
+            - {{ item.note }}
+          {% endif %}
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
 </section>

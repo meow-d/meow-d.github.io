@@ -8,9 +8,19 @@
   src: /assets/images/buttons/easrng.gif
   src-static: /assets/images/buttons/easrng.static.gif
 
-- title: miyuko, calayucu, idk
+- title: miyuko <3
   href: https://calayucu.com/
   src: /assets/images/buttons/miyuko.webp
+
+- title: rini
+  href: https://rinici.de/
+  src: https://rinici.de/button.png
+
+# doesn't work with different sizes
+# TODO fork....
+- title: rini's sand toy
+  src: https://rinici.de/buttons/sand
+  iframe: true
 
 - title: LeNooby09
   href: https://lenooby09.github.io/

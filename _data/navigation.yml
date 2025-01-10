@@ -2,9 +2,11 @@
   link: /
 - name: Socials
   link: /socials
-- name: Blog
+- name: Works
+  link: /projects
+- name: Posts
   link: /blog
-- name: Roll
+- name: Links
   link: /blogroll
 - name: Vibes
   link: /website_vibes
