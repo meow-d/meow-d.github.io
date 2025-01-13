@@ -1,6 +1,14 @@
+- title: personal site
+  description: "the site you're on right now"
+  href: https://meow-d.github.io/
+
 - title: Fedicule
   description: "[wip] visualise your fedi relationships into graphs!!"
   href: https://fedicule.pages.dev/
+
+- title: my personal markless fork
+  description: Typora-style WYSIWYG markdown preview for VScode. personal fork of sean10's fork.
+  href: https://marketplace.visualstudio.com/items?itemName=meow-d.markless-meowd
 
 - title: please praise meow-d
   description: "made this as a joke. \"imagine if pleasepraise.me but you can type anything\". and then i added pleasepraise.me style presets and became what i swore to destory"
@@ -9,10 +17,6 @@
 - title: Enafore Electron
   description: "Ena \"Literally the best Akkoma client\" fore, now on your desktop, because fuck you"
   href: https://github.com/meow-d/mizuenafore/actions/runs/11937788348
-
-- title: my personal markless fork
-  description: Typora-style WYSIWYG markdown preview for VScode. personal fork of sean10's fork.
-  href: https://marketplace.visualstudio.com/items?itemName=meow-d.markless-meowd
 
 - title: selectMoreLines
   description: Micro plugin. vscode's ctrl + L (expand Line Selection), but for Micro. i stopped using Micro btw.
