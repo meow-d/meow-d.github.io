@@ -10,9 +10,10 @@
   description: "Ena \"Literally the best Akkoma client\" fore, now on your desktop, because fuck you"
   href: https://github.com/meow-d/mizuenafore/actions/runs/11937788348
 
+- title: my personal markless fork
+  description: Typora-style WYSIWYG markdown preview for VScode. personal fork of sean10's fork.
+  href: https://marketplace.visualstudio.com/items?itemName=meow-d.markless-meowd
+
 - title: selectMoreLines
   description: Micro plugin. vscode's ctrl + L (expand Line Selection), but for Micro. i stopped using Micro btw.
   href: https://github.com/meow-d/selectMoreLines
-
-- title: my personal markless fork
-  description: basically sean10's fork but i reversed the terrible changes sean10 made. also added some... weird stuff that i'm not proud of. yeah this fork sucks, i'll make it good one day, if i have the time, maybe,

@@ -1,6 +1,6 @@
 ---
-tags: gaming
 pinned: true
+tags: gaming
 ---
 
 _Every lesson I know about Noita, as an intermediate player, condensed into one post._
