@@ -20,10 +20,9 @@
   href: https://mary.my.id/
   src: /assets/images/buttons/mary.webp
 
-# doesn't work with different sizes
-# TODO fork....
 - title: rini's sand toy
-  src: https://rinici.de/buttons/sand
+  # src: https://rinici.de/buttons/sand
+  src: /sand
   iframe: true
 
 - title: LeNooby09

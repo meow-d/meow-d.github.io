@@ -21,3 +21,11 @@
 - title: selectMoreLines
   description: Micro plugin. vscode's ctrl + L (expand Line Selection), but for Micro. i stopped using Micro btw.
   href: https://github.com/meow-d/selectMoreLines
+
+- title: miyuko's 88x31 button
+  description: i love miyuko
+  href: https://calayucu.com
+
+- title: rini's sand button but you're not just limited to 88x31
+  description: my buttons aren't exactly 88x31. sorry rini im not a code golfer it's probably not the most optimal.
+  href: /sand
