@@ -2,7 +2,7 @@
   href: https://meow-d.github.io/
   src: /assets/images/buttons/meow_d.webp
 
-# i thinkt i can call us friends?
+# friends
 - title: em!!!!!
   href: https://easrng.net/
   src: /assets/images/buttons/easrng.gif
@@ -12,13 +12,14 @@
   href: https://calayucu.com/
   src: /assets/images/buttons/miyuko.webp
 
-- title: rini
-  href: https://rinici.de/
-  src: https://rinici.de/button.png
-
 - title: mary
   href: https://mary.my.id/
   src: /assets/images/buttons/mary.webp
+  alt: crudely drawn rin yuru camp by yours truly
+
+- title: rini
+  href: https://rinici.de/
+  src: https://rinici.de/button.png
 
 - title: rini's sand toy
   # src: https://rinici.de/buttons/sand
@@ -29,6 +30,7 @@
   href: https://lenooby09.github.io/
   src: /assets/images/buttons/lenooby09.png
 
+# talk to them sometimes i guess
 - title: split
   href: https://split.pet
   src: /assets/images/buttons/split.png
@@ -37,7 +39,6 @@
   href: https://onz.ee/
   src: assets/images/buttons/onzecki.png
 
-# talk to them sometimes i guess
 - title: elysia
   href: https://le.alphamethyl.barr0w.net/~elysia
   src: https://le.alphamethyl.barr0w.net/~elysia/storage/icons/buttons/elysia.png
