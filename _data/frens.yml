@@ -18,6 +18,7 @@
 
 - title: mary
   href: https://mary.my.id/
+  src: /assets/images/buttons/mary.webp
 
 # doesn't work with different sizes
 # TODO fork....
