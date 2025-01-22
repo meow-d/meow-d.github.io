@@ -20,6 +20,8 @@ one of the most important things in the game is **water**. water neutralizes tox
 
 treat Noita as a hardcore survival game, as healing is extremely rare. try to take no damage. you will not succeed, but it'll train you to be as careful as possible.
 
+you'll develop some game sense as you play. e.g. try to have the high ground, it gives you the upper hand.
+
 here's a tip applicable to every roguelite: remember to utilize all the resources you have. when you die, ask "was I really completely helpless?"
 - test out spells that you think are trash, cause they might actually be good.
 - use that bottle of invisiblum that's been sitting around in your inventory.
