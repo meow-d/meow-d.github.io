@@ -35,6 +35,7 @@ here are some common things your wands can do, classified by the community:
 - teleport wand
 - healing wand
 - the "extremely high damage, can easily kill me, only reserved for bosses, DO NOT FIRE" wand
+- storage wand (storing spells by just stuffing them into one wand)
 
 in god runs, people usually like to combine different types into their teleport. like teleport + digging + healing + damage.
 
