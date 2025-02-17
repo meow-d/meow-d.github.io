@@ -2,12 +2,7 @@
   href: https://meow-d.github.io/
   src: /assets/images/buttons/meow_d.webp
 
-# friends
-- title: em!!!!!
-  href: https://easrng.net/
-  src: /assets/images/buttons/easrng.gif
-  src-static: /assets/images/buttons/easrng.static.gif
-
+# meowdcule
 - title: miyuko <3
   href: https://calayucu.com/
   src: /assets/images/buttons/miyuko.webp
@@ -21,16 +16,25 @@
   href: https://rinici.de/
   src: https://rinici.de/button.png
 
-- title: rini's sand toy
-  # src: https://rinici.de/buttons/sand
-  src: /sand
-  iframe: true
+- title: em!!!!!
+  href: https://easrng.net/
+  src: /assets/images/buttons/easrng.gif
+  src-static: /assets/images/buttons/easrng.static.gif
 
+- title: june strawberry girlbossceo
+  href: https://girlboss.ceo/
+  src: /assets/images/buttons/june.png
+
+- title: rini's sand toy
+  iframe: true
+  src: /sand
+  # src: https://rinici.de/buttons/sand
+
+# frens
 - title: LeNooby09
   href: https://lenooby09.github.io/
   src: /assets/images/buttons/lenooby09.png
 
-# talk to them sometimes i guess
 - title: split
   href: https://split.pet
   src: /assets/images/buttons/split.png
@@ -39,6 +43,7 @@
   href: https://onz.ee/
   src: assets/images/buttons/onzecki.png
 
+# talk to them sometimes i guess
 - title: elysia
   href: https://le.alphamethyl.barr0w.net/~elysia
   src: https://le.alphamethyl.barr0w.net/~elysia/storage/icons/buttons/elysia.png
@@ -47,6 +52,7 @@
 - title: devi
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
+  # <3
 
 - title: spax
   href: https://spax.zone/
