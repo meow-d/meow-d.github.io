@@ -9,7 +9,7 @@ nearly all of my socials from the internet. some are more active than others.
 
 ## active socials
 - [<i class="fa-solid fa-circle-nodes"></i> Fedi](https://blahaj.zone/@meow_d)
-- [<i class="fa-brands fa-bluesky"></i> Bluesky](https://bsky.app/profile/meow-d.github.io)
+- [<i class="fa-brands fa-bluesky"></i> Bluesky](https://bsky.app/profile/did:plc:mo7bk6gblylupvhetkqmndrv)
 
 ## dms
 - [<i class="fa-brands fa-discord"></i> Discord: meow_d_.6233](https://discordapp.com/users/468355290257948674)
