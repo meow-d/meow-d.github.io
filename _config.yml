@@ -20,5 +20,6 @@ defaults:
       layout: post
 
 url: "https://meow-d.github.io"
+
 plugins:
   - jekyll-sitemap
