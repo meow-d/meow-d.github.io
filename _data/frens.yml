@@ -21,7 +21,7 @@
   src: /assets/images/buttons/easrng.gif
   src-static: /assets/images/buttons/easrng.static.gif
 
-- title: june strawberry girlbossceo
+- title: june
   href: https://girlboss.ceo/
   src: /assets/images/buttons/june.png
 
@@ -46,6 +46,10 @@
 - title: 57
   href: https://livia.my/
   src: https://livia.my/static/57.gif
+
+- title: soopyc/cassie
+  href: https://soopy.moe/
+  src: https://soopy.moe/images/buttons/own/88x31.gif
 
 # talk to them sometimes i guess
 - title: elysia
