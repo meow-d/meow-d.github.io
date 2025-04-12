@@ -159,6 +159,11 @@ a:active {
   color: #ffffffbb;
 }
 
+/* icons */
+.fa-brands,
+.fa-solid {
+  width: 1.15em;
+}
 
 /* Comments */
 #comments {

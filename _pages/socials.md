@@ -12,7 +12,7 @@ nearly all of my socials from the internet. some are more active than others.
 - [<i class="fa-brands fa-bluesky"></i> Bluesky](https://bsky.app/profile/did:plc:mo7bk6gblylupvhetkqmndrv)
 
 ## chat
-- [<i class="fa-brands fa-discord"></i> Discord: meow_d_.6233](https://discordapp.com/users/468355290257948674)
+- [<i class="fa-brands fa-discord"></i> Discord: wow.what.a.nice.dream](https://discordapp.com/users/468355290257948674)
 - [<i class="fa-brands fa-signal-messenger"></i> Signal: meow_d.11](https://signal.me/#eu/w33FkB44n51cb91bea6kZbCztiwZwTfcdbXNoPU19k5FIPgHUrFIkqnGby-3IYsD)
 - [<i class="fa-solid fa-hexagon-nodes"></i> Matrix: @meow_d:f.dog](https://matrix.to/#/@meow_d:f.dog)
 
