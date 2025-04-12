@@ -1,32 +1,23 @@
 ---
 layout: default
 title: Home
+fontawesome: true
 ---
 
-i miss the old meow_d, straight from the 'go meow_d
+site under construction sry
 
-chop up the soul meow_d, set on his goals meow_d
+## links
 
-i hate the new meow_d, the bad mood meow_d
+### if you wanna chat
+- [<i class="fa-brands fa-discord"></i> Discord: wow.what.a.nice.dream](https://discordapp.com/users/468355290257948674)
+- [<i class="fa-brands fa-signal-messenger"></i> Signal: meow_d.11](https://signal.me/#eu/w33FkB44n51cb91bea6kZbCztiwZwTfcdbXNoPU19k5FIPgHUrFIkqnGby-3IYsD)
+- [<i class="fa-solid fa-hexagon-nodes"></i> Matrix: @meow_d:f.dog](https://matrix.to/#/@meow_d:f.dog)
 
-the always rude meow_d, spaz in the news meow_d
+### media trackers
+- [<i class="fa-solid fa-tv"></i> Anilist](https://anilist.co/user/meowd/)
+- [<i class="fa-brands fa-lastfm"></i> Last.fm](https://www.last.fm/user/meeeeeeooow)
+- [<i class="fa-solid fa-gamepad"></i> Backloggd](https://backloggd.com/u/meow_d/)
 
-i miss the sweet meow_d, chop up the beats meow_d
+## buttons
 
-i gotta to say at that time i'd like to meet meow_d
-
-see i invented meow_d, it wasn't any meow_dies
-
-and now i look and look around and there's so many meow_dies
-
-i used to love meow_d, i used to love meow_d
-
-i even had the cat ears, i thought i was meow_d
-
-what if meow_d made a song about meow_d
-
-called "i miss the old meow_d, " man that would be so meow_d
-
-that's all it was meow_d, we still love meow_d
-
-and i love you like meow_d, loves meow_d
+{% include buttons.html %}

@@ -5,7 +5,7 @@ title: meow_d LLM, v1
 
 !["once Cohost ends I will fine-tune an an LLM on all my posts + my notes, creating the first ever LLM dedicated to posting cringe"](/assets/images/post-images/cringe-llm.png)
 
-[link to some AI slop it generated.](/secret/ai-slop)
+[link to some AI slop it generated.](/ai-slop)
 
 dataset is acquired from my posts.json in my cohost-dl downloads, only because i already had it downloaded. it's probably better to only use the official data export, which only contains your own posts for legal reasons.
 

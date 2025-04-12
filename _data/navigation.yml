@@ -1,12 +1,6 @@
-- name: Home
+- name: home
   link: /
-- name: Socials
-  link: /socials
-- name: Works
-  link: /projects
-- name: Posts
+- name: blog
   link: /blog
-- name: Links
-  link: /blogroll
-- name: Vibes
+- name: vibes
   link: /website_vibes

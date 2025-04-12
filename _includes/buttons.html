@@ -1,0 +1,46 @@
+{% assign buttons = site.data.frens %}
+
+<div class="buttons">
+  {% for button in buttons %}
+    {% if button.src %}
+      <a href="{{ button.href }}" target="_blank">
+        {% if button.src-static %}
+          <picture>
+            <source
+              srcset="{{ button.src-static }}"
+              type="image/webp"
+              media="(prefers-reduced-motion: reduce)">
+            <img
+              src="{{ button.src }}"
+              alt="{{ button.alt | default: button.title }}"
+              title="{{ button.title }}"
+              loading="lazy">
+          </picture>
+
+        {% elsif button.iframe %}
+          <iframe
+            src="{{ button.src }}"
+            loading="lazy"
+            sandbox="allow-scripts allow-popups"></iframe>
+
+        {% else %}
+          <img
+            src="{{ button.src }}"
+            alt="{{ button.alt | default: button.title }}"
+            title="{{ button.title }}"
+            loading="lazy">
+        {% endif %}
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<ul>
+  {% for button in buttons %}
+    {% unless button.src %}
+      <li>
+        <a href="{{ button.href }}" target="_blank">{{ button.title }}</a>
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>

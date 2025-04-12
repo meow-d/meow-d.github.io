@@ -2,7 +2,6 @@
   href: https://meow-d.github.io/
   src: /assets/images/buttons/meow_d.webp
 
-# meowdcule
 - title: miyuko <3
   href: https://calayucu.com/
   src: /assets/images/buttons/miyuko.webp
@@ -30,7 +29,10 @@
   src: /sand
   # src: https://rinici.de/buttons/sand
 
-# frens
+- title: devi
+  href: https://tengu.space/
+  src: /assets/images/buttons/devi.png
+
 - title: LeNooby09
   href: https://lenooby09.github.io/
   src: /assets/images/buttons/lenooby09.png
@@ -43,59 +45,15 @@
   href: https://onz.ee/
   src: assets/images/buttons/onzecki.png
 
-- title: 57
-  href: https://livia.my/
-  src: https://livia.my/static/57.gif
-
 - title: soopyc/cassie
   href: https://soopy.moe/
   src: https://soopy.moe/images/buttons/own/88x31.gif
 
-# talk to them sometimes i guess
 - title: elysia
   href: https://le.alphamethyl.barr0w.net/~elysia
   src: https://le.alphamethyl.barr0w.net/~elysia/storage/icons/buttons/elysia.png
-  alt: very pink background with dotted elements. it says \"meow!\" in big block letters, and \"elysia\" under that. there is a picture of a pink haired cat girl on the right
-
-- title: devi
-  href: https://tengu.space/
-  src: /assets/images/buttons/devi.png
-  # <3
 
 - title: spax
   href: https://spax.zone/
   src: /assets/images/buttons/spax.gif
   src-static: /assets/images/buttons/spax.static.gif
-
-- title: thermia
-  href: https://girlthi.ng/~thermia
-  src: /assets/images/buttons/thermia.gif
-  src-static: /assets/images/buttons/thermia.static.gif
-
-- title: amemoia
-  href: https://buh.moe/
-  src: https://buh.moe/resources/buttons/88x31.png
-
-- title: Vozy (her website seems to be for her projects tho so i guess i'll link her fedi)
-  href: https://wetdry.world/@vozercozer
-
-# yeah i don't talk to them anymore
-- title: Tanuki Computing
-  href: https://tanukicomputing.neocities.org/
-  alt: a beige square resembeling a CDE window. “Tanuki-” is written between the window buttons, and “Computing” in the middle of the image. There’s also a pixel art drawing of Tom Nook, and the word Neocitites.
-  src: https://tanukicomputing.neocities.org/buttons/Tanuki-Computing2.0.gif
-
-- title: xan trannyman
-  href: https://xanther.neocities.org/
-  src: /assets/images/buttons/xanther.gif
-  src-static: /assets/images/buttons/xanther.static.gif
-
-- title: tofu
-  href: https://beancurd.neocities.org/
-  src: https://beancurd.neocities.org/images/button.png
-
-- title: Hamsternet
-  href: https://hamsternet.neocities.org/
-
-- title: Daboross
-  href: https://daboross.net/

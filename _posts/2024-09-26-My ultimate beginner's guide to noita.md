@@ -1,5 +1,4 @@
 ---
-pinned: true
 tags: gaming
 ---
 

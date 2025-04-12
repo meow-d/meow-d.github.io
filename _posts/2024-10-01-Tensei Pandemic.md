@@ -1,7 +1,6 @@
 ---
 tags: anime-manga
 title: Tensei Pandemic is unironically good
-pinned: true
 ---
 
 there's only one other guy talking about the manga on Cohost. it's mostly negative, talking about how trash it is. they're not wrong, but I don't think they gave it enough credit.
