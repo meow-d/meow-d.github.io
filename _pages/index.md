@@ -5,7 +5,7 @@ title: Home
 fontawesome: true
 ---
 
-if we never see each other again, i hope you remember me the same way i remember you. love you.
+if we never see each other again, i hope you remember me the same way i remember you.
 
 ## links
 
