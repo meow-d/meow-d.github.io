@@ -1,10 +1,11 @@
 ---
 layout: default
+permalink: /
 title: Home
 fontawesome: true
 ---
 
-site under construction sry
+if we never see each other again, i hope you remember me the same way
 
 ## links
 
@@ -19,5 +20,4 @@ site under construction sry
 - [<i class="fa-solid fa-gamepad"></i> Backloggd](https://backloggd.com/u/meow_d/)
 
 ## buttons
-
 {% include buttons.html %}
