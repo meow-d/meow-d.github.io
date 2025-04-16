@@ -53,7 +53,7 @@ main,
 
   animation-timing-function: ease;
 
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.2);
   color: rgb(219, 219, 219);
 }
 
@@ -129,6 +129,9 @@ blockquote {
   margin-left: 0;
 }
 
+.highlight {
+  overflow-x: scroll;
+}
 audio {
   width: 100%;
 }
