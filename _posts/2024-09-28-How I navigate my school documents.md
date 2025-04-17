@@ -30,7 +30,7 @@ install any of those "smarter cd" tools. this is why the folder names need to be
 
 lastly, make an alias/abbreviation for `xdg-open`. this command opens the file using the defaults application, identical to clicking on a file in your usual file manager. i personally made it an abbreviation and set it to `xo`
 
-_for those who don't know, [abbreviation](https://fishshell.com/docs/current/cmds/abbr.html) is a feature in Fish shell. instead of replacing the command entirely like aliases, it replaces the abbreviation with the command once you press space. it's pretty much what aliases are meant to be._
+_for those who don't know, [abbreviation](https://fishshell.com/docs/current/cmds/abbr.html) is a feature in Fish. instead of replacing the command entirely like aliases, it replaces the abbreviation with the command once you press space. it's pretty much what aliases are meant to be._
 
 ## why do this?
 here's how i used to open up lecture slides:

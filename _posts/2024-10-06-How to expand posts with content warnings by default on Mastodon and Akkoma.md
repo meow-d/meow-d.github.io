@@ -15,7 +15,7 @@ title: How to expand posts with content warnings by default on Mastodon and Akko
   - probably also applies to the official app and Megalodon, idk
 
 ## why
-I was a Cohost user. apparnetly the Cohost staff and most of the big users have a secret dark past: they were the people who created Mastodon's CW system and culture. [they are extemely critical of it today](https://shelraphen.com/on-content-warnings/), maybe because they felt guilty of what they have created.
+I was a Cohost user. apparently the Cohost staff and most of the big users have a secret dark past: they were the people who created Mastodon's CW system and culture. [they are extremely critical of it today](https://shelraphen.com/on-content-warnings/), maybe because they felt guilty of what they have created.
 
 changing Mastodon's CW system would obviously require a lot of work, _if_ people are willing to change in the first place.
 

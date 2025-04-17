@@ -10,7 +10,7 @@ title: meow_d LLM, v1
 dataset is acquired from my posts.json in my cohost-dl downloads, only because i already had it downloaded. it's probably better to only use the official data export, which only contains your own posts for legal reasons.
 
 data preprocessing is done with python:
-- get rid of shares, which can be identifyed as their `["astmap"]["spans"]` are empty
+- get rid of shares, which can be identified as their `["astmap"]["spans"]` are empty
 - get rid of all the data except for your title and post itself (`"headline"` and `"plainTextBody"`)
 
 then format the dataset. can be done in different ways:

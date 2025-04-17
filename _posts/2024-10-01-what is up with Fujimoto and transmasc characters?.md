@@ -15,7 +15,7 @@ _so, spoilers for that one genderswap oneshot, and Fire Punch._
 
 The genderswap oneshot betrays the reader quite literally. It disguises itself as your average genderswap forcefem story, then turns into a transmasc story. It's what would realistically happen if TS syndrome is real. Who would have thought a disease that changes your body without your consent is bad.
 
-Transfems (like me) LOVE forcefem stuff. It's akin to a shojo manga protagonist forcefully pushing you down and <span style="color: #ff8181">[redacted]</span>; he knows you want it, he doesn't need consent, and it's hot. But there is a time and place for CNC stuff. It's not really a good thing when an entire genre being filled with it and presenting it as normal.
+Transfems (like me) LOVE forcefem stuff. It's akin to a shoujo manga protagonist forcefully pushing you down and <span style="color: #ff8181">[redacted]</span>; he knows you want it, he doesn't need consent, and it's hot. But there is a time and place for CNC stuff. It's not really a good thing when an entire genre being filled with it and presenting it as normal.
 
 Fujimoto is thus indirectly (prehaps unintentionally) criticizing the state of the genderswap genre, for being unable to move past the "forcefem but she secretly wanted it all along" fantasy, for not recognizing transgenders as a real thing outside of that fantasy, for not acknowledging the existence of people who actually wants to be men.
 
@@ -31,7 +31,7 @@ But it's even worse when you have to tell someone you've already known for years
 
 From the reader's perspective, it's less of a literal betrayal (like an author intentionally betraying your expectations), but closer to how it feels when a friend comes out as trans - kind of the same perspective as Agni. It's not just representation, it also teaches the reader to accept a transgender person.
 
-Overall, Fujimoto is fucking goated. He used the same plot twist twice, each exploring a different phase of the transgender experience (discovery and supression). Who knows, maybe he'll do it again.
+Overall, Fujimoto is fucking goated. He used the same plot twist twice, each exploring a different phase of the transgender experience (discovery and suppression). Who knows, maybe he'll do it again.
 
 ---
 
