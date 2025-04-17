@@ -5,7 +5,7 @@ tags: computers
 
 Twitter is terrifyingly addicting - it's super easy to click on the home page and get stuck in the algorithm for hours. An easy solution was to just not have an account, but thanks to Elon you need an account to see anything on the site. Nitter worked for while but was eventually shut down.
 
-my solution? create an account, then use a css userstyle that prevents me from interacting with anything. it's like not having an account at all.
+my solution? create an account, then use a userstyle that prevents me from interacting with anything. it's like not having an account at all.
 
 https://userstyles.world/style/15315/twitter-but-you-cant-interact
 

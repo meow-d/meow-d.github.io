@@ -14,8 +14,8 @@ folder names have to be in short form, for reasons i'll explain later.
 │   ├── diploma
 │   │   ├── 5
 │   │   │   ├── DSF
-|   │   │   │   ├── slides
-|   │   │   │   ├── assignment
+│   │   │   │   ├── slides
+│   │   │   │   ├── assignment
 │   │   │   ├── IAI
 │   │   │   ├── JP
 │   │   │   └── SDP
