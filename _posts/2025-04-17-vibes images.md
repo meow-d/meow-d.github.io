@@ -3,7 +3,7 @@ tags: internet
 title: You should have a vibes images page
 ---
 
-if you're here, you probably knew about my vibes images page - aka screenshot/gallery dump. it's a reference to [sophia_cisgirl's vibes images page](https://girl.surgery/website_vibes/).
+if you're here, you probably knew about my vibes images page / gallery dump. it's a reference to [sophia_cisgirl's vibes images page](https://girl.surgery/website_vibes/).
 
 there are several pretty big differences though, mainly the fact that mine isn't randomized (because im lazy), and it's laid out nicely in a grid instead of being scattered around. well it's not really _that nice_, there are those awkward gaps because [masonry](https://drafts.csswg.org/css-grid-3/#masonry-layout) isn't really a thing in css yet. i never bothered to figure out any workarounds.
 
