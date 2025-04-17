@@ -13,9 +13,9 @@ in a way, it's a hybrid of the original vibes images and something like [julie's
 
 i thought i was weird for thinking that studying a person from the little glimpses of their life is cool, so i was just putting myself out there hoping for something. so i was really surprised that people i know actually loved the site and the idea, with some even getting inspired and wanting to make their own..... though i am also very disappointed that no one actually did.
 
-anyways, if you wanna make your own, check out [sophia's gist here](https://gist.github.com/sophiawisdom/c1b16fcaca017d1aec2358c6fb619697) for the authentic experience... or just put something together yourself, especially if you're a javascriptphobe. go through your pictures folder and copy stuff you want into a folder, then add a new album in your gallery app and add stuff there too.
+anyways, if you wanna make your own, check out [sophia's gist here](https://gist.github.com/sophiawisdom/c1b16fcaca017d1aec2358c6fb619697) for the authentic experience... or just cobble something together yourself, especially if you're a javascriptphobe. for the images, just go through your pictures folder and copy stuff you want into a folder; you should also add a new album in your gallery app and add stuff there too.
 
-and some common sense: please don't just dump your entire gallery. make sure whatever's in there can't be used to doxx you - though it's up to you how strict you want to define doxxing. and strip all the exif data. if you want you can give them all random file names since they do contain dates and stuff.
+and some common sense: please don't just dump your entire gallery. make sure whatever's in there can't be used to doxx you - though it's up to you how strict you want to define doxxing (i have a rule where i don't have images taken anywhere near i live). and strip all the exif data. if you want you also can give them all random file names since they do contain dates and stuff.
 
 vibes images pages are terrible from an opsec perspective, aren't they? so much juicy information. it's partially why i removed mine - like, it was cool, i trust everyone who had seen it so far, but i fear it's gonna come back and bite me at some point.
 
