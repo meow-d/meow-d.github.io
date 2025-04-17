@@ -25,5 +25,5 @@ vibes images pages are terrible from an opsec perspective, aren't they? so much 
 - [Xavi's](https://xavicf.com/vibes.html)
 - mine [(now removed)](https://meow-d.github.io/website_vibes)
 
-### not really vibes images
-- [angel's](https://anx.vg/vibes) - i lied. there's one inspired by mine. problem is 1) it's not _really_ a vibes images page, it's been ship of theseus'd into a page where she puts whatever she thinks is cool. which is vaguely in the spirit of the original i guess...? 2) the site is very very WIP... sharing someone's WIP site is kind of an asshole move, isn't it?
+<!-- ### not really vibes images
+- [angel's](https://anx.vg/vibes) - i lied. there's one inspired by mine. problem is 1) it's not _really_ a vibes images page, it's been ship of theseus'd into a page where she puts whatever she thinks is cool. which is vaguely in the spirit of the original i guess...? 2) the site is very very WIP... sharing someone's WIP site is kind of an asshole move, isn't it? -->
