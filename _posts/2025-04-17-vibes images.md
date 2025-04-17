@@ -17,9 +17,7 @@ anyways, if you wanna make your own, check out [sophia's gist here](https://gist
 
 and some common sense: please don't just dump your entire gallery. make sure whatever's in there can't be used to doxx you - though it's up to you how strict you want to define doxxing. and strip all the exif data. if you want you can give them all random file names since they do contain dates and stuff.
 
-vibes images pages are terrible from an opsec perspective, aren't they? so much juicy information. it's partially why i removed mine - like, it was cool, i trust everyoOh, and its less than a hundred lines of lua code, so maybe maintain a fork yourself if you're gonna use it? Wouldn't be too difficult, and it'd be a hell of a lot more reliable than relying on lil old me.
-
-The plugin creates these commands: :KodnotesNewNote creates a new note; with the current time as title :KodnotesFollowLink follows a [[link]] under the cursor :KodnotesInsertLink allows you to search your notes and insert a link to a particular one :KodnotesNewNoteDir allows you to make a new note under the specificied subdirectory. :KodnotesNewLitNote allows you to make a new note under the "literature_notes" subdirectory (a utility command for my system)ne who had seen it so far, but i fear it's gonna come back and bite me at some point.
+vibes images pages are terrible from an opsec perspective, aren't they? so much juicy information. it's partially why i removed mine - like, it was cool, i trust everyone who had seen it so far, but i fear it's gonna come back and bite me at some point.
 
 ## list of vibes images i know
 - [sophia's original vibes images](https://girl.surgery/website_vibes/)
