@@ -24,6 +24,7 @@ vibes images pages are terrible from an opsec perspective, aren't they? so much 
 - [Alexey Guzey's](https://guzey.com/vibes/)
 - [Xavi's](https://xavicf.com/vibes.html)
 - mine [(now ](/website_vibes)[removed)](https://www.tumblr.com/coletureconceptarchive/35941277163/so-my-goal-for-this-website-was-accomplished-i)
+- edit: [aria's](https://aria.coffee/gallery/aria-board/) - inspired by this very post i suppose. definitely much closer to mine than anything, both in terms of style and content, due to similar demographic i guess
 
 ### not really vibes images
 - [angel's](https://anx.vg/vibes) - i lied. there's one inspired by mine. problem is 1) it's not _really_ a vibes images page, it's been ship of theseus'd into a page where she puts whatever she thinks is cool. which is vaguely in the spirit of the original i guess...? 2) the site is very very WIP... sharing someone's WIP site is kind of an asshole move, isn't it?
