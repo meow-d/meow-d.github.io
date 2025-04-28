@@ -133,6 +133,9 @@ blockquote {
   overflow-x: scroll;
 }
 
+code {
+  text-wrap: wrap;
+}
 audio {
   width: 100%;
 }
