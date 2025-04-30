@@ -1,7 +1,13 @@
-div .highlight {
+div.highlight {
   border-radius: 10px;
-  margin: 0;
+  margin: 0.5em 0;
   padding: 0.5em;
+  color: #ffffff;
+  background-color: #ffffff27;
+}
+
+pre {
+  margin: 0;
 }
 
 .highlight table td {
@@ -247,11 +253,6 @@ div .highlight {
 }
 
 .highlight .w {
-  color: #ffffff;
-  background-color: #272822;
-}
-
-.highlight {
   color: #ffffff;
   background-color: #272822;
 }
