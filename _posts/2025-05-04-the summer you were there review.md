@@ -51,7 +51,7 @@ if you only had one month to live, you'd to that too. living your life to the fu
 
 surely, you could keep it a secret from her, right? please don't let your existence be a curse to her.
 
-what about you?
+and what about you?
 
 if only you weren't going to die.
 
