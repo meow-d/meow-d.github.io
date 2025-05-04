@@ -47,7 +47,7 @@ before you knew it, you couldn't bear it anymore, you're actually crying at an a
 
 the author knows how to play with your poor little heart. they know your weak points inside out. the stage fright buried deep within your memories. the idea you'll never see her again. the fact that you'll never see her again.
 
-if you only had one month to live, you'd to that too. living your life to the fullest with the person who you always thought was out of reach. be the dream girl for your dream girl. a final dream. a final letter. plot you saw from miles away, a novel plot but we're doing it for real. though, maybe it'll be too cruel to let them cry for you. maybe you should just silently disappear.
+if you only had one month to live, you'd to that too. living your life to the fullest with the person who you always thought was out of reach. confess to her. a final dream. a final letter. plot you saw from miles away, but we're doing it for real. though, maybe it'll be too cruel to let them cry for you. maybe you should just silently disappear.
 
 surely, you could keep it a secret from her, right? please don't let your existence be a curse to her.
 
