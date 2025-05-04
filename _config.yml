@@ -5,12 +5,19 @@ collections:
   pages:
     output: true
     permalink: /:path
+  secret:
+    output: true
 
 defaults:
   - scope:
       path: "_posts/"
     values:
       layout: post
+  - scope:
+      path: "_secret/"
+    values:
+      layout: secret
+      sitemap: false
 
 url: "https://meow-d.github.io"
 
