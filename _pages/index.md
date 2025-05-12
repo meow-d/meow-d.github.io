@@ -19,10 +19,5 @@ if we never see each other again, i hope you remember me the same way i remember
 - [<i class="fa-brands fa-lastfm"></i> Last.fm](https://www.last.fm/user/meeeeeeooow)
 - [<i class="fa-solid fa-gamepad"></i> Backloggd](https://backloggd.com/u/meow_d/)
 
-### just for fun (im not in need of money or anything!)
-- <i class="fa-brands fa-monero"></i> monero: <code style="word-break: break-all;">
-46EcirycYr78giHvZrSXB6XN6hZEHiatUQb5aif3AcByNeXQnYzMHS6bFnkGng91JW67ZgSbQYzMQQ1iuzLtRneGB3TkZhn
-</code>
-
 ## buttons
 {% include buttons.html %}
