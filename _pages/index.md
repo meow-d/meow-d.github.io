@@ -19,5 +19,8 @@ if we never see each other again, i hope you remember me the same way i remember
 - [<i class="fa-brands fa-lastfm"></i> Last.fm](https://www.last.fm/user/meeeeeeooow)
 - [<i class="fa-solid fa-gamepad"></i> Backloggd](https://backloggd.com/u/meow_d/)
 
+### just for fun
+- nano_3hmymbehwd11qogh8ntg8t6yquzjemnxfhrwq47ey5en4jwqc1ccbbtn5rq6
+
 ## buttons
 {% include buttons.html %}
