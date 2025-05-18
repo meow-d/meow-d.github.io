@@ -1,4 +1,5 @@
 ---
+layout: secret
 title: ai slop ai slop slop slop yum yum i love capitalism or something
 ---
 

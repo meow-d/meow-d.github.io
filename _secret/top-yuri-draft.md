@@ -1,4 +1,5 @@
 ---
+layout: secret
 title: meow_d's list of The Best Yuri of All Time
 ---
 
