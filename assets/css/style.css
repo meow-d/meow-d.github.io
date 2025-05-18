@@ -135,6 +135,7 @@ blockquote {
 
 code {
   text-wrap: wrap;
+  overflow-wrap: break-word;
 }
 
 audio {
