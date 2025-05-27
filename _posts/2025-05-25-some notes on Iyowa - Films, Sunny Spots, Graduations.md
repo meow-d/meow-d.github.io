@@ -3,7 +3,7 @@ tags: music
 title: Some notes on Iyowa - Films, Sunny Spots, Graduations
 ---
 
-in the meow_d internal rating system, iyowa has a few "legendary" songs under his belt - namely kyu-kyarin, heat abnormal, and the peachy key. 3 songs of that level is more than enough to earn my respect. the least i can do is try to get into his music.
+in the meow_d internal rating system, iyowa has a few "legendary" songs under his belt - namely kyu kurarin, heat abnormal, and the peachy key. 3 songs of that level is more than enough to earn my respect. the least i can do is try to get into his music.
 
 unfortuantely i didn't enjoy _Films, Sunny Spots, Graduations_ much. i find the songs too similar-sounding, the fact that it's a super lengthly double album doens't help. you can say that they're weak individually, as in, they don't make much of an impact on me. i feel like i needed to clarify that because the production work and songwriting is anything but weak. if anything, that only made me feel worse about the fact that i didn't enjoy the album.
 
@@ -19,7 +19,7 @@ funnily enough, the song that made the biggest impact on me is the last song, gr
 - Till your tear goes / 頬が乾くまで
 
 ### <3 <3
-- Hanakamakiri / 花蟷螂
+- Flowers and Scythes / 花蟷螂
 - KLY / one thousand light years / 一千光年
 - Dreaming Scales / ゆめみるうろこ
 - Catfight / キャットファイト
