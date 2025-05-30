@@ -33,9 +33,10 @@
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
 
-- title: angel (she changes her name like every month i have no idea what to call her anymore)
+- title: demi (she changes her name like every month i have no idea what to call her anymore)
   href: https://anx.vg/
   src: https://anx.vg/88x31.png
+  fallback: /assets/images/buttons/demi.png
 
 - title: LeNooby09
   href: https://lenooby09.github.io/
