@@ -33,9 +33,9 @@
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
 
-- title: demi (she changes her name like every month i have no idea what to call her anymore)
-  href: https://anx.vg/
-  src: https://anx.vg/88x31.png
+- title: angel demi yara aiyralia aiwa thighjobceo (she changes her name like every month i have no idea what to call her anymore)
+  href: https://demi.sh/
+  src: https://demi.sh/88x31.png
   fallback: /assets/images/buttons/demi.png
 
 - title: LeNooby09
@@ -54,7 +54,13 @@
   href: https://soopy.moe/
   src: https://soopy.moe/images/buttons/own/88x31.gif
 
-- title: spax
-  href: https://spax.zone/
-  src: /assets/images/buttons/spax.gif
-  src-static: /assets/images/buttons/spax.static.gif
+- title: elysia
+  href: https://le.alphamethyl.barr0w.net/~elysia
+  src: https://le.alphamethyl.barr0w.net/~elysia/storage/icons/buttons/elysia.png
+  alt: very pink background with dotted elements. it says 'meow!' in big block letters, and 'elysia' under that. there is a picture of a pink haired cat girl on the right
+  fallback: /assets/images/buttons/elysia.png
+
+# - title: spax
+#   href: https://spax.zone/
+#   src: /assets/images/buttons/spax.gif
+#   src-static: /assets/images/buttons/spax.static.gif
