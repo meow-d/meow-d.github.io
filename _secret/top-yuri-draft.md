@@ -3,11 +3,11 @@ layout: secret
 title: meow_d's list of The Best Yuri of All Time
 ---
 
-ive always had a mental list of _the best yuri_, the ones above the rest, but i haven't had a concrete list. so here it is.
+i've always had a mental list of _the best yuri_, the ones above the rest, but i haven't had a concrete list. so here it is.
 
-i haven't read every single yuri out there - in fact, i probably hasnt scratched the surface. but you're not here for an objective list, aren't you? just like how the most average face in the world is a blurry blob that does not tell you about society; the average, lowest common denominator opinion is deviod of humanity.
+i haven't read every single yuri out there - in fact, i probably hasn't scratched the surface. but you're not here for an objective list, aren't you? just like how the most average face in the world is a blurry blob that does not tell you about society; the average, lowest common denominator opinion is devoid of humanity.
 
-the resulting list ended up resembling a techradar "BEST smartphones under 400usd, reviewed!!" article, out of everything. but if anything, i think it highlights the various reasons i read yuri, and the diversity of reasons among the yuri community.
+the resulting list ended up resembling a Techradar "BEST smartphones under 400 USD, reviewed!!" article, out of everything. but if anything, i think it highlights the various reasons i read yuri, and the diversity of reasons among the yuri community.
 
 ## best fluff
 ### There's Weird Voices Coming from the Room Next Door!, by Suzuo
@@ -23,18 +23,18 @@ on the yuri definition spectrum (more on that later), [he's very much on the "th
 the lack of anything explicit makes _Futaru Escape_ oddly mature, in the sfw way. it's about living as an adult and trying to make a living, and escapism from that.
 
 ## best porn: Asumi-chan is Interested in Lesbian Brothels!, by Itsuki Kuro
-in the english-speaking yuri community, asumi-chan and _Does It Count If You Lose Your Virginity to an Android?_ are nearly tied in terms of status, in a unique position that should have been unique to one manga. the cute/wholesome porn category, i suppose.
+in the English-speaking yuri community, _Asumi-chan_ and _Does It Count If You Lose Your Virginity to an Android?_ are nearly tied in terms of status, in a unique position that should have been unique to one manga. the cute/wholesome porn category, i suppose.
 
-personally, asumi-chan appealed to me significantly more. as good as android sex is, i don't think i could have a personal connection to it the way i do to asumi-chan. asumi-chan is not unlike me - a young, shy, and inexperienced college student. she has a small body that makes you want to do all sorts of things to it. and the various girls she had sex with certainly thought the same. i guess that's partly the reason too, having sex with one android doesn't seem as appealing to my poly ass as exploring a huge pool of girls.
+personally, _Asumi-chan_ appealed to me significantly more. as good as android sex is, i don't think i could have a personal connection to it the way i do to _Asumi-chan_. _Asumi-chan_ is not unlike me - a young, shy, and inexperienced college student. she has a small body that makes you want to do all sorts of things to it. and the various girls she had sex with certainly thought the same. i guess that's partly the reason too, having sex with one android doesn't seem as appealing to my poly ass as exploring a huge pool of girls.
 
-most importanty, she loves sex - the story too. in a world where queer media falls victim to fetishization and censorship and internalized homophobia, asumi's simple minded sex-positive world is refreshing. why aren't we living in a world like that? it isn't for any good reason. maybe you don't have a reliable brothel-visiting senpai to guide you into the sapphic world that you otherwise couldn't have gone on your own. it's a cishet's world and you're lucky to be livin' in it[.](https://music.youtube.com/watch?v=nZ99e2j2pQ8) you're probably _not_ gonna get hate crime'd in your lifetime but the fact that you have to worry that at all is insane. politicians around the world aren't gonna make sex work legal anytime soon.
+most importantly, she loves sex - the story too. in a world where queer media falls victim to fetishization and censorship and internalized homophobia, Asumi's simple minded sex-positive world is refreshing. why aren't we living in a world like that? it isn't for any good reason. maybe you don't have a reliable brothel-visiting senpai to guide you into the sapphic world that you otherwise couldn't have gone on your own. it's a cishet's world and you're lucky to be livin' in it[.](https://music.youtube.com/watch?v=nZ99e2j2pQ8) you're probably _not_ gonna get hate crime'd in your lifetime but the fact that you have to worry that at all is insane. politicians around the world aren't gonna make sex work legal anytime soon.
 
-asumi is a window to an ideal world. you know that world is somewhere out there, but by the time you get there, you won't be a young college student anymore.
+_Asumi-chan_ is a window to an ideal world. you know that world is somewhere out there, but by the time you get there, you won't be a young college student anymore.
 
 ## best drama: The Summer You Were There
-if im making a more definitive and objective list, _Bloom Into You_ would have been here. sadly, i never truly understood the yuri classic. a major theme of the manga is the aroace spectrum, more specifically gray-romanticism.... a topic that i don't really get.
+if i was making a more definitive and objective list, _Bloom Into You_ would have been here. sadly, i never truly understood the yuri classic. a major theme of the manga is the aroace spectrum, more specifically gray-romanticism.... a topic that i don't really get.
 
-in its place, we have _The Summer You Were There_. it's a newer manga than bloom into you for sure, but it feels like it has the potential to stand next to it in terms of status and influence, depending on if there's going to be an anime adaptation. (where the production doesn't fall apart) (despite all the _✨potential✨_ talk, im not really entirely optimistic about it)
+in its place, we have _The Summer You Were There_. it's a newer manga than bloom into you for sure, but it feels like it has the potential to stand next to it in terms of status and influence, depending on if there's going to be an anime adaptation. (where the production doesn't fall apart) (despite all the _✨potential✨_ talk, i'm not really entirely optimistic about it)
 
 if you've ever cried to, say, _Your Lie in April_, you'll get deja vu's. "hey, i've seen this plot development a million times before". perhaps you know the ending already. this is the _The Summer You Were There experience_, you went in thinking you'll be fine if you have a rough idea of what was going to happen, and then the story just surprises you with its writing. the author isn't stupid, it's just how confident they are at hurting you. i don't even want to know how many drafts the story had, it's unbelievable how well written it is. it feels like the author knows all your (emotional) weak spots and they're touching you(r emotional state) all over the place.
 
@@ -43,14 +43,16 @@ in my opinion, compared to similar works, the manga is oddly realistic? it's not
 [see also](/secret/summer).
 
 ## best action
-"best action" is a broad category to mean the broader category of "stories that aren't primarily just yuri". entries include magirevo (isekai, action), wataoshi (isekai, comedy), lycoris recoil (i haven't actually watched this), and more. these tend to be more mainstream as they appeal to more than just yuri fans - and i noticed my top yuri tend to be from this category - but you run the risk of them not taking yuri seroiusly.
+"best action" is a broad category to mean the broader category of "stories that aren't primarily just yuri". entries include magirevo (isekai, action), wataoshi (isekai, comedy), lycoris recoil (i haven't actually watched this), and more. these tend to be more mainstream as they appeal to more than just yuri fans - and i noticed my top yuri tend to be from this category - but you run the risk of them not taking yuri seriously.
 
-so, the question is _how [yuriful](https://www.reddit.com/r/CuratedTumblr/comments/x04m9j/yaoiless/) they are_. and it's a tricky question. the (english) yuri community has two major, conflicting ways to define yuri. first, some desire yuri more explicit, born out of the frustration of censorship and subtext. the second is the ["this too is yuri"](https://fanlore.org/wiki/This_too_is_yuri) mindset, where everything is yuri as long as you are good enough at seeing it, born out of the infamous ["yuri made me human"](https://teletype.in/@kati_lilian/SJA8KwjjN) interview with Iori Miyazawa, author of-
+so, the question is _how [yuriful](https://www.reddit.com/r/CuratedTumblr/comments/x04m9j/yaoiless/) they are_. and it's a tricky question. the English-speaking yuri community has two major, conflicting ways to define yuri. first, some desire yuri more explicit, born out of the frustration of censorship and subtext. the second is the ["this too is yuri"](https://fanlore.org/wiki/This_too_is_yuri) mindset, where everything is yuri as long as you are good enough at seeing it, born out of the infamous ["yuri made me human"](https://teletype.in/@kati_lilian/SJA8KwjjN) interview with Iori Miyazawa, author of-
 
 ### Otherside Picnic, by Iori Miyazawa
-Otherside Picnic is a lot. on the surface, it's a novel about Japanese creepypastas and urban legends manifesting in this strange blue dimension. to be more specific, it's horrors beyond comprehension viewed in a science fiction lens - the characters aren't dumb, they know stories don't just literally manifest our of thin air. they know there are something incomprehensible mimicking ghost stories trying to contact humans, and they fight with illegally acquired guns. notably, Otherside Picnic is extremely yuriful. you can interpret the first definition of yuri as "how much you trust the author to say it's yuri", or you can interpret the "this too is yuri" way of defining yuri as "how central is the yuri to its identity"; but regardless, Otherside Picnic passes both with flying colors. it's marketed as yuri everywhere, it's written by a yuri mad genius guy, the yuri bond between Sorawo and Toriko is central to the identity.
+Otherside Picnic is a lot. on the surface, it's a novel about Japanese creepypastas and urban legends manifesting in this strange blue dimension. to be more specific, it's horrors beyond comprehension viewed in a science fiction lens - the characters aren't dumb, they know stories don't just literally manifest our of thin air. they know there are something incomprehensible mimicking ghost stories trying to contact humans, and they fight with illegally acquired guns.
 
-Otherside Picnic is incredible at not just being a breath of fresh air in a world filled with troupe-y isekai/romcom/yuri slop, but also at maintaining it, juggling everything that makes it unique. the japanese creepypasta/urban legand aspect never fails to be fascinating, whatever they encounter in each file at the otherside never gets stale either. the character writing is always so fascinating, with the most interesting being Sorawo, our protagonist, who has psychopathic(?) traits developed to disassociate herself with her trauma in the past. as for the romance... well, it's probably one of the best yuri that has ever yuri'ed.
+notably, Otherside Picnic is extremely yuriful. you can interpret the first definition of yuri as "how much you trust the author to say it's yuri", or you can interpret the former as "how central is the yuri to its identity". but regardless, Otherside Picnic passes both with flying colors. it's marketed as yuri everywhere, it's written by a yuri mad genius guy, the yuri bond between Sorawo and Toriko is central to the identity.
+
+Otherside Picnic is incredible, not just being a breath of fresh air in a world filled with troupe-y isekai/romcom/yuri slop, but also at maintaining it, juggling everything that makes it unique. the japanese creepypasta/urban legand aspect never fails to be fascinating, whatever they encounter in each file at the otherside never gets stale either. the character writing is always so fascinating, with the most interesting being Sorawo, our protagonist, who has psychopathic(?) traits developed to disassociate herself with her trauma in the past. as for the romance... well, it's probably one of the best yuri that has ever yuri'd.
 
 though, i must warn, it's a slow burn, as they wouldn't confessed or kiss until much later into the story. that is, if you don't adopt Iori Miyazawa's "this too is yuri" mindset, because everything about two girls repeatedly going into life or death situations absolutely _is_ yuri. accomplices are the closest relationship in the world, after all.
 
@@ -68,9 +70,9 @@ i've seen a theory that youzi is the one who's actually gay, and she's been proj
 
 ## honarable mentions
 - **Bloom Into You**
-- **I Want to Love You Till Your Dying Day**. if it wasn't for madoka and otherside picnic being absolutely masterclasses, this would have been my pick for best action yuri.
+- **I Want to Love You Till Your Dying Day**. if it wasn't for Madoka and Otherside Picnic being absolutely masterclasses, this would have been my pick for best action yuri.
 - **Magirevo**. likewise, the action yuri category is so insanely competitive it doesn't stand a chance. but if there's a best isekai category, i'll definitely pick magirevo. it has one of the best yuri anime adaptations too.
-- **Walk Wit Me**, if you want a best psycological category... thought i have no idea how to feel about this super short manga, im not sure if im hurt in a good or bad way.
+- **Walk Wit Me**, if you want a best psychological category... thought i have no idea how to feel about this super short manga, im not sure if im hurt in a good or bad way.
 
 ## yuri that sounds like they could be on this list if i have read them
 - how do we relationship
