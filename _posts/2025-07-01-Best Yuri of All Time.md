@@ -1,5 +1,5 @@
 ---
-layout: secret
+tags: anime-manga lgbtq
 title: meow_d's list of The Best Yuri of All Time
 ---
 
@@ -11,9 +11,9 @@ the resulting list ended up resembling a Techradar "BEST smartphones under 400 U
 
 ## best fluff
 ### There's Weird Voices Coming from the Room Next Door!, by Suzuo
-The vast majority of yuri i read is yuri slop. you aren't looking for anything too deep, just something to make your day. in a more average list, you'd see _Can't Defy the Lonely Girl_ here, but that didn't click with me, due to the combination of dubious consent, high school setting, and being basically entirely kissing focused.
+The vast majority of yuri i read is yuri slop. you aren't looking for anything too deep, just something to make your day. in a more conventional list, you'd see _Can't Defy the Lonely Girl_ here, but that didn't click with me, due to the combination of dubious consent, high school setting, and being basically entirely kissing focused.
 
-as for _There's Weird Voices Coming from the Room Next Door!_... well, i've explained why it clicked with me so much before. but tldr; a college lesbian student fantasy that somehow never crosses the line of feeling fake.
+as for _There's Weird Voices Coming from the Room Next Door!_... well, [i've explained why it clicked with me so much before](/2024/01/24/There's-Weird-Voices-Coming-from-the-Room-Next-Door!-my-new-comfort-yuri.html). but tldr; a college lesbian student fantasy that somehow never crosses the line of feeling fake.
 
 ### Futari Escape, by Shouichi Taguchi
 you might know Shouichi Taguchi as the artist behind the manga adaptation of _I sold my life for ten thousand yen per year / Three Days of Happiness_. he's also a pretty talented musician as well...
@@ -66,7 +66,7 @@ the yuriless manga end up in the non-yuri pile. some call it a trash pile, other
 
 if you look closer, she resembles less of a girl and more of a mirror. after all, humans are mirrors of their environment and everyone they know, more so for children. _My Mom's A Superstar!_ reflects china. more specifically, Chinese celebrity culture, idol fanservice / queerbaiting, shipping, yuri culture, living as a lesbian, and [spoiler redacted]. youzi's name itself is an obvious a reference to _Citrus_, a manga whose influence on the Chinese yuri community is not unlike Iori Miyazawa's influence on the English community. this seems like quite a lot of topics when you list it out, but a mirror can tell a lot of stories by reflecting everything around it.
 
-i've seen a theory that youzi is the one who's actually gay, and she's been projecting onto her mom. this has sooo many implications and pretty much doubles the depth the manga already has.
+i've also seen a theory that youzi is the one who's actually gay, and she's been projecting onto her mom. this has sooo many implications and pretty much doubles the depth the manga already has.
 
 ## honarable mentions
 - **Bloom Into You**
