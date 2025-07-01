@@ -27,5 +27,7 @@ Ok, nevermind. if the court says so. I've been fooled. Why would Satoshi Nakamot
 
 So clearly, Satoshi Nakamoto is Elon M-
 
+## see also
+- [Flying Spaghetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
 
 [1]: https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/
