@@ -1,5 +1,5 @@
 ---
-tags: linux productivity
+tags: productivity computers
 title: How I navigate my school documents using the command line (and why you might want to too)
 ---
 

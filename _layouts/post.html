@@ -8,14 +8,14 @@ permalink: pretty
 
   <section class="post-info">
     <span class="post-date dt-published" datetime="{{ page.date | date: " %Y-%m-%d %H:%M:%S" }}">
-      {{ page.date | date_to_string }}
+      {{ page.date | date: "%e %B, %Y" }}
     </span>
-    <span>·</span>
+    <span>· </span>
 
-    <span class="p-author h-card">meow_d</span>
+    <span class="p-author h-card">by meow_d</span>
 
     {% if page.tags.size > 0 %}
-      <span>·</span>
+      <span>· </span>
       <span class="post-tags">
         {% for tag in page.tags %}
           <a class="p-category" href="/tags#{{ tag }}">#{{ tag }}</a>
