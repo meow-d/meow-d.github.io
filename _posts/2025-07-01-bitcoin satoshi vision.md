@@ -11,8 +11,7 @@ Guess what, hater? He actually [did it](https://archive.ph/20160502072026/http:/
 
 NOW letS's visit his webbed site.... [H T T P S colon slash slash craig wright dot net...](https://craigwright.net)
 
-<img src="/assets/images/post-images/craigwright-dot-net.png" alt="LEGAL NOTICE:
-DR CRAIG STEVEN WRIGHT IS NOT SATOSHI NAKAMOTO
+<img src="/assets/images/post-images/craigwright-dot-net.png" alt="LEGAL NOTICE: DR CRAIG STEVEN WRIGHT IS NOT SATOSHI NAKAMOTO.
 On 20 May 2024, Dr Craig Steven Wright was found by the High Court of England and Wales to have been dishonest in his claims to have been the person behind the pseudonym Satoshi Nakamoto (the creator of Bitcoin).
 The Court found that Dr Wright “lied to the Court extensively and repeatedly” in his evidence and that he attempted to create a false narrative by forging documents “on a grand scale” and presenting them in evidence. Overall, “all his lies and forged documents were in support of his biggest lie: his claim to be Satoshi Nakamoto.” In advancing his false claim to be Satoshi through multiple legal actions, Dr Wright committed “a most serious abuse” of the process of the courts of the UK, Norway and the USA. The High Court formally declared as follows:
 First, that Dr Wright is not the author of the Bitcoin White Paper.
