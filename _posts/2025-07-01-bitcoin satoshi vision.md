@@ -22,7 +22,7 @@ Fifth, Dr Wright is not the author of the initial versions of the Bitcoin Softwa
 The full judgment, and its appendix detailing various forged documents created by Dr Wright, is accessible at the following URL: https://www.judiciary.uk/judgments/copa-v-wright/.
 Dr Wright has been ordered not to commence any legal proceedings based on his false claims (by claim or counterclaim) or procure any other person to do so. He has also been ordered not to threaten any such proceedings (explicitly or implicitly) or procure any other person to do so.">
 
-Ok, nevermind. if the court says so. I've been fooled. Why would Satoshi Nakamoto public reveal himself after years of being anonymous.
+Honestly, Nevermind. if the court says so. I've been fooled. Why would Satoshi Nakamoto public reveal himself after years of being anonymous.
 
 So clearly, Satoshi Nakamoto is Elon M-
 
