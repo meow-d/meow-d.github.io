@@ -6,7 +6,7 @@ tags: computers
   * a personal preference
 
 * `toolkit.tabbox.switchByScrolling`
-  * for some reason, this functionality is enabled by default on chrome linux specifically. when i was first using linux AND still used chrome AND my scroll wheel wasn't broken, it was my main way of navigating between tabs.
+  * for some reason, this functionality is enabled by default on chrome linux specifically. i don't think it's even enabled on chrome windows, or firefox anywhere. when i was first using linux AND still used chrome AND my scroll wheel wasn't broken, it was my main way of navigating between tabs.
 
 * `network.predictor.enable-hover-on-ssl`
   + prefetching is enabled by default but this isn't
