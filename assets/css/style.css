@@ -5,6 +5,7 @@
   --text: #dcdcdc;
   --gray-text: #bbbbbb;
   --button-scale: 1.5;
+  --box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37), inset 0 4px 20px rgba(255, 255, 255, 0.27), inset 1px 1px 2px 0px rgba(255, 255, 255, 0.4);
 }
 
 @media screen and (max-width: calc(600px)) {
@@ -50,7 +51,7 @@ nav {
 
   background-color: rgba(0, 0, 0, 0.4);
   color: var(--text);
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37), inset 0 4px 20px rgba(255, 255, 255, 0.27), inset 1px 1px 2px 0px rgba(255, 255, 255, 0.4);
+  box-shadow: var(--box-shadow);
 }
 
 /* Blog */
@@ -76,6 +77,7 @@ nav {
 .post-info {
   font-family: "Merriweather", serif;
 }
+
 .post-info,
 .post-date,
 .post-tags,
@@ -139,6 +141,15 @@ blockquote {
 code {
   text-wrap: wrap;
   overflow-wrap: break-word;
+}
+
+div.highlight {
+  border-radius: 10px;
+  margin: 0.5em 0;
+  padding: 0.5em;
+  color: #fff;
+  background-color: #00000027;
+  box-shadow: var(--box-shadow);
 }
 
 audio {
