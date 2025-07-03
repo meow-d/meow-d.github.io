@@ -18,4 +18,4 @@ i can't imagine a gokurakugai anime adaptation going well, for a story that's th
 
 to be fair, if there's anything that solo leveling and mashle taught us, it's that you don't need to surpass a source material's art, you just need to be good enough. however. if there's anything sakamoto days taught us, if you fall short of that, you're cooked. by "that" i mean you need to be A-1 Pictures level.
 
-i pray that some god level character designer like kappe would work on it.
+if it ever gets an anime, i pray that some god level character designer like kappe would work on it.
