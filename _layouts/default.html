@@ -33,9 +33,11 @@
   </head>
 
   <body>
-    {% include navigation.html %}
-    <main>{{ content }}</main>
-    {% include comments.html %}
+    <div class="container">
+      {% include navigation.html %}
+      <main>{{ content }}</main>
+      {% include comments.html %}
+    </div>
   </body>
 
   <script

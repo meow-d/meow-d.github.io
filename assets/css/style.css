@@ -28,13 +28,13 @@ body {
   line-height: 1.6em;
 
   /* Padding, margin and stuff */
-  padding: 5vh var(--body-padding);
   margin: 0;
   overflow: overlay;
 
   /* Background */
-  background-color: #000000;
-  background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #000000 28px), repeating-linear-gradient(#4e000055, #4e0000);
+  background-color: #962B3D;
+  background-image: linear-gradient(to bottom, #962B3D, #EA3D3C, #EA3D3C, #e7bd6a);
+  background-image: url(/assets/images/background/mpv-shot0019.png);
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
@@ -42,11 +42,16 @@ body {
 }
 
 /* Main content / Content box */
-main,
-#comments {
-  margin: 0 auto;
-  padding: var(--main-padding);
+.container {
+  padding: 5vh var(--body-padding);
   max-width: 38rem;
+}
+
+main,
+#comments,
+nav {
+  padding: var(--main-padding);
+  margin-bottom: 1.5em;
 
   border-radius: 20px;
   backdrop-filter: blur(5px);
@@ -96,6 +101,7 @@ main,
 /* Text */
 h1 {
   color: white;
+  line-height: normal;
 }
 
 h2 {
@@ -176,10 +182,6 @@ a:active {
 }
 
 /* Comments */
-#comments {
-  margin-top: 1.5em;
-}
-
 #comments>h2 {
   margin-top: 0;
 }
@@ -211,8 +213,9 @@ a:active {
 
 /* Navigation bar */
 nav {
-  text-align: center;
   word-spacing: 10px;
+  padding: 0.5em 1em;
+  border-radius: 17px;
 }
 
 nav span {
