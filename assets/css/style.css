@@ -117,12 +117,14 @@ h3 {
   margin: 0;
 }
 
+audio,
+iframe,
 img {
   max-width: 100%;
-  height: auto;
   border-radius: 15px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
 }
+
 
 ul {
   padding-left: 1.5em;
@@ -150,14 +152,6 @@ div.highlight {
   color: #fff;
   background-color: #00000027;
   box-shadow: var(--box-shadow);
-}
-
-audio {
-  width: 100%;
-}
-
-iframe {
-  width: 100%;
 }
 
 /* Hyperlinks*/
