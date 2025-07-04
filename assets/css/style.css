@@ -23,7 +23,6 @@ body {
 
   /* Padding, margin and stuff */
   margin: 0;
-  overflow: overlay;
 
   /* Background */
   background-color: #962B3D;
@@ -106,8 +105,8 @@ h1 {
   color: gold;
   display: block;
   position: absolute;
-  right: -4em;
-  top: 1.5em;
+  right: -1em;
+    top: 0.5em;
   rotate: 10deg;
   animation: spin-once 1s cubic-bezier(.65, .05, .36, 1) 1;
   text-shadow: #000 1px 1px 1px;
