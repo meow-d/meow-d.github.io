@@ -133,6 +133,7 @@ img {
 }
 
 #comments>#cusdis_thread>iframe {
+  border-radius: 0;
   box-shadow: none;
 }
 
