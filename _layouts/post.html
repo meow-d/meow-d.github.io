@@ -4,7 +4,12 @@ permalink: pretty
 ---
 
 <article class="h-entry">
-  <h1 class="p-name">{{ page.title }}</h1>
+  <h1 class="p-name">
+    {{ page.title }}
+    {% if page.seal == true %}
+      <span class="kold-seal">Koldinium seal of approval™</span>
+    {% endif %}
+  </h1>
 
   <section class="post-info">
     <span class="post-date dt-published" datetime="{{ page.date | date: " %Y-%m-%d %H:%M:%S" }}">

@@ -101,6 +101,27 @@ h1 {
   line-height: normal;
 }
 
+.kold-seal {
+  font-size: small;
+  color: gold;
+  display: block;
+  position: absolute;
+  right: -4em;
+  top: 1.5em;
+  rotate: 10deg;
+  animation: spin-once 1s cubic-bezier(.65, .05, .36, 1) 1;
+}
+
+@keyframes spin-once {
+  from {
+    rotate: 10deg;
+  }
+
+  to {
+    rotate: 370deg;
+  }
+}
+
 h2 {
   font-family: "Merriweather", serif;
   margin-top: 1.5em;
