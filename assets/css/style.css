@@ -140,7 +140,8 @@ h3 {
 
 hr {
   border: 0;
-  height: 1px;
+  /* idk why is it 2px sometimes unless i do this */
+  height: 0.9px;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), var(--gray-text), rgba(0, 0, 0, 0));
   margin: 1.5em 0;
 }
