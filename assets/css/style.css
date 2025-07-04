@@ -47,9 +47,9 @@ nav {
   margin-bottom: 1.5em;
 
   border-radius: 20px;
-  backdrop-filter: blur(10px) contrast(1.2) hue-rotate(-5deg);
+  backdrop-filter: blur(10px) saturate(1.2) hue-rotate(-10deg);
 
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   color: var(--text);
   box-shadow: var(--box-shadow);
 }
