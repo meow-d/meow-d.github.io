@@ -132,6 +132,10 @@ img {
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
 }
 
+#comments>#cusdis_thread>iframe {
+  box-shadow: none;
+}
+
 ul {
   padding-left: 1.5em;
 }
