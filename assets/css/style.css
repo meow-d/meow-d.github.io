@@ -110,6 +110,7 @@ h1 {
   top: 1.5em;
   rotate: 10deg;
   animation: spin-once 1s cubic-bezier(.65, .05, .36, 1) 1;
+  text-shadow: #000 1px 1px 1px;
 }
 
 @keyframes spin-once {
