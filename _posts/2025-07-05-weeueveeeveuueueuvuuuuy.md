@@ -18,7 +18,7 @@ her preferences of not having autopair is interesting to me. most programmers do
 
 do you see the difference between a rant and talking normally? it's the ability to agree to disagree. it's open mindedness. it's normal to be frustrated as a user but if you let that anger take over you, you become unreasonable. there's nothing wrong with people who do prefer auto capitalize, autopair, or llm autocomplete, but you don't have time to stop and think in a rant.
 
-also, the thing is, eevee talked about "asking chatgpt and getting a hallucination" as a unique experience. she has only used llms a few times if you're being generous. probably years ago, unaware of recent advancements in tooling and model capabilities.
+also, the thing is, eevee talked about "asking chatgpt and getting a hallucination" as a one-time experience. she has only used llms a few times if you're being generous. probably years ago, unaware of recent advancements in tooling and model capabilities.
 
 >“Ah!” the Hacker News commenters cry.  “But have you tried it?” [...] But yes, thanks: I was once offered this challenge when faced with a Ren’Py problem, so I grit my teeth and posed my question to some LLM.  It confidently listed several related formatting tags that would solve my problem.
 
