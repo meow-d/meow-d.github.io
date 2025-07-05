@@ -6,6 +6,7 @@
   --gray-text: #bbbbbb;
   --button-scale: 1.5;
   --box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37), inset 0 4px 20px rgba(255, 255, 255, 0.27), inset 1px 1px 2px 0px rgba(255, 255, 255, 0.4);
+  --box-shadow-lite: 0 8px 32px rgba(0, 0, 0, 0.37);
 }
 
 @media screen and (max-width: calc(600px)) {
@@ -151,7 +152,7 @@ iframe,
 img {
   max-width: 100%;
   border-radius: 15px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+  box-shadow: var(--box-shadow-lite);
 }
 
 #comments>#cusdis_thread>iframe {
@@ -288,7 +289,12 @@ nav a#current:after {
 .buttons iframe {
   width: calc(81px * var(--button-scale));
   height: calc(31px * var(--button-scale));
+  border-radius: 1px;
   border: none;
+}
+
+.buttons a {
+  text-decoration: none;
 }
 
 .buttons img,
@@ -296,14 +302,14 @@ nav a#current:after {
   width: calc(81px * var(--button-scale));
   height: calc(31px * var(--button-scale));
   image-rendering: pixelated;
-  border-radius: 1px;
+  border-radius: 0;
 }
 
 .buttons a img:hover {
   filter: brightness(1.1);
-  box-shadow: 0 0 10px 0px #ffffff;
-  transform: scale(1.1);
-  transition: all 0.2s;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.694);
+  transform: scale(1.15) translateY(-6px);
+  transition: all cubic-bezier(.93, .41, .55, 1.94) 0.2s;
 }
 
 .buttons a img:active {
