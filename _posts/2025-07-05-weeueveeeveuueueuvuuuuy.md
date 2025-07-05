@@ -1,10 +1,16 @@
+---
+title: the risez of whateverz
+tags: internet
+summary: eueueueueueueeueueeueueueueue
+---
+
 https://eev.ee/blog/2025/07/03/the-rise-of-whatever/
 
 i am annoyed by this article for a lot of reasons, but most of them are ones where i can agree to disagree. the actual real problem is that it's a boomer rant, a "why aren't things fun anymore" post written out of anger. i can enjoy rants when they are funny and no one gives the guy power, but this isn't one of those cases.
 
 to illustrate what i mean:
 
->Like, just to calibrate here: you know how some code editors will automatically fill in a right bracket or quote when you type a left one? You type " and the result is "|"? Yeah, that drives me up the wall. It saves no time whatsoever, and it’s wrong often enough that I waste time having to correct for it.
+>Like, just to calibrate here: you know how some code editors will automatically fill in a right bracket or quote when you type a left one? You type " and the result is "\|"? Yeah, that drives me up the wall. It saves no time whatsoever, and it’s wrong often enough that I waste time having to correct for it.
 
 >And that’s a predictable operation that inserts a single character! What we’ve invented is an entire fake persona that will waste your time entire paragraphs at once.
 
@@ -18,7 +24,7 @@ also, the thing is, eevee talked about "asking chatgpt and getting a hallucinati
 
 >One teeny tiny issue: those tags did not and had never existed.  I typed this additional context into the computer, and it generated a profuse apology followed by a different set of fictional tags.  That was the end of that grand experiment.
 
-i can bullshit an article titled, say, "why react is cancer and ruined webdev forever", using points i don't understand parroted from reddit and by asking chatgpt to write it. would you get mad at me for that article? would you get mad at boomer rant slop written by someone who knows nothing about the subject? would get mad at a brick wall? there's really no point to debate a brick wall.
+i can bullshit an article titled, say, "why react is cancer and ruined webdev forever", using points i don't understand parroted from reddit and by asking chatgpt to write it. would you get mad at me for that article? would you get mad at boomer rant slop written by someone who knows nothing about the subject? would you get mad and start debating a a brick wall?
 
 granted, a chatgpt generated slop wouldn't have the passion and entertainment value as human slop, but the amount of research is still the same, so you get
 the point.
