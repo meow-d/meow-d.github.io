@@ -26,5 +26,4 @@ also, the thing is, eevee talked about "asking chatgpt and getting a hallucinati
 
 i can bullshit an article titled, say, "why react is cancer and ruined webdev forever", using points i don't understand parroted from reddit and by asking chatgpt to write it. would you get mad at me for that article? would you get mad at boomer rant slop written by someone who knows nothing about the subject? would you get mad and start debating a brick wall?
 
-granted, a chatgpt generated slop wouldn't have the passion and entertainment value as human slop, but the amount of research is still the same, so you get
-the point.
+granted, a chatgpt generated slop wouldn't have the passion and entertainment value as human slop, but you get the point.
