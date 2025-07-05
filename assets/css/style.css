@@ -308,14 +308,14 @@ nav a#current:after {
 .buttons a img:hover {
   filter: brightness(1.2);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.694);
-  transform: scale(1.15) translateY(-5px);
+  transform: scale(1.15) translateY(-6px);
   transition: all cubic-bezier(.93, .41, .55, 1.94) 0.2s;
 }
 
 .buttons a img:active {
   filter: brightness(0.9);
   box-shadow: 0 0 10px 0px #000000;
-  transform: scale(0.9) translateY(2px);
+  transform: scale(0.9) translateY(4px);
   transition: all 0.01s;
 }
 
