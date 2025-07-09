@@ -3,9 +3,8 @@
     <span>
       <a
         href="{{ item.link }}"
-        {% if page.url == item.link %}
-        id="current"
-        {% endif %}>
+        rel="prefetch"
+        {% if page.url == item.link %} id="current" {% endif %}>
         {{ item.name | strip }}
       </a>
     </span>
