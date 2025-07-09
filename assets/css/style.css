@@ -26,8 +26,8 @@ body {
   margin: 0;
 
   /* Background */
-  background-image: url(/assets/images/background/mpv-shot0019.png), linear-gradient(to bottom, #962B3D, #EA3D3C, #EA3D3C, #FA8F58 55%, #ffdc9a);
-  background-color: #EA3D3C;
+  background-image: url(/assets/images/background/mpv-shot0074.webp);
+    background-color: #386A4C;
   background-size: cover;
   background-attachment: fixed;
   animation-timing-function: ease;
