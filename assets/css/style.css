@@ -4,7 +4,7 @@
   --main-padding: 1.5em;
   --text: #dcdcdc;
   --gray-text: #bbbbbb;
-  --accent: #ff95a9;
+  --accent: #ff99ac;
   --button-scale: 1.5;
   --box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37), inset 0 4px 20px rgba(255, 255, 255, 0.27), inset 1px 1px 2px 0px rgba(255, 255, 255, 0.4);
   --box-shadow-lite: 0 8px 32px rgba(0, 0, 0, 0.37);
@@ -47,9 +47,9 @@ nav {
   margin-bottom: 1.5em;
 
   border-radius: 20px;
-  backdrop-filter: blur(10px) saturate(1.2) hue-rotate(-10deg);
+  backdrop-filter: blur(7px) hue-rotate(15deg);
 
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.45);
   color: var(--text);
   box-shadow: var(--box-shadow);
 }
