@@ -44,14 +44,15 @@
     </div>
 
     <video
+      hx-preserve
+      id="video-background"
+      width="720"
+      height="1080"
       autoplay
       muted
       loop
-      playsinline
-      hx-preserve="true"
-      id="video-background"
-      onload="this.muted = true; this.play();">
-      <source src="/assets/images/background/waguri.mp4" type="video/mp4">
+      playsinline>
+      <source src="/assets/images/background/waguri.webm" type="video/webm">
     </video>
   </body>
 
