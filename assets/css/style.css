@@ -26,25 +26,11 @@ body {
   margin: 0;
 
   /* Background */
-  background-color: #EA3D3C;
   background-image: url(/assets/images/background/mpv-shot0019.png), linear-gradient(to bottom, #962B3D, #EA3D3C, #EA3D3C, #FA8F58 55%, #ffdc9a);
-  /* background-size: cover; */
-  /* background-attachment: fixed; */
-
-  animation-timing-function: ease;
-}
-
-/* Actual background */
-.background {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
   background-color: #EA3D3C;
   background-size: cover;
   background-attachment: fixed;
+  animation-timing-function: ease;
 }
 
 /* Main content / Content box */
