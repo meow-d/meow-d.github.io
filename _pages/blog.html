@@ -14,7 +14,7 @@ title: Blog
 {% endfor %}
 {% endcomment %}
 
-<ul class="posts">
+<ul class="posts" hx-boost="true">
   {% for post in site.posts %}
     {% unless post.pinned %}
       {% include post-item.html %}

@@ -4,18 +4,16 @@
   <head>
     <meta charset="utf-8">
 
+    <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link
       rel="preconnect"
       href="https://fonts.gstatic.com"
       crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    {% if page.fontawesome %}
-      <link rel="stylesheet" href="/assets/fontawesome/css/fontawesome.min.css">
-      <link rel="stylesheet" href="/assets/fontawesome/css/solid.min.css">
-      <link rel="stylesheet" href="/assets/fontawesome/css/brands.min.css">
-    {% endif %}
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/fontawesome/css/fontawesome.min.css">
+    <link rel="stylesheet" href="/assets/fontawesome/css/solid.min.css">
+    <link rel="stylesheet" href="/assets/fontawesome/css/brands.min.css">
 
     <title>{{ page.title }}</title>
     <link rel="icon" href="/assets/images/noto_fish_animated.gif" />
@@ -51,5 +49,9 @@
     fetchpriority="low"
     src='https://static.cloudflareinsights.com/beacon.min.js'
     data-cf-beacon='{"token": "778ca85d7a82478fae4749ebed823702"}'></script>
+  <script
+    defer
+    fetchpriority="low"
+    src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js"></script>
 
 </html>
