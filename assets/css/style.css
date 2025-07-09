@@ -4,6 +4,7 @@
   --main-padding: 1.5em;
   --text: #dcdcdc;
   --gray-text: #bbbbbb;
+  --accent: #ff95a9;
   --button-scale: 1.5;
   --box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37), inset 0 4px 20px rgba(255, 255, 255, 0.27), inset 1px 1px 2px 0px rgba(255, 255, 255, 0.4);
   --box-shadow-lite: 0 8px 32px rgba(0, 0, 0, 0.37);
@@ -196,7 +197,7 @@ div.highlight {
 /* Hyperlinks*/
 a:link,
 a:visited {
-  color: #ff7590;
+  color: var(--accent);
   text-decoration: none;
   transition: text-shadow 0.05s, color 0.1s;
 }
