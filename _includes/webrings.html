@@ -1,0 +1,7 @@
+<div class="webrings">
+  {% for webring in site.data.webrings %}
+    <a class="prev" href="{{ webring.prev }}">&larr;</a>
+    <a class="name" href="{{ webring.link }}">{{ webring.name }}</a>
+    <a class="next" href="{{ webring.next }}">&rarr;</a>
+  {% endfor %}
+</div>
