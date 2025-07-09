@@ -24,3 +24,6 @@ if we never see each other again, i hope you remember me the same way i remember
 
 ## buttons
 {% include buttons.html %}
+
+## webrings
+{% include webrings.html %}

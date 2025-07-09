@@ -325,6 +325,24 @@ nav a#current:after {
   transition: all 0.01s;
 }
 
+/* webrings */
+.webrings {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  font-family: "Merriweather", serif;
+}
+
+.webrings .name {
+  vertical-align: middle;
+}
+
+.webrings .prev,
+.webrings .next {
+  font-size: 1.5em;
+}
+
 /* vibes images */
 #vibes {
   display: grid;
