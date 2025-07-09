@@ -27,11 +27,23 @@ body {
   margin: 0;
 
   /* Background */
-  background-image: url(/assets/images/background/mpv-shot0074.avif);
-  background-color: #386A4C;
+  background-image: url(/assets/images/background/waguri.webp), linear-gradient(to bottom, #3656BA, #E9ABCE);
+  background-color: #3656BA;
   background-size: cover;
   background-attachment: fixed;
   animation-timing-function: ease;
+}
+
+#video-background {
+  position: fixed;
+  left: 0;
+  top: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  z-index: -1;
 }
 
 /* Main content / Content box */

@@ -37,12 +37,41 @@
   </head>
 
   <body>
-    <div class="container">
+    <div class="container" hx-boost="true">
       {% include navigation.html %}
       <main>{{ content }}</main>
       {% include comments.html %}
     </div>
+
+    <video
+      autoplay
+      muted
+      loop
+      playsinline
+      hx-preserve="true"
+      id="video-background"
+      onload="this.muted = true; this.play();">
+      <source src="/assets/images/background/waguri.mp4" type="video/mp4">
+    </video>
   </body>
+
+  <script>
+    const video = document.getElementById('video-background');
+
+    const attemptPlay = () => {
+      video.play().finally(() => {
+        document.removeEventListener('click', attemptPlay);
+        document.removeEventListener('touchstart', attemptPlay);
+      });
+    };
+
+    window.addEventListener('DOMContentLoaded', () => {
+      video.play().catch(() => {
+        document.addEventListener('click', attemptPlay);
+        document.addEventListener('touchstart', attemptPlay);
+      });
+    });
+  </script>
 
   <script
     defer
