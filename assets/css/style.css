@@ -325,6 +325,14 @@ nav a#current:after {
   transition: all 0.01s;
 }
 
+#button-desc {
+  font-style: italic;
+  color: var(--gray-text);
+  font-size: 0.9em;
+  margin: 0;
+  height: 1.5em;
+}
+
 /* webrings */
 .webrings {
   font-family: "Merriweather", serif;

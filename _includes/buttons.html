@@ -1,16 +1,19 @@
 {% assign buttons = site.data.frens %}
 
+{% comment %} buttons {% endcomment %}
 <div class="buttons">
   {% for button in buttons %}
     {% if button.src %}
       <a href="{{ button.href }}" target="_blank">
 
+        {% comment %} fallback {% endcomment %}
         {% if button.fallback %}
           {% assign fallback = button.fallback %}
         {% else %}
           {% assign fallback = "/assets/images/buttons/Huh%3F Why didnt I start the fire%3F Well, they never came home. Are you mad%3F I got the kerosene ready and everything. Just like you said to. I know I didnt dump it over my head. But I didnt want to get wet. Besides, if they werent coming back.png" %}
         {% endif %}
 
+        {% comment %} iframe buttons {% endcomment %}
         {% if button.iframe %}
           <iframe
             src="{{ button.src }}"
@@ -18,6 +21,7 @@
             title="{{ button.title }}"
             sandbox="allow-scripts allow-popups"></iframe>
 
+        {% comment %} gif buttons (static versions for accessibility) {% endcomment %}
         {% elsif button.src-static %}
           <picture>
             <source
@@ -32,6 +36,7 @@
               onerror="this.onerror=null; this.src=`{{ fallback }}`;">
           </picture>
 
+        {% comment %} regular buttons {% endcomment %}
         {% else %}
           <img
             src="{{ button.src }}"
@@ -43,8 +48,32 @@
       </a>
     {% endif %}
   {% endfor %}
+
 </div>
 
+{% comment %} button description {% endcomment %}
+<p id="button-desc">hover a button for description :)&nbsp; (bro thinks she's notnite)</p>
+<p id="button-desc-mobile"></p>
+
+<script>
+  function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+  }
+
+  document.querySelectorAll('.buttons a img, .buttons iframe').forEach(b => {
+    b.addEventListener('mouseover', (e)=>{
+      document.querySelector('#button-desc').innerText = b.title || b.alt || 'No description available';
+    });
+
+    b.addEventListener('mouseout', (e)=>{
+      document.querySelector('#button-desc').innerText = getRandomInt(20) !== 0
+        ? 'hover a button for a description :)'
+        : "i mean... the description is in the title so you don't actually need this...";
+    });
+  });
+</script>
+
+{% comment %} friends with no buttons are displayed in a list {% endcomment %}
 <ul>
   {% for button in buttons %}
     {% unless button.src %}
