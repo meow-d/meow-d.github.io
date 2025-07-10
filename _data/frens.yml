@@ -1,66 +1,81 @@
-- title: meow_d (that's me)
+- title: meow_d
+  description: that's me
   href: https://meow-d.github.io/
   src: /assets/images/buttons/meow_d.webp
 
-- title: miyuko (i made this button!)
+- title: miyuko
+  description: i made this button! guess where's the anime girl from
   href: https://calayucu.com/
   src: /assets/images/buttons/miyuko.webp
 
-- title: mary (i made this button.. but it didn't turn out well..)
+- title: mary
+  description: crudely drawn rin yuru camp by yours truly
   href: https://mary.my.id/
   src: /assets/images/buttons/mary.webp
   alt: crudely drawn rin yuru camp by yours truly
 
-- title: rini (i don't think her domain is ever getting renewed, so enjoy the placeholder)
+- title: rini
+  description: i don't think her domain is ever getting renewed, so enjoy the placeholder. if you happen to know where it's from... can we kiss?
   href: https://rinici.de/
   src: https://rinici.de/button.png
 
-- title: em (life changing person)
+- title: em
+  description: largest button on the site. also had an extremely long monologue as a joke until it got too personal and i got really uncomfortable with the public reading it
   href: https://easrng.net/
   src: /assets/images/buttons/easrng.gif
   src-static: /assets/images/buttons/easrng.static.gif
 
-- title: june (spiders georg of domains)
+- title: june
+  description: spiders georg of domains. also top 1 on the 'people i want to meet irl list'
   href: https://girlboss.ceo/
   src: /assets/images/buttons/june.png
 
-- title: rini's sand toy (modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience)
+- title: rini's sand toy
+  description: but modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience
   iframe: true
   src: /sand
   # src: https://rinici.de/buttons/sand
 
 - title: devi
+  description: <3
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
 
-- title: angel demi yara aiyralia aiwa thighjobceo (she changes her name like every month i have no idea what to call her anymore)
+- title: angel demi yara aiyralia aiwa thighjobceo
+  description: she changes her name like every month i have no idea what to call her anymore
   href: https://demi.sh/
   src: https://demi.sh/88x31.png
   fallback: /assets/images/buttons/demi.png
 
 - title: LeNooby09
+  description: his site is just like a real terminal, as in that it gets really annoying when the line wraps (on mobile)
   href: https://lenooby09.github.io/
   src: /assets/images/buttons/lenooby09.png
 
 - title: split
+  description: spiders georg of using the word 'faggot'
   href: https://split.pet
   src: /assets/images/buttons/split.png
 
 - title: onzecki
+  description: her and notnite are what i like to call 'button freaks', they're obsessed with 88x31 buttons to a concerning degree
   href: https://onz.ee/
   src: assets/images/buttons/onzecki.png
 
 - title: soopyc/cassie
+  description: "if your pinned post is mizuena plushes stacked on top of each other titled 'i present to you... the sillies', that's RIZZ"
   href: https://soopy.moe/
   src: https://soopy.moe/images/buttons/own/88x31.gif
 
-- title: elysia (i cannot comprehend her for the life of me)
+- title: elysia
+  description: i cannot comprehend her for the life of me
   href: https://le.alphamethyl.barr0w.net/~elysia
   src: https://le.alphamethyl.barr0w.net/~elysia/storage/icons/buttons/elysia.png
   alt: very pink background with dotted elements. it says 'meow!' in big block letters, and 'elysia' under that. there is a picture of a pink haired cat girl on the right
   fallback: /assets/images/buttons/elysia.png
 
-- title: lily (idk if she has a button so i shoved her into an 88x31 square and cleaned it up a bit)
+- title: lily
+  description: idk if she has a button so i shoved her into an 88x31 square and cleaned it up a bit in krita
   href: https://87flowers.com/
   src: /assets/images/buttons/lily.webp
 
@@ -69,7 +84,8 @@
 #   src: /assets/images/buttons/spax.gif
 #   src-static: /assets/images/buttons/spax.static.gif
 
-- title: 🔥 KILL A6 HAWK 🔥 (i have no idea who a6hawk is i was just following orders)
+- title: 🔥 KILL A6 HAWK 🔥
+  description: i have no idea who a6hawk is i was just following orders
   href: https://a6hawk.com/kill/kill.webm
   src: /assets/images/buttons/killa6hawk.gif
   src-static: /assets/images/buttons/killa6hawk.static.png

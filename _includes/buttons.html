@@ -19,6 +19,7 @@
             src="{{ button.src }}"
             loading="lazy"
             title="{{ button.title }}"
+            data-description="{{ button.description }}"
             sandbox="allow-scripts allow-popups"></iframe>
 
         {% comment %} gif buttons (static versions for accessibility) {% endcomment %}
@@ -32,6 +33,7 @@
               src="{{ button.src }}"
               alt="{{ button.alt | default: button.title }}"
               title="{{ button.title }}"
+              data-description="{{ button.description }}"
               loading="lazy"
               onerror="this.onerror=null; this.src=`{{ fallback }}`;">
           </picture>
@@ -42,6 +44,7 @@
             src="{{ button.src }}"
             alt="{{ button.alt | default: button.title }}"
             title="{{ button.title }}"
+            data-description="{{ button.description }}"
             loading="lazy"
             onerror="this.onerror=null; this.src=`{{ fallback }}`;">
         {% endif %}
@@ -62,13 +65,11 @@
 
   document.querySelectorAll('.buttons a img, .buttons iframe').forEach(b => {
     b.addEventListener('mouseover', (e)=>{
-      document.querySelector('#button-desc').innerText = b.title || b.alt || 'No description available';
+      document.querySelector('#button-desc').innerText = `${b.title} - ${b.dataset.description || 'no description'}`;
     });
 
     b.addEventListener('mouseout', (e)=>{
-      document.querySelector('#button-desc').innerText = getRandomInt(20) !== 0
-        ? 'hover a button for a description :)'
-        : "i mean... the description is in the title so you don't actually need this...";
+      document.querySelector('#button-desc').innerText = 'hover a button for a description :)';
     });
   });
 </script>
