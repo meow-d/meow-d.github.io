@@ -60,6 +60,10 @@
   alt: very pink background with dotted elements. it says 'meow!' in big block letters, and 'elysia' under that. there is a picture of a pink haired cat girl on the right
   fallback: /assets/images/buttons/elysia.png
 
+- title: lily (no button) (button is just her)
+  href: https://87flowers.com/
+  src: /assets/images/buttons/lily.webp
+
 # - title: spax
 #   href: https://spax.zone/
 #   src: /assets/images/buttons/spax.gif
