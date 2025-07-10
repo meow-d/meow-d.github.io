@@ -330,7 +330,8 @@ nav a#current:after {
   color: var(--gray-text);
   font-size: 0.9em;
   margin: 0;
-  height: 1.5em;
+  line-height: 1.2em;
+  min-height: calc(1.2em * 2);
 }
 
 /* webrings */
