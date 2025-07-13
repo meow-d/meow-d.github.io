@@ -15,9 +15,10 @@
   alt: crudely drawn rin yuru camp by yours truly
 
 - title: rini
-  description: i don't think her domain is ever getting renewed, so enjoy the placeholder. if you happen to know where it's from... can we kiss?
+  description: no, this is not her original button
   href: https://rinici.de/
   src: https://rinici.de/button.png
+  fallback: /assets/images/buttons/rini.png
 
 - title: em
   description: largest button on the site. also had an extremely long monologue as a joke until it got too personal and i got really uncomfortable with the public reading it
