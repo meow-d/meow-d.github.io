@@ -1,10 +1,15 @@
-<article class="post-item">
+<article
+  class="post-item"
+  {% if post.permalink %}
+  hx-boost="false"
+  {% endif %}>
 
   <a href="{{ post.url }}">
     <p>
       {{ post.title }}
     </p>
-    <span class="post-date">{{ post.date | date: '%F' }}</span></a>
+    <span class="post-date">{{ post.date | date: '%F' }}</span>
+  </a>
   &nbsp;
 
   <span class="post-tags">

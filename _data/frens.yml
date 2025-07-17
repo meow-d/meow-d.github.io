@@ -16,9 +16,9 @@
 
 - title: rini
   description: no, this is not her original button
-  href: https://rinici.de/
-  src: https://rinici.de/button.png
-  fallback: /assets/images/buttons/rini.png
+  href: https://www3.rinici.de/
+  # src: https://rinici.de/button.png
+  src: /assets/images/buttons/rini.png
 
 - title: em
   description: largest button on the site. also had an extremely long monologue as a joke until it got too personal and i got really uncomfortable with the public reading it
