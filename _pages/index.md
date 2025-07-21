@@ -5,7 +5,7 @@ title: Home
 fontawesome: true
 ---
 
-i would be happier if i was heartless
+i would be happier if i was heartless like you.
 
 ## links
 
