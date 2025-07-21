@@ -12,7 +12,7 @@ if we never see each other again, i hope you remember me the same way i remember
 ### if you wanna chat
 - [<i class="fa-brands fa-discord"></i> Discord: wow.what.a.nice.dream](https://discordapp.com/users/468355290257948674)
 - [<i class="fa-brands fa-signal-messenger"></i> Signal: meow_d.11](https://signal.me/#eu/w33FkB44n51cb91bea6kZbCztiwZwTfcdbXNoPU19k5FIPgHUrFIkqnGby-3IYsD)
-- [<i class="fa-solid fa-hexagon-nodes"></i> Matrix: @meow_d:f.dog](https://matrix.to/#/@meow_d:f.dog)
+- [<i class="fa-solid fa-hexagon-nodes"></i> Matrix: @meow_d:matrix.org](https://matrix.to/#/@meow_d:matrix.org)
 
 ### media trackers
 - [<i class="fa-solid fa-tv"></i> Anilist](https://anilist.co/user/meowd/)
