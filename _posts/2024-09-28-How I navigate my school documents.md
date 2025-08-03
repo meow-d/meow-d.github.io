@@ -3,7 +3,7 @@ tags: productivity computers
 title: File navigation using the command line (and why you should too)
 ---
 
-at some point, i realize gui file managers are extremely heavy on my cognitive load, for reason i'm still not sure. i searched for a solution and eventually stumbled on just using the command line. as someone already familiar with command line, there's no downsides or time investment to me, while basically solving file managers to me.
+for reasons i'm still not sure, gui file managers are extremely hard for me to use. i searched for a solution and eventually stumbled on... just using the command line. as someone already familiar with command line, there's no downsides or time investment to me, while basically solving file managers to me.
 
 tldr: use of one of those smarter cd tools like zoxide, and an alias/abbr to the xdg-open command.
 
