@@ -9,7 +9,7 @@ I'm not sure if my brain is different, but I get tired extremely easily. And whe
 
 I'm like a computer swapping important stuff just to run a video game and freezing the DE, so that you can't even close your apps. When I'm tired, I skip things like showering and journaling to prioritize the task in front of me. It's like a carrot dangling in front of head it's just hours of shortsightedness thinking the problem will go away if I just try for 5 more minutes. In the worst-case scenario, I get to a point where I keep forgetting what I'm currently doing and start moving on to different tasks.
 
-I think seeing the problem in the lens of cognitive load theory makes sense. It's literally an indispensable part of UI/UX - non-tech-literate people tend to be inefficient with computers due to a combination of unoptimized workflows and unfamiliarity. The version of me in extreme tiredness resembles these people with how messy my technology usage is. An UX designer's whole job is to optimize cognitive load across novice and experts.
+I think seeing the problem in the lens of cognitive load theory makes sense. It's literally an indispensable part of UI/UX - non-tech-literate people tend to be inefficient with computers due to a combination of unoptimized workflows and unfamiliarity. The version of me in extreme tiredness resembles these people with how messy my technology usage is. A UX designer's whole job is to optimize cognitive load across novice and experts.
 
 Luckily I _am_ tech literate, I can always try making my workflows more optimized to manage my cognitive load. To varying degrees of success.
 
@@ -26,7 +26,7 @@ One of the benefits of having a todo system is a backup of my working memory, as
 
 But none of that worked in practice because I am always too tired to bother. Don't get me wrong, not utilizing your second brain is fine to me, because I don't think religiously following methodologies is a good thing. I like listening to my own body and if I feel like I'm wasting my time I'll just stop bothering organizing my notes. However, this is a case where not following the methodology harmed me in the long run.
 
-in a broader sense, I need a rule to prioritize self care over everything, avoid blindly following instincts[^1]. I need to internalize the fact that, if I have no energy for my PKM and self-care, I probably don't have the energy for other tasks and I'll be miserable, and I'll need to rest. I need to force myself to utilize the notes as an up-to-date backup of my working memory - what am I currently doing, the current list of tasks, etc.
+In a broader sense, I need a rule to prioritize self care over everything, avoid blindly following instincts[^1]. I need to internalize the fact that, if I have no energy for my PKM and self-care, I probably don't have the energy for other tasks and I'll be miserable, and I'll need to rest. I need to force myself to utilize the notes as an up-to-date backup of my working memory - what am I currently doing, the current list of tasks, etc.
 
 [^1]: I think that's what mindfulness is about but I'm not sure. I need to look into what mindfulness actually is I feel like my idea is probably very far from the actual thing.
 
