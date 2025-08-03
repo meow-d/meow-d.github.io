@@ -1,7 +1,9 @@
 ---
+title: The meow_d note-taking/PKMS setup™ (and what NOT to do)
 tags: productivity
-title: the meow_d note-taking/PKMS setup™ (and what NOT to do)
 ---
+
+![reddit comment "Temu Musk Tiago Forte in shambles."](/assets/images/post-images/temu-musk-tiago-forte.png)
 
 like a lot of people, i went through a PKM phase where i watched a ton of youtube videos on different ideologies, from PARA to zettelkasten, tried different software, like notion and joplin. the kind of phase where you're really motivated to finally change yourself for good, but deep down you knew no productivity system you try ever lasts and you will go back to my pathetic life sooner or later.
 
@@ -35,8 +37,6 @@ most importantly, everyone have different problems they want to solve with note-
 to me, 90% of the benefit came from the fact that i have a place to write things down, which can easily be provided by Google Keep or a RM1.20[^1] notepad. plus, i don't worry about remembering anything anymore. you don't have to write everything down, even just a little bit allows me to refresh my memory. it's especially useful in journaling, which gives you awareness in what you've done in this week or month.
 
 to this day, i still don't have the magical life-changing benefits the proponents claim. if you ever achieve that, all the power to you, i just don't believe it's a real thing to 99% of people. [in Joan Westenberg's rather divisive "I Deleted My Second Brain" article](https://www.joanwestenberg.com/p/i-deleted-my-second-brain), he goes as far as to argue that the premise of an archival-based second brain is fundamentally flawed. it is also a cautionary tale of what NOT to do for your PKM - don't religiously capture everything, don't spend too much energy on maintenance, and only do what works for you.
-
-![reddit comment "Temu Musk Tiago Forte in shambles."](/assets/images/post-images/temu-musk-tiago-forte.png)
 
 ---
 

@@ -10,5 +10,7 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "harper.linters.CapitalizePersonalPronouns": true,
+    "harper.linters.SentenceCapitalization": true
 }
