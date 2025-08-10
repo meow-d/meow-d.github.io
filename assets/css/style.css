@@ -31,6 +31,7 @@ body {
   background-color: #386A4C;
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
   animation-timing-function: ease;
 }
 
