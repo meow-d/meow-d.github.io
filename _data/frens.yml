@@ -80,6 +80,33 @@
   href: https://87flowers.com/
   src: /assets/images/buttons/lily.png
 
+- title: diza
+  description: out of all the vibes images inspired by mine, hers is the only one close to the original due to age and simply vibes with richer flavour
+  href: https://dbw.neocities.org/
+  src: https://dbw.neocities.org/assets/me.png
+  fallback: /assets/images/buttons/diza.png
+
+- title: chloe
+  description: lost my webring virginity to her
+  href: https://sapphic.moe/
+  src: https://sapphic.moe/buttons/sapphic.png
+  fallback: /assets/images/buttons/sapphic.png
+
+- title: koldinium
+  description: the social obligation to add each other's buttons on your website from condominium
+  href: https://koldinium.com/
+  src: https://koldinium.com/links/kold.png
+  fallback: /assets/images/buttons/kold.png
+
+- title: aria
+  description: ditto
+  href: https://aria.coffee/
+  src: https://aria.coffee/static/img/buttons/aria.gif
+  fallback: /assets/images/buttons/aria.gif
+
+- title: april
+  href: https://aprl.moe/
+
 # - title: spax
 #   href: https://spax.zone/
 #   src: /assets/images/buttons/spax.gif
