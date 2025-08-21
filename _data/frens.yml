@@ -31,16 +31,30 @@
   href: https://girlboss.ceo/
   src: /assets/images/buttons/june.png
 
-- title: rini's sand toy
-  description: but modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience
-  iframe: true
-  src: /sand
-  # src: https://rinici.de/buttons/sand
+- title: diza
+  description: out of all the vibes images inspired by mine, hers is the only one close to the original due to age and simply vibes with richer flavour
+  href: https://dbw.neocities.org/
+  src: https://dbw.neocities.org/assets/me.png
+  fallback: /assets/images/buttons/diza.png
+
+- title: april
+  href: https://aprl.moe/
+
+- title: soopyc/cassie
+  description: "if your pinned post is mizuena plushes stacked on top of each other titled 'i present to you... the sillies', that's RIZZ"
+  href: https://soopy.moe/
+  src: https://soopy.moe/images/buttons/own/88x31.gif
 
 - title: devi
   description: <3
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
+
+- title: rini's sand toy
+  description: but modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience
+  iframe: true
+  src: /sand
+  # src: https://rinici.de/buttons/sand
 
 - title: the thigh job ceo
   description: WHAT IS SHE EVEN CALLED THIS TIME. WHAT IS HER NEW DOMAIN THIS TIME. I DON'T KNOW.
@@ -63,11 +77,6 @@
   href: https://onz.ee/
   src: assets/images/buttons/onzecki.png
 
-- title: soopyc/cassie
-  description: "if your pinned post is mizuena plushes stacked on top of each other titled 'i present to you... the sillies', that's RIZZ"
-  href: https://soopy.moe/
-  src: https://soopy.moe/images/buttons/own/88x31.gif
-
 - title: elysia
   description: i cannot comprehend her for the life of me
   href: https://le.alphamethyl.barr0w.net/~elysia
@@ -79,12 +88,6 @@
   description: i shoved her into an 88x31 square and cleaned it up a bit in krita.. thought she does have her own button
   href: https://87flowers.com/
   src: /assets/images/buttons/lily.png
-
-- title: diza
-  description: out of all the vibes images inspired by mine, hers is the only one close to the original due to age and simply vibes with richer flavour
-  href: https://dbw.neocities.org/
-  src: https://dbw.neocities.org/assets/me.png
-  fallback: /assets/images/buttons/diza.png
 
 - title: chloe
   description: lost my webring virginity to her
@@ -103,9 +106,6 @@
   href: https://aria.coffee/
   src: https://aria.coffee/static/img/buttons/aria.gif
   fallback: /assets/images/buttons/aria.gif
-
-- title: april
-  href: https://aprl.moe/
 
 # - title: spax
 #   href: https://spax.zone/
