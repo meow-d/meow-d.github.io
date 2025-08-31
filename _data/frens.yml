@@ -58,6 +58,7 @@
   src: /sand
   # src: https://rinici.de/buttons/sand
 
+# friends
 - title: the *former* thigh job ceo
   description: she isn't even the thighjob ceo anymore 💔
   href: https://kyu.re/
@@ -80,6 +81,12 @@
   src: https://yurion.top/images/button.gif
   fallback: /assets/images/buttons/emily.gif
 
+- title: 🔥 KILL A6 HAWK 🔥
+  description: i have no idea who a6hawk is i was just following orders
+  href: https://a6hawk.com/kill/kill.webm
+  src: /assets/images/buttons/killa6hawk.gif
+  src-static: /assets/images/buttons/killa6hawk.static.png
+
 - title: onzecki
   description: her and notnite are what i like to call 'button freaks', they're obsessed with 88x31 buttons to a concerning degree
   href: https://onz.ee/
@@ -93,10 +100,11 @@
   fallback: /assets/images/buttons/elysia.png
 
 - title: lily
-  description: i shoved her into an 88x31 square and cleaned it up a bit in krita.. thought she does have her own button
+  description: i like lily
   href: https://87flowers.com/
   src: /assets/images/buttons/lily.png
 
+# not that familiar
 - title: chloe
   description: lost my webring virginity to her
   href: https://sapphic.moe/
@@ -114,9 +122,3 @@
   href: https://aria.coffee/
   src: https://aria.coffee/static/img/buttons/aria.gif
   fallback: /assets/images/buttons/aria.gif
-
-- title: 🔥 KILL A6 HAWK 🔥
-  description: i have no idea who a6hawk is i was just following orders
-  href: https://a6hawk.com/kill/kill.webm
-  src: /assets/images/buttons/killa6hawk.gif
-  src-static: /assets/images/buttons/killa6hawk.static.png
