@@ -74,6 +74,12 @@
   href: https://split.pet
   src: /assets/images/buttons/split.png
 
+- title: emily
+  description: there's so much yuri!!!!!!
+  href: https://yurion.top/
+  src: https://yurion.top/images/button.gif
+  fallback: /assets/images/buttons/emily.gif
+
 - title: onzecki
   description: her and notnite are what i like to call 'button freaks', they're obsessed with 88x31 buttons to a concerning degree
   href: https://onz.ee/
