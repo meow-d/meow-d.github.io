@@ -5,15 +5,6 @@ title: Home
 fontawesome: true
 ---
 
-song rec!
-
-><a href="https://music.youtube.com/watch?v=U0xEjUd8Jq4">
-    There was a time once, I thought I could be like you
-    <br>You should've seen it, all of the meaning, and all of what I can't do anymore
-    <br>There was a time once, that I believed in you
-    <br>Thought you'd keep me safe from my weaknesses when I'd speak to you
-</a>
-
 ## links
 
 ### if you wanna chat
