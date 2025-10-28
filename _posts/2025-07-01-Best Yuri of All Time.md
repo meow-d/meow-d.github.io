@@ -77,3 +77,7 @@ i've also seen a theory that youzi is the one who's actually gay, and she's been
 ## yuri that sounds like they could be on this list if i have read them
 - how do we relationship
 - The Executioner and Her Way of Life
+
+---
+
+TODO retroactive additions
