@@ -43,7 +43,7 @@
   src: https://aprl.moe/assets/images/avatar.webp
 
 - title: soopyc/cassie
-  description: the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sloppy
+  description: "Why are you so far away from me? \nI need help \nAnd you're way across the sea"
   href: https://soopy.moe/
   src: https://soopy.moe/images/buttons/own/88x31.gif
 
@@ -59,11 +59,11 @@
   # src: https://rinici.de/buttons/sand
 
 # friends
-- title: the *former* thigh job ceo
-  description: she isn't even the thighjob ceo anymore 💔
-  href: https://kyu.re/
-  src: https://demi.sh/88x31.png
-  fallback: /assets/images/buttons/demi.png
+- title: mux? more like sux
+  description: good friend. really appreciate
+  href: https://acpi.at
+  src: https://acpi.at/88x31.gif
+  fallback: /assets/images/buttons/mux.gif
 
 - title: LeNooby09
   description: his site is just like a real terminal, as in that it gets really annoying when the line wraps (on mobile)
@@ -104,7 +104,12 @@
   href: https://87flowers.com/
   src: /assets/images/buttons/lily.png
 
-# not that familiar
+- title: marmar
+  description: marmar
+  href: https://marmar22.tilde.team
+  src: https://marmar22.tilde.team/88x31.webp
+  fallback: /assets/images/buttons/marmar.webp
+
 - title: chloe
   description: lost my webring virginity to her
   href: https://sapphic.moe/
