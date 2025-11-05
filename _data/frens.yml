@@ -14,12 +14,6 @@
   src: /assets/images/buttons/mary.webp
   alt: crudely drawn rin yuru camp by yours truly
 
-- title: rini
-  description: no, this is not her original button
-  href: https://www3.rinici.de/
-  # src: https://rinici.de/button.png
-  src: /assets/images/buttons/rini.png
-
 - title: em
   description: largest button on the site. also had an extremely long monologue as a joke until it got too personal and i got really uncomfortable with the public reading it
   href: https://easrng.net/
@@ -47,16 +41,31 @@
   href: https://soopy.moe/
   src: https://soopy.moe/images/buttons/own/88x31.gif
 
+- title: rini (no budget edition)
+  description: due to budget cuts we've decided to replace smart rini with stoopid rini. she now has an iq of negative 10
+  href: https://github.com/rniii
+  src: /assets/images/buttons/rinicide.png
+
+- title: rini (buy this domain edition)
+  description:  € 50000 bro. 500,00 euros bro.
+  href: https://www3.rinici.de/
+  src: /assets/images/buttons/rini.png
+
+- title: rini (sand toy edition)
+  description: rini's sand toy but modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience
+  iframe: true
+  src: /sand
+  # src: https://rinici.de/buttons/sand
+
+- title: rini (autism edition)
+  description: i like rini a lot, actually. least surprisingly fact about me?
+  iframe: true
+  src: /rini
+
 - title: devi
   description: <3
   href: https://tengu.space/
   src: /assets/images/buttons/devi.png
-
-- title: rini's sand toy
-  description: but modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience
-  iframe: true
-  src: /sand
-  # src: https://rinici.de/buttons/sand
 
 # friends
 - title: mux? more like sux
