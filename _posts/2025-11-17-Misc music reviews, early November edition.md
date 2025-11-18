@@ -89,7 +89,7 @@ AND on a semi-related note, can we talk about how unfair RE:cyanotype is? Seriou
 ## somunia - Midnight swimming (piano arrange ver.)
 {% include youtube.html id="al7Vdd5gKtg" %}
 
-if you strip something down to its naked self, all the scars and the beauty become clearer. Midnight Swimming is a vulnerable song on a vulnerable hour. It's a mixture of happiness without the baggage, intertwined with the fear and desperation knowing it will soon be over.
+If you strip something down to its naked self, all the scars and the beauty become clearer. Midnight Swimming is a vulnerable song on a vulnerable hour. It's a mixture of happiness without the baggage, intertwined with the fear and desperation knowing it will soon be over.
 
 ## THE LUV BUGS, Saku, somunia - friend code
 {% include youtube.html id="IRsXLmj92-o" %}
