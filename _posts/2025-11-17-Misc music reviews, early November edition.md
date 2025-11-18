@@ -64,16 +64,12 @@ As for the MV and the full song... I don't know the lyrics so I don't know the s
 ## Halcali - おつかれSUMMER
 {% include youtube.html id="ViFHruS6oO8" %}
 
-(embed probably disabled by label)
-
 TikTok song. People hate TikTok for ruining music or something, but you can't deny its effect on niche/unusual songs (re)surfacing and blowing up to insane levels (that they deserve).
 
 This song is like, old-timey and modern at the same time. Frankly, I don't know enough about Japan to draw comparisons, but all I can think of is the one [sakana song](https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%95%E3%81%8B%E3%81%AA%E5%A4%A9%E5%9B%BD). And it's modern as in, the production, the rapping, and the MV that's made in 2025. The summer-y silliness aside, it's almost scary how well put together this song is.
 
 ## Kenshi Yonezu, Hikaru Utada - JANE DOE
 {% include youtube.html id="sPLqsLsooJY" %}
-
-(embed probably disabled by label)
 
 Perhaps the most powerful combination of names someone has ever conceived, perhaps fitting for an adaptation of peak cinema. The vocals are obviously really, really, really good. The production feels heavy and suffocating. Waltz-ish (?) songwriting makes me feel like I'm spiraling down an endless staircase.
 
