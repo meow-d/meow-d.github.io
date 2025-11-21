@@ -21,10 +21,10 @@ Even though I didn't like the album, I'm so glad I decided to check her out. I a
 
 Favourite tracks: The Secret Maturity, hikari, THSK
 
-## Yuka Nagase, mekakushe - Even so, the world is beautiful. [EP]
+## Yuka Nagase, Mekakushe - Even so, the world is beautiful. [EP]
 {% include youtube.html id="lG8PCI2R2nI" %}
 
-The second newest Yuka Nagase thing, the second thing I clicked on. Much more conventional, beautiful, short, and sweet EP. There are only 3 tracks, and the rest are interludes. Sadly, my Japanese isn't good enough to understand the monologues, save for some words.
+The second newest Yuka Nagase thing, the second thing I clicked on. Much more conventional, beautiful, short, and sweet EP. Despite being a collab, Yuka Nagase and Mekakushe's vocals fit so well you can't even tell who's who. Which, too, is yuri. There are only 3 tracks, and the rest are interludes. Sadly, my Japanese isn't good enough to understand the monologues, save for some words.
 
 Cleaning Blue in particular reminds me of [Yuzu - Hikare](https://www.youtube.com/watch?v=MKINc7Rs6v8), one of my favourite songs of all time. I see it as a lost Hunter X Hunter ending theme song that would have been if the anime had continued, though I highly doubt that's the case in reality. While Hikare has Yuzu's uncanny ability to invoke a wave of nostalgia, Cleaning Blue isn't far behind either, and does so with a more modern sound.
 
@@ -89,7 +89,7 @@ AND on a semi-related note, can we talk about how unfair RE:cyanotype is? Seriou
 ## somunia - Midnight swimming (piano arrange ver.)
 {% include youtube.html id="al7Vdd5gKtg" %}
 
-If you strip something down to its naked self, all the scars and the beauty become clearer. Midnight Swimming is a vulnerable song on a vulnerable hour. It's a mixture of happiness without the baggage, intertwined with the fear and desperation knowing it will soon be over.
+If you strip something down to its naked self, all the scars and the beauty become clearer. Midnight Swimming is a vulnerable song on a vulnerable hour. It's a mixture of happiness without the baggage, conflicting with the fear and desperation knowing it will soon be over. even as she tried to convince someone else she cannot truly convince herself. 
 
 ## THE LUV BUGS, Saku, somunia - friend code
 {% include youtube.html id="IRsXLmj92-o" %}
