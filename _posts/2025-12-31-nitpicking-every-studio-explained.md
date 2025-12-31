@@ -3,7 +3,7 @@ tags: anime-manga
 title: Nitpicking "Every Anime Studio Explained in 17+23 Minutes"
 ---
 
-i'm not a sakuga nerd myself, all i've done is listen to sakuga nerds. hell, he probably watches more anime than me. no seriously i really expected the video to be normie slop but this guy seems to have put actual effort into research?
+i'm not a sakuga nerd myself, all i've done is consume sakuga nerd content. hell, he probably watches more anime than me. no seriously i really expected the video to be normie slop but this guy seems to have put actual effort into research?
 
 if you wanna be fair, this is a topic that infamously lacks public information. and it's a format where you have to research an insanely large range, and you only have like 5 minutes to explain each.
 
