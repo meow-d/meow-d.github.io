@@ -41,7 +41,7 @@ describing gainax and trigger without the word "kanada" 💔
 ### mappa
 bro thinks he's on the team. (the shitty fraud leaker (leftmost one) who's somehow lumped with industry legends and veterans in the screenshots)
 
-same criticism about lack of surrounding context and showing personal vents, especially the rightmost screenshot. the context is that he's a veteran who came back from retirement to help^[citation needed], took too long for his storyboards, and blamed himself when the episode was a disaster. the schedule wasn't reasonable in the first place, but i'm sure you can understand how he feels.
+same criticism about lack of surrounding context and showing personal vents, especially the rightmost screenshot. the context is that he's a veteran who came back from retirement to help<sup>[citation needed]</sup>, took too long for his storyboards, and blamed himself when the episode was a disaster. the schedule wasn't reasonable in the first place, but i'm sure you can understand how he feels.
 
 (unconfirmed rumour incoming) the NDA thing might have been intended to combat leaks, since someone leaked an entire episode a while back (because people are too excited about the goat keiichiro watanabe), but it's extremely poorly implemented with the worst timing imaginable. i want to make a joke about how the leaker has no right to complain, but then again the "leaker" in question is a fake anyway, they never had any real information.
 
