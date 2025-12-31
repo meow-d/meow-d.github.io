@@ -30,6 +30,8 @@ i'm not into madhouse history but the "rebuilt" narrative sounds sus, their sign
 ### ghibli
 regarding the "drawn by hand" comment: i know he's referring to the older films having traditional cel animation, which to be fair is most of their films, but the industry is digital-first nowadays. ghibli is literally the reason opentoonz exists, so i'd say they contributed a lot to digital animation as well.
 
+well i can't blame him too much because that's copied from wikipedia who cited time magazine.
+
 ### sunrise
 i think every studio on the list has at least multiple teams/production lines. (except for mappa (because their productions are so messy they don't even have that concept))
 
