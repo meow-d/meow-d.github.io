@@ -27,7 +27,7 @@ i will inevitably sound like i'm up my own ass when i talk about how the crowd i
 
 so where's the hope? what can we even do about this? i don't know. i wouldn't be here if i knew how to solve humanity.
 
-if there's anything i learned from cohost's design (and mastodon's reluctance to implement quote posts), it's that social media design can only do so much. cohost was better mainly due to the culture attracted by the demographic and cumbersome design. `#cohost meta` was still consistently one of the worst places on the site, all the AI discourse was just terrible[^3].
+if there's anything i learned from cohost's design (and mastodon's reluctance to implement quote posts), it's that social media design can only do so much. cohost was better mainly due to the culture attracted by the demographic and cumbersome design. `#cohost meta` was still consistently one of the worst places on the site, all the AI discourse was just terrible.
 
 however, i have personally reached the conclusion that we need to defund the police. take away the power from the authority who keep abusing it.
 

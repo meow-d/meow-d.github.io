@@ -1,5 +1,6 @@
 ---
 tags: music
+title:  Misc music reviews, early November edition 
 ---
 
 I want people to talk more about music. If you sent me a link, I would have to listen a couple of times to get it, and there's no guarantee I would notice or like the same things you do. My ass can never run a reaction channel. That's why I felt like writing this - just random notes on a disorganised list of music I like. This may or may not become a new series.
