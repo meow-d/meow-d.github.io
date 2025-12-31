@@ -21,5 +21,6 @@ defaults:
 
 url: "https://meow-d.github.io"
 
+future: true
 plugins:
   - jekyll-sitemap
