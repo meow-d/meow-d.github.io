@@ -19,7 +19,7 @@ the worst thing fans can do is to pretend the problem doesn't exist, the second 
 
 it's bad for the animator because those jokes desensitizes the problem and enforces the narrative that it's necessary to be this way for the quality. it's bad for the studio because it proves that the average person doesn't actually care enough to start real backlash, or care about improvements. we're seeing mappa genuinely trying to improve, yet the comments in the new jjk trailer are still that one joke.
 
-lastly, i'm not sure highlighting specific incidences. i think it's needed, but it suffers from the same shallow understanding problem if presented without the surrounding context. and i don't know if the animators would want tweets on their *personal* account to be blasted to millions of ignorant fans.
+lastly, i'm not sure about highlighting specific incidences. i think it's needed, but it suffers from the same shallow understanding problem if presented without the surrounding context. and i don't know if the animators would want tweets on their *personal* account to be blasted to millions of ignorant fans.
 
 ### toei
 toei or not, looking at the staff list, especially the animation producer, *always* gives a better picture than just the studio.
