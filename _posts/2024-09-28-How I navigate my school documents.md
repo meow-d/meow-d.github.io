@@ -57,7 +57,7 @@ it's entirely keyboard-only, and it only takes a couple of seconds. the only two
 Hopefully this post is helpful to anyone with a similar issue (lemme know if you do because I have never seen anyone talk about this). And if anyone has any similar or better workflows, lemme know too.
 
 ## bonus: command line snippets
-now that you're using the command line, you can do a lot of trickery :3. here are a few snippers i commonly use.
+now that you're using the command line, you can do a lot of trickery :3. here are a few snippers i commonly use. yes, i update this section every couple of months.
 
 _these are in fish because it's what i use. if you use bash or zsh you'd have to change them a bit. just ask an LLM, idk._
 
@@ -77,19 +77,24 @@ mv ~/Downloads/*.zip ./ && unzip *.zip && rm *.zip
 
 be careful to not unzip something you don't want in your school notes...
 
-### unzip into a folder and delete the zip and delete the __MACOSX
+### unzip into a folder, delete the zip, and delete the __MACOSX
 ```sh
 for f in *.zip; set name (basename $f .zip) && mkdir -p $name && unzip -d $name $f && rm $f && rm -rd $name/__MACOSX; end
 ```
 
 ### convert to pdf
 ```sh
-libreoffice --headless --invisible --convert-to pdf *.docx && mkdir -p docx && mv *.docx docx/
-
-libreoffice --headless --invisible --convert-to pdf *.pptx && mkdir -p pptx && mv *.pptx pptx/
+set files *.pptx *.docx *.xlsx *.doc; libreoffice --headless --convert-to pdf $files && mkdir -p src && mv $files ./src
 ```
 
 cause i don't like opening up resource-heavy office software for the documents/slides when all i need is a lightweight pdf reader.
+
+### search pdf's with ripgrep-all
+```sh
+rga "java server pages"
+```
+
+use it like how you use ripgrep
 
 ---
 

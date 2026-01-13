@@ -36,7 +36,7 @@ most importantly, everyone have different problems they want to solve with note-
 
 To me, 90% of the benefit came from the fact that I have a place to write things down, which can easily be provided by Google Keep or a RM1.20[^1] notepad. Plus, I don't worry about remembering anything anymore. You don't have to write everything down, even just a little bit allows me to refresh my memory. It's especially useful in journaling, which gives your awareness in what you've done in this week or month.
 
-To this day, I still don't have the magical life-changing benefits the proponents claim. If you ever achieve that, all the power to you, I just don't believe it's a real thing to 99% of people. [in Joan Westenberg's rather divisive "I Deleted My Second Brain" article](https://www.joanwestenberg.com/p/i-deleted-my-second-brain), he goes as far as to argue that the premise of an archival-based second brain is fundamentally flawed. it is also a cautionary tale of what NOT to do for your PKM - don't religiously capture everything, don't spend too much energy on maintenance, and only do what works for you.
+To this day, I still don't have the magical life-changing benefits the proponents claim. If you ever achieve that, all the power to you, I just don't believe it's a real thing to 99% of people. [in Joan Westenberg's rather divisive "I Deleted My Second Brain" article](https://www.joanwestenberg.com/p/i-deleted-my-second-brain), they goes as far as to argue that the premise of an archival-based second brain is fundamentally flawed. it is also a cautionary tale of what NOT to do for your PKM - don't religiously capture everything, don't spend too much energy on maintenance, and only do what works for you.
 
 ---
 
