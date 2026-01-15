@@ -17,8 +17,9 @@
 - title: em
   description: largest button on the site. also had an extremely long monologue as a joke until it got too personal and i got really uncomfortable with the public reading it
   href: https://easrng.net/
-  src: /assets/images/buttons/easrng.gif
-  src-static: /assets/images/buttons/easrng.static.gif
+  video: true
+  src: /assets/images/buttons/easrng.av1.mp4
+  poster: /assets/images/buttons/easrng.static.gif
 
 - title: june
   description: the grapes are sour anyways
@@ -26,15 +27,17 @@
   src: /assets/images/buttons/june.png
 
 - title: diza
-  description: out of all the vibes images inspired by mine, theirs is the only one close to the original due to age and simply vibes with richer flavour
+  description: deezer
   href: https://dbw.neocities.org/
-  src: https://dbw.neocities.org/assets/me.png
-  fallback: /assets/images/buttons/diza.png
+  # src: https://dbw.neocities.org/assets/me.png
+  # fallback: /assets/images/buttons/diza.png
+  src: /assets/images/buttons/diza.avif
 
 - title: april
-  description: do you know if i didn't add an image link, the link would be displayed at the bottom as a list? yup, i have no reason to do this. suck it, april. get stretched
+  description: due to page size budget cuts, we have decided to compress april
   href: https://aprl.moe/
-  src: https://aprl.moe/assets/images/avatar.webp
+  # src: https://aprl.moe/assets/images/avatar.webp
+  src: /assets/images/buttons/april.webp
 
 - title: soopyc/cassie
   description: "Why are you so far away from me? \nI need help \nAnd you're way across the sea"
@@ -61,6 +64,12 @@
   description: i like rini a lot, actually. least surprisingly fact about me?
   iframe: true
   src: /rini
+
+- title: dawn
+  description: .
+  href: https://gaze.systems/
+  src: https://gaze.systems/88x31.gif
+  fallback: /assets/images/buttons/dawn.gif
 
 - title: devi
   description: <3
@@ -89,12 +98,6 @@
   href: https://yurion.top/
   src: https://yurion.top/images/button.gif
   fallback: /assets/images/buttons/emily.gif
-
-- title: 🔥 KILL A6 HAWK 🔥
-  description: i have no idea who a6hawk is i was just following orders
-  href: https://a6hawk.com/kill/kill.webm
-  src: /assets/images/buttons/killa6hawk.gif
-  src-static: /assets/images/buttons/killa6hawk.static.png
 
 - title: onzecki
   description: her and notnite are what i like to call 'button freaks', they're obsessed with 88x31 buttons to a concerning degree

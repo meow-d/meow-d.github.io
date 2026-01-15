@@ -10,7 +10,7 @@
         {% if button.fallback %}
           {% assign fallback = button.fallback %}
         {% else %}
-          {% assign fallback = "/assets/images/buttons/Huh%3F Why didnt I start the fire%3F Well, they never came home. Are you mad%3F I got the kerosene ready and everything. Just like you said to. I know I didnt dump it over my head. But I didnt want to get wet. Besides, if they werent coming back.png" %}
+          {% assign fallback = "/assets/images/buttons/Huh%3F Why didnt I start the fire%3F Well, they never came home. Are you mad%3F I got the kerosene ready and everything. Just like you said to. I know I didnt dump it over my head. But I didnt want to get wet. Besides, if they werent coming back.avif" %}
         {% endif %}
 
         {% comment %} iframe buttons {% endcomment %}
@@ -37,6 +37,22 @@
               loading="lazy"
               onerror="this.onerror=null; this.src=`{{ fallback }}`;">
           </picture>
+
+        {% comment %} video buttons (fuck gifs lol) {% endcomment %}
+        {% elsif button.video %}
+          <video
+            src="{{ button.src }}"
+            poster="{{ button.poster | default: fallback }}"
+            autoplay
+            muted
+            loop
+            playsinline
+            preload="auto"
+            title="{{ button.title }}"
+            data-description="{{ button.description }}"
+            loading="lazy"
+            onerror="this.onerror=null; this.poster=`{{ fallback }}`;">
+          </video>
 
         {% comment %} regular buttons {% endcomment %}
         {% else %}
