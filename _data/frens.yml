@@ -22,25 +22,22 @@
   poster: /assets/images/buttons/easrng.static.gif
 
 - title: june
-  description: the grapes are sour anyways
+  description: i hope she's doing okay
   href: https://girlboss.ceo/
   src: /assets/images/buttons/june.png
 
 - title: diza
   description: deezer
   href: https://dbw.neocities.org/
-  # src: https://dbw.neocities.org/assets/me.png
-  # fallback: /assets/images/buttons/diza.png
   src: /assets/images/buttons/diza.avif
 
 - title: april
-  description: due to page size budget cuts, we have decided to compress april
+  description: "due to budget cuts, we have decided to compress aprl. get dithered, idiot \n\nprotip: if you think 'i bet this would be so small if it was an svg', lossless webp would likely produce insanely small images, at least on squoosh.app!"
   href: https://aprl.moe/
-  # src: https://aprl.moe/assets/images/avatar.webp
   src: /assets/images/buttons/april.webp
 
 - title: soopyc/cassie
-  description: "Why are you so far away from me? \nI need help \nAnd you're way across the sea"
+  description: akiyama mizuki in real life???? (not clickbait)
   href: https://soopy.moe/
   src: https://soopy.moe/images/buttons/own/88x31.gif
 
@@ -58,7 +55,6 @@
   description: rini's sand toy but modified to support all sizes instead of just 88x31. you can open it in a new tab (/sand) for a full screen sand experience
   iframe: true
   src: /sand
-  # src: https://rinici.de/buttons/sand
 
 - title: rini (autism edition)
   description: i like rini a lot, actually. least surprisingly fact about me?
@@ -66,7 +62,7 @@
   src: /rini
 
 - title: dawn
-  description: .
+  description: inspired by it i have optimized the site to be under 250kb. no i will not submit to the leaderboard, a sigma male does not submit to anyone.
   href: https://gaze.systems/
   src: https://gaze.systems/88x31.gif
   fallback: /assets/images/buttons/dawn.gif
@@ -84,7 +80,7 @@
   fallback: /assets/images/buttons/mux.gif
 
 - title: LeNooby09
-  description: his site is just like a real terminal, as in that it gets really annoying when the line wraps (on mobile)
+  description: occationally you get reminded that he's still a teenager
   href: https://lenooby09.github.io/
   src: /assets/images/buttons/lenooby09.png
 
@@ -105,7 +101,7 @@
   src: assets/images/buttons/onzecki.png
 
 - title: elysia
-  description: i cannot comprehend her for the life of me
+  description: i cannot comprehend her for the life of me. to me she's is just dating a lovecraftian entity
   href: https://ely.pub.moe/
   src: https://ely.pub.moe/storage/icons/buttons/elysia.png
   alt: very pink background with dotted elements. it says 'meow!' in big block letters, and 'elysia' under that. there is a picture of a pink haired cat girl on the right
@@ -117,7 +113,7 @@
   src: /assets/images/buttons/lily.png
 
 - title: marmar
-  description: marmar
+  description: marmarmar
   href: https://marmar22.tilde.team
   src: https://marmar22.tilde.team/88x31.webp
   fallback: /assets/images/buttons/marmar.webp
@@ -129,13 +125,12 @@
   fallback: /assets/images/buttons/sapphic.png
 
 - title: koldinium
-  description: the social obligation to add each other's buttons on your website
+  description: hey guys when you say something is for the girls and the gays can you include me in that as well? the girls the ways and kold if it's not too much trouble thanks guys
   href: https://koldinium.com/
   src: https://koldinium.com/links/kold.png
   fallback: /assets/images/buttons/kold.png
 
 - title: aria
-  description: ditto
   href: https://aria.coffee/
   src: https://aria.coffee/static/img/buttons/aria.gif
   fallback: /assets/images/buttons/aria.gif
