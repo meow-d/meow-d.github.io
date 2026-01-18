@@ -61,6 +61,10 @@
   iframe: true
   src: /rini
 
+- title: ana
+  href: https://nekomimi.pet
+  src: /assets/images/buttons/ana.webp
+
 - title: dawn
   description: inspired by it i have optimized the site to be under 250kb. no i will not submit to the leaderboard, a sigma male does not submit to anyone.
   href: https://gaze.systems/
