@@ -2,6 +2,7 @@
 layout: default
 permalink: /
 title: Home
+description: Personal website of meow_d. I also have a blog.
 ---
 
 ## links
