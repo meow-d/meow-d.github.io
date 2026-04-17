@@ -1,0 +1,124 @@
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html,
+  body {
+    overflow: hidden;
+  }
+  canvas {
+    image-rendering: pixelated;
+  }
+</style>
+
+<body>
+  <a href="https://kyu.re" target="_blank">
+    <canvas id="c" width="100%" height="100%"></canvas>
+  </a>
+</body>
+
+<script>
+  const ctx = document.getElementById(`c`).getContext(`2d`),
+    w = (c.width = window.innerWidth),
+    h = (c.height = window.innerHeight),
+    pixelBuffer = new Uint8ClampedArray(w * h * 4);
+  let time = 0;
+
+  const bayer = [0, 8, 2, 10, 12, 4, 14, 6, 3, 11, 1, 9, 15, 7, 13, 5].map(
+    (v) => v / 16,
+  );
+
+  function dither(brightness, x, y) {
+    return brightness > bayer[(y & 3) * 4 + (x & 3)] ? 255 : 0;
+  }
+
+  function wave(x, y, time) {
+    let normX = x / w,
+      normY = y / h,
+      depth = normY,
+      depth2 = depth * depth,
+      frequency = 7 + 18 * depth2,
+      scrollSpeed = time * (0.5 + depth2 * 1.4),
+      w1 = Math.sin(
+        normX * frequency +
+          scrollSpeed +
+          Math.sin(normX * 3.1 - time * 0.4) * 1.5,
+      ),
+      w2 = Math.sin(
+        normX * frequency * 0.6 -
+          scrollSpeed * 1.2 +
+          Math.cos(normX * 5.7 + time * 0.5) * 1,
+      ),
+      w3 = Math.sin(
+        normX * frequency * 1.4 + scrollSpeed * 0.8 + normY * 5 - time,
+      ),
+      w4 = Math.cos(
+        normX * frequency * 0.35 -
+          scrollSpeed * 0.6 +
+          Math.sin(normY * 8 + time * 0.7) * 0.8,
+      ),
+      weightedBrightness = w1 * 0.35 + w2 * 0.3 + w3 * 0.2 + w4 * 0.15,
+      foamCrest = Math.max(0, weightedBrightness - 0.45) * 4 * depth,
+      contrastScaled = weightedBrightness * (0.25 + depth2 * 0.75) + 0.4;
+    return Math.max(0, Math.min(1, contrastScaled + foamCrest));
+  }
+
+  const glyphs = {
+      k: [`1000`, `1001`, `1010`, `1100`, `1010`, `1001`],
+      y: [`0000`, `1001`, `1001`, `0111`, `0001`, `0110`],
+      u: [`0000`, `1001`, `1001`, `1001`, `1001`, `0111`],
+      ".": [`0`, `0`, `0`, `0`, `0`, `1`],
+      r: [`0000`, `1011`, `1100`, `1000`, `1000`, `1000`],
+      e: [`0000`, `0110`, `1001`, `1111`, `1000`, `0110`],
+    },
+    charWidths = {
+      k: 4,
+      y: 4,
+      u: 4,
+      ".": 1,
+      r: 4,
+      e: 4,
+    },
+    labelChars = [`k`, `y`, `u`, `.`, `r`, `e`],
+    TAG_W = 30,
+    TAG_H = 11,
+    TAG_X = w - TAG_W,
+    TAG_Y = h - TAG_H,
+    TEXT_X = TAG_X + 2,
+    TEXT_Y = TAG_Y + 2;
+
+  function drawTag() {
+    ctx.fillStyle = `#000`;
+    ctx.fillRect(TAG_X, TAG_Y, TAG_W, TAG_H);
+    ctx.fillStyle = `#fff`;
+    let cursorX = TEXT_X;
+    labelChars.forEach((char) => {
+      glyphs[char].forEach((row, rowIndex) => {
+        [...row].forEach((bit, bitIndex) => {
+          bit === `1` &&
+            ctx.fillRect(cursorX + bitIndex, TEXT_Y + rowIndex, 1, 1);
+        });
+      }),
+        (cursorX += charWidths[char] + 1);
+    });
+  }
+
+  function drawFrame() {
+    time += 0.038;
+    for (let y = 0; y < h; y++) {
+      for (let x = 0; x < w; x++) {
+        let brightness = dither(wave(x, y, time), x, y);
+        let bufferIndex = (y * w + x) * 4;
+        pixelBuffer[bufferIndex] = brightness;
+        pixelBuffer[bufferIndex + 1] = brightness;
+        pixelBuffer[bufferIndex + 2] = brightness;
+        pixelBuffer[bufferIndex + 3] = 255;
+      }
+    }
+    ctx.putImageData(new ImageData(pixelBuffer, w, h), 0, 0);
+    drawTag();
+    requestAnimationFrame(drawFrame);
+  }
+  drawFrame();
+</script>

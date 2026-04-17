@@ -77,16 +77,11 @@
   src: /assets/images/buttons/devi.png
 
 # friends
-- title: mux? more like sux
-  description: good friend. really appreciate
-  href: https://acpi.at
-  src: https://acpi.at/88x31.gif
-  fallback: /assets/images/buttons/mux.gif
-
-- title: LeNooby09
-  description: occationally you get reminded that he's still a teenager
-  href: https://lenooby09.github.io/
-  src: /assets/images/buttons/lenooby09.png
+- title: kyure
+  description: "i can't believe she just buttonmogged everyone\nthanks for having a non minified version it makes modifying it much easier\nvisit /kyure.html to enjoy it in its full screen glory"
+  href: https://kyu.re
+  iframe: true
+  src: /kyure.html
 
 - title: split
   description: spiders georg of using the word 'faggot'
