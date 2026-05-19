@@ -1,9 +1,9 @@
 ---
 author: meow_d
 tags: anime-manga
+imagealt: a manga page. i have no idea how to alt text this
+image: /assets/images/post-images/There's Weird Voices Coming from the Room Next Door! - Vol.1 Ch.3 - 5.png
 ---
-
-![a manga page. i have no idea how to alt text this](/assets/images/post-images/There's Weird Voices Coming from the Room Next Door! - Vol.1 Ch.3 - 5.png)
 
 I'm usually super disconnected with most romance manga. I can't relate to having a social life, being in high school, being a girl, living in a yuri utopia where everyone is gay and homophobia doesn't exist. given my love for yuri, it's ironic that I actually connect more with heterosexual romance manga - both the male and female protags, mostly the latter.
 

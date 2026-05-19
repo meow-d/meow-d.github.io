@@ -1,9 +1,9 @@
 ---
 title: The meow_d note-taking/PKMS setup™ (and what NOT to do)
 tags: productivity
+imagealt: reddit comment "Temu Musk Tiago Forte in shambles."
+image: /assets/images/post-images/temu-musk-tiago-forte.png
 ---
-
-![reddit comment "Temu Musk Tiago Forte in shambles."](/assets/images/post-images/temu-musk-tiago-forte.png)
 
 Like a lot of people, I went through a PKM phase where I watched a ton of YouTube videos on different ideologies, from PARA to zettelkasten, tried different software, like notion and Joplin. The kind of phase where you're really motivated to finally change yourself for good, but deep down you knew no productivity system you try ever lasts and you will go back to my pathetic life sooner or later.
 

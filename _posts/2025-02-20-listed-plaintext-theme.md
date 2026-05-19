@@ -1,9 +1,9 @@
 ---
 tags: internet
 title: Listed.to plaintext theme
+imagealt: a listed.to blog but it looks like a plaintext site!
+image: /assets/images/post-images/listed-to-plaintext.png
 ---
-
-![a listed.to blog but it looks like a plaintext site!](/assets/images/post-images/listed-to-plaintext.png)
 
 have you ever wanted to use listed.to as your blog but you want it to look like one of those plaintext only sites? me neither, actually.
 

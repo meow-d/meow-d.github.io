@@ -21,7 +21,7 @@ Mekakushe in particular has a quality that I like to call "she thinks just like 
 
 The most popular song of the album is *Retronym of Love / 恋のレトロニム*, mostly due to it being the ending theme for Kowloon Generic Romance, which is a pretty big deal for a small artist like her. But the highlight of the album for me is Endless Lovers, or Goodnight Beige in Japanese.
 
-If i have to describe how the song feels, it would be "colorful" and "explosive". The song immediately greets you the varied, chaotic, yet controlled, instrumentals that contrasts the songwriting. And it continues doing so even when the vocals start, only occasionally pausing and slowing down - not to give you time to breathe, you're so drawn in that it doesn't feel suffocating. Eventually, it builds up to the climaxes.
+If i have to describe how the song feels, it would be "colorful" and "explosive". The song immediately greets you the varied, chaotic, yet controlled, instrumentals that contrasts the songwriting. And it continues doing so even when the vocals start, only occasionally pausing and slowing down - not to give you time to breathe, you're so drawn in that it doesn't feel suffocating.
 
 My favourite part of the climax is actually the bass, it just adds so much more to the song than it already had. And the little touches, like the bass when the song ends.
 

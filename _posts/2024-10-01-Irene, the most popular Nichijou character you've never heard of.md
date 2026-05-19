@@ -1,9 +1,9 @@
 ---
 tags: anime-manga
 title: Irene, the most popular Nichijou character you've never heard of
+image: /assets/images/post-images/irene-laughing.jpg
+imagealt: Irene laughing
 ---
-
-![Irene laughing](/assets/images/post-images/irene-laughing.jpg)
 
 If you don't remember her, she's [the waitress who appeared in episode 9](https://nichijou.fandom.com/wiki/Waitress). No, it's okay if you forgot her, she doesn't even have a name. It's a classic case of a fandom so starved for content that they memed a character into existance.
 

@@ -1,9 +1,9 @@
 ---
 tags: internet projects
 title: meow_d LLM, v1
+imagealt: "once Cohost ends I will fine-tune an an LLM on all my posts + my notes, creating the first ever LLM dedicated to posting cringe"
+image: /assets/images/post-images/cringe-llm.png
 ---
-
-!["once Cohost ends I will fine-tune an an LLM on all my posts + my notes, creating the first ever LLM dedicated to posting cringe"](/assets/images/post-images/cringe-llm.png)
 
 [link to some AI slop it generated.](/secret/ai-slop)
 

@@ -1,8 +1,8 @@
 ---
 tags: personal anime-manga
+imagealt: 'I took a photo of a panel where: the FMC was telling her crush "如、如果你對女生沒興趣，我可以從今天起再也不當女生！要是你對男生有興趣，我就開始當男生！" and the everyone watching is shocked 😦 ofc'
+image: /assets/images/post-images/pink-de-ikou.jpg
 ---
-
-![I took a photo of a panel where: the FMC was telling her crush "如、如果你對女生沒興趣，我可以從今天起再也不當女生！要是你對男生有興趣，我就開始當男生！" and the everyone watching is shocked 😦 ofc](/assets/images/post-images/pink-de-ikou.jpg)
 
 the other day I was at a clinic and there's a bookshelf with a very interesting selection of books. sure, we have your typical self-help/management/finance books for the adults, some Doraemon in Chinese for the kids... but we also have unexpected stuff like "The Sexual Life of Catherine M", "The Program: How to Find a Husband After 30: a 15-step Action Plan Using what I Learned at Harvard Business School", and a ton of old school shoujo manga (in Chinese). so I just picked one shoujo manga at random.
 

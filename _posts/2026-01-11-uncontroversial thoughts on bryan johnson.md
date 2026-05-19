@@ -1,6 +1,7 @@
 ---
 title: Uncontroversial thoughts on Bryan Johnson
 tags: internet
+description: in a vacuum, i think it's cool that someone is doing that kind of self experimentation, like &quot;what if someone just healthmaxxed&quot;. in reality, bryan johnson has smelly venture capitalist vibes. it's a demographic that believe they can change the world alone without ever looking at the shoulders they're standing on, and the same mindset is now being used on science. ageing is a problem as old as time, as complex as the universe. for a rich outsider to come in and claim they've solved it is disrespectful.
 ---
 
 in a vacuum, i think it's cool[^1] that someone is doing that kind of self experimentation, like "what if someone just healthmaxxed"[^2]. in reality, bryan johnson has smelly venture capitalist vibes. it's a demographic that believe they can change the world alone without ever looking at the shoulders they're standing on, and the same mindset is now being used on science. ageing is a problem as old as time, as complex as the universe. for a rich outsider to come in and claim they've solved it is disrespectful.

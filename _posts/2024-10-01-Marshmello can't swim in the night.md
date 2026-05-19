@@ -1,9 +1,9 @@
 ---
 tags: personal anime-manga
 title: "Marshmello Can't Swim In The Night"
+imagealt: Mahiru covering up her own name in her graffiti, as her friends make fun of it
+image: /assets/images/post-images/mahiru.webp
 ---
-
-![Mahiru covering up her own name in her graffiti, as her friends make fun of it](/assets/images/post-images/mahiru.webp)
 
 when i was in primary school, we have those whiteboards where there's a screen in the middle when you slide it open. on rare occasions (substitute teacher, special celebrations, etc) the students would have free reign to show whatever they want with the computer.
 

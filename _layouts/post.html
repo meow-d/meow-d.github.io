@@ -30,6 +30,10 @@ permalink: pretty
   </section>
 
   <section class="e-content">
+    {% if page.image %}
+      <p><img src="{{ page.image }}" alt="{{ page.imagealt }}" title="{{ page.imagealt }}"></p>
+    {% endif %} 
+
     {{ content }}
   </section>
 </article>
