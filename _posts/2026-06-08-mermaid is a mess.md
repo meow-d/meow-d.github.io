@@ -2,7 +2,7 @@
 tags: computers
 ---
 
-mermaid is most people's introduction to the "diagrams as code" concept, being the one that popularized that concept, gathering extremely widespread support along the way. imagine being supported by even github, you can write in mermaid and it'll show up as a chart, that's an incredible achivement. even if it did not invent the concept, it wouldn't be wrong to say that mermaid is life-changing to a lot of people.
+mermaid is most people's introduction to the "diagrams as code" concept, being the one that popularized that concept, gathering extremely widespread support along the way. imagine being supported by even github, you can write in mermaid and it'll show up as a chart; like that's an incredible achivement. even if it did not invent the concept, it wouldn't be wrong to say that mermaid is life-changing to a lot of people.
 
 unfortunately, mermaid does not act that way. rather than staying proud and saying "we're the one and only mermaid", they active want to be a mere product, they want to appeal to people who do not care about mermaid.
 
@@ -10,7 +10,7 @@ the thing is, i like open source developers earning money, i like using mermaid 
 
 so i'm not sure why mermaid's attempts to make money became so aimless and confusing. there is much confusion between mermaid chart (the company), mermaid.js (the library), mermaid.live (mermaid live editor), and the new mermaid.ai. by the way, they are also getting rid of their js.org domain in favour of mermaid.ai, presumably unifying everything under the new mermaid.ai. except for some reason they didn't put up a redirect. mermaid.js.org has the documentation and a notice, mermaid.live has the live editor, mermaid.ai has both (plus its own new app) (plus another [documentation](https://mermaid.ai/docs/mermaid-oss/syntax/flowchart.html)).
 
-the mermaid.ai homepage is this claude aesthetic ai startup page. i personally associate that design language with disingenuous startup, but that's entirely subjective. what *is* objective is how generic that home page is, how little it says about mermaid's true impact.
+the mermaid.ai homepage is this claude aesthetic ai startup page. i personally associate that design language with disingenuous startups, but that's entirely subjective. what *is* objective is how generic that home page is, how little it says about mermaid's true impact.
 
 ---
 
