@@ -3,8 +3,6 @@ tags: computers
 title: essential obsidian.nvim configs because the defaults are really really strange
 ---
 
-someone please remind me to change the comment color because damn it is hard to read
-
 ```lua
 -- in Lazy.nvim format because it's what i use
 {
