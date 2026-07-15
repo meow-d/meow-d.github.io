@@ -10,7 +10,7 @@ description: Personal website of meow_d. I also have a blog.
 ### if you wanna chat
 do tell me if any of this is outdated...
 
-- [<span class="icon"></span> Discord: wow.what.a.nice.dream](https://discordapp.com/users/468355290257948674)
+- [<span class="icon"></span> Discord: claire._listen_to_me._you_dont_h](https://discordapp.com/users/468355290257948674)
 - [<span class="icon">簾</span> Signal: meow_d.11](https://signal.me/#eu/ZMMG4PuwYSMqUTC4em6J-vDbqYnuk4_Tejm4eMDX5x6slkrpab5MX42RaCF9xEkF)
 - [<span class="icon"></span> Matrix: @meow_d:matrix.org](https://matrix.to/#/@meow_d:matrix.org)
 
