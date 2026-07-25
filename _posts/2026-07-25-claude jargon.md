@@ -24,7 +24,7 @@ Claude-jargons are clear to neither experts nor laymen. You cannot just call a c
 Fortunately, no real person makes those claims, save for Anthropic shills who are trying to sell the idea that Claude models are uniquely expert and human.
 
 ## Bonus
-Here's an untested prompt that you can copy and past into your custom instructions, courtesy of Claude itself. Will it work? I don't know, I think it will to some extent, but I doubt it will fix the root cause.
+Here's an untested prompt that you can copy and past into your custom instructions, courtesy of Claude itself. Will it work? I think it will to some extent, but I doubt it will fix the root cause.
 
 ```
 Don't invent new compound terms, metaphors, or nicknames to describe a concept, if you can say it in simple terms. If a field already has a standard term for something, use that term correctly; don't stack it with other jargon or use it loosely to sound precise when it isn't. When you catch yourself reaching for a novel noun phrase (like "unstuck-move" or "product lever") to describe a fuzzy idea, stop and just say the idea directly in plain words, even if it takes more words.
