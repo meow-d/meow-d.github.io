@@ -1,5 +1,5 @@
 ---
-title: incoherent claude jargon is not how smart people talk
+title: Incoherent claude jargon is not how smart people talk
 tags: computers
 ---
 
@@ -17,11 +17,11 @@ The pattern is especially prevalent in Anthropic's larger models (like Opus and 
 
 Occasionally, you'll hear claims that it's "how smart people talk". It is not. If anything, it is "how people who _act_ smart talk". The whole point of jargon is clarity, something established in the field beforehand that two experts mutually understand. We can write research papers in layman terms, but you won't know "the repeated part of a song" actually means "chorus". If there is a need, jargon can be established by clearly defining it, not inserting it randomly in a sentence and expect the reader to go along.
 
-Careful word choice is a skill, a failure to do so is usually a sign that the writer's understanding is not specific enough. This post was initially written with more complex words, but through effort of thinking about what i truly want to say, i was able to express it in simpler wording. In fact, my writing style starts resembling claude-jargon when I'm extremely tired, full of words that are semantically related to what I'm thinking, but I can't articulate it properly.
+Careful word choice is a skill, a failure to do so is usually a sign that the writer's understanding is not specific enough. This post was initially written with more complex words, but through effort of thinking about what I truly want to say, I was able to express it in simpler wording. In fact, my writing style starts resembling claude-jargon when I'm extremely tired, full of words that are semantically related to what I'm thinking, because I cannot articulate it properly.
 
-Claude-jargons are clear to neither experts nor laymen. You cannot just call a chorus "song's semantic home". Sometimes it gets extremely ambiguous - "home" to what? The real purpose seems to be sacrificing legibility to write in less tokens. Whether this is intentional on Anthropic's part or a training artifact is anyone's guess.
+Claude-jargons are clear to neither experts nor laymen. You cannot just call a chorus "song's semantic home". Sometimes it gets extremely ambiguous - "semantic" in what sense? The real purpose seems to be sacrificing legibility to write in less tokens. Whether this is intentional on Anthropic's part or a training artifact is anyone's guess.
 
-Fortunately, no real person makes that claims. The only people are Anthropic shills who are trying to sell the idea that Claude models are uniquely expert and human.
+Fortunately, no real person makes those claims. The only people are Anthropic shills who are trying to sell the idea that Claude models are uniquely expert and human.
 
 ## Bonus
 Here's an untested prompt that you can copy and past into your custom instructions, courtesy of Claude itself. Will it work? I don't know, I think it will to some extent, but I doubt it will fix the root cause.

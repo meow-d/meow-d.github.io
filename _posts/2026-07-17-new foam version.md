@@ -1,6 +1,6 @@
 ---
 tags: computers
-title: The Foam (PKM VSCode extension) glow-up
+title: Foam (the PKM VSCode extension) got a glow-up
 ---
 
 I've been using an old version of Foam since last year due to a bug I forgot, and I only recently updated. There are so many new features now. The execution is mixed, but will be very exciting to any Foam user nonetheless.
