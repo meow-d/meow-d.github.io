@@ -21,7 +21,7 @@ Careful word choice is a skill, a failure to do so is usually a sign that the wr
 
 Claude-jargons are clear to neither experts nor laymen. You cannot just call a chorus "song's semantic home". Sometimes it gets extremely ambiguous - "semantic" in what sense? The real purpose seems to be sacrificing legibility to write in less tokens. Whether this is intentional on Anthropic's part or a training artifact is anyone's guess.
 
-Fortunately, no real person makes those claims. The only people are Anthropic shills who are trying to sell the idea that Claude models are uniquely expert and human.
+Fortunately, no real person makes those claims, save for Anthropic shills who are trying to sell the idea that Claude models are uniquely expert and human.
 
 ## Bonus
 Here's an untested prompt that you can copy and past into your custom instructions, courtesy of Claude itself. Will it work? I don't know, I think it will to some extent, but I doubt it will fix the root cause.
