@@ -1,6 +1,7 @@
 ---
 title: Minecraft Matcha Flavored has too much spite for my taste
 tags: gaming
+image: /assets/images/post-images/matcha.webp
 ---
 
 {% include youtube.html id="zyRH8W58fRI" %}
