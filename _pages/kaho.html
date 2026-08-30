@@ -64,6 +64,12 @@
     img {
       border-radius: 5px;
     }
+
+    footer {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      margin-top: 5em;
+      font-style: italic;
+    }
     </style>
   </head>
   <body>
@@ -71,7 +77,11 @@
     <h2>An AI assistant that doesn't try to make you obselete</h2>
     <p>As PKM knowledge bases grow, users struggle to maintain connections between notes and rediscover relevant information. Existing AI features address this poorly, focusing on content generation rather than supporting the synthesis and linking processes that make note-taking valuable. <b>Kaho is an Obsidian plugin that aims to assist the users' workflows while preserving those processes.</b></p>
 
-    <a href="https://github.com/meow-d/obsidian-ai-assistant">Github</a>
+    <p>
+      <a href="https://github.com/meow-d/obsidian-ai-assistant">Github</a>
+      ✶ <a href="https://github.com/meow-d/obsidian-ai-assistant/releases/tag/1.0.0">Manual install</a>
+      ✶ Obsidian community (coming soon)
+    </p>
 
     <h2>Features</h2>
     <div class="grid">
@@ -79,22 +89,24 @@
       <p>Suggests text that can be linked to a note in your vault</p>
       <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_inlinesuggestions.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
 
-      <h3>Smart suggestions sidebar</h3>
-      <p>Carefully designed AI-powered suggestions while you type (similar notes, tag suggestions, folder suggestions, note split suggestions, and "try revisiting..." suggestions)</p>
+      <h3>Smart suggestions</h3>
+      <p>A sidebar that displays AI-powered suggestions as you work, with 5 carefully designed suggestions:</p>
+      <p><i>similar notes, "try revisiting..." suggestions, tag suggestions, folder suggestions, note split suggestions.</i></p>
       <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_smartsuggestions.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
 
       <h3>AI agent</h3>
-      <p>Self explainatory :)</p>
+      <p>Self explainatory :). A minimal custom harness for now. In the future this will be replaced with <a href="https://pi.dev/">pi</a>.</p>
       <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_agent.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
 
       <h3>Natural language search</h3>
-      <p>Stop guessing keywords and search in natural language</p>
+      <p>Stop guessing keywords and search in natural language.</p>
       <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_search.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
       <p><i>disclaimer: kaho does NOT officially endorse or publicly weigh in on any positions on programming languages, all opinion are strictly the model's opinion.</i></p>
 
       <h3>Orphan rescuer</h3>
-      <p>Finds notes with no links, then suggest similar notes to help you get started with linking them.</p>
+      <p>Lists your orphan notes (notes with no incoming/outgoing links), then suggest similar notes to help you get started with linking them.</p>
       <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_orphan.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
 
+      <footer>made with love (and equal parts pain) by <a href="/">meow-d</a></footer>
   </body>
 </html>
