@@ -1,0 +1,84 @@
+<!-- who up rawdogging vanilla html -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kaho - Obsidian AI Assistant</title>
+    <meta name="description" content="An AI assistant that doesn't try to make you obselete" />
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Metamorphous&display=swap');
+
+    html {
+      background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjAwIDkwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI3NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwODJlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KCiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItMTAwJSIgeT0iLTEwMCUiIHdpZHRoPSIzMDAlIiBoZWlnaHQ9IjMwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxLjUiLz4KICAgIDwvZmlsdGVyPgoKICAgIDxzdHlsZT4KICAgICAgLnN0YXIgewogICAgICAgIGZpbGw6IHdoaXRlOwogICAgICAgIHRyYW5zZm9ybS1ib3g6IGZpbGwtYm94OwogICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IGNlbnRlcjsKICAgICAgfQoKICAgICAgLnR3aW5rbGUxIHsgYW5pbWF0aW9uOiB0d2lua2xlIDMuN3MgZWFzZS1pbi1vdXQgaW5maW5pdGU7IH0KICAgICAgLnR3aW5rbGUyIHsgYW5pbWF0aW9uOiB0d2lua2xlIDUuMXMgZWFzZS1pbi1vdXQgaW5maW5pdGUgMS4yczsgfQogICAgICAudHdpbmtsZTMgeyBhbmltYXRpb246IHR3aW5rbGUgNC4zcyBlYXNlLWluLW91dCBpbmZpbml0ZSAyLjFzOyB9CgogICAgICBAa2V5ZnJhbWVzIHR3aW5rbGUgewogICAgICAgIDAlLCAxMDAlIHsgb3BhY2l0eTogMC4yNTsgfQogICAgICAgIDUwJSB7IG9wYWNpdHk6IDE7IH0KICAgICAgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxNjAwIiBoZWlnaHQ9IjkwMCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTEiPgogICAgPHBhdGggZD0iTTgyIDkwIEw4My4yIDk1IEw4OCA5NiBMODMuMiA5NyBMODIgMTAyIEw4MC44IDk3IEw3NiA5NiBMODAuOCA5NSBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMiI+CiAgICA8cGF0aCBkPSJNMTU0IDMwNyBMMTU1IDMxMSBMMTU5IDMxMiBMMTU1IDMxMyBMMTU0IDMxNyBMMTUzIDMxMyBMMTQ5IDMxMiBMMTUzIDMxMSBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMyI+CiAgICA8cGF0aCBkPSJNMjMzIDE1NyBMMjM0LjUgMTYyLjUgTDI0MCAxNjQgTDIzNC41IDE2NS41IEwyMzMgMTcxIEwyMzEuNSAxNjUuNSBMMjI2IDE2NCBMMjMxLjUgMTYyLjUgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTEiPgogICAgPHBhdGggZD0iTTMxOCA2OSBMMzE5IDcyIEwzMjIgNzMgTDMxOSA3NCBMMzE4IDc3IEwzMTcgNzQgTDMxNCA3MyBMMzE3IDcyIFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUyIj4KICAgIDxwYXRoIGQ9Ik0zOTcgMjU0IEwzOTguNSAyNTggTDQwMyAyNTkgTDM5OC41IDI2MCBMMzk3IDI2NCBMMzk1LjUgMjYwIEwzOTEgMjU5IEwzOTUuNSAyNTggWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTMiPgogICAgPHBhdGggZD0iTTQ2OCAxMTUgTDQ2OSAxMTggTDQ3MiAxMTkgTDQ2OSAxMjAgTDQ2OCAxMjMgTDQ2NyAxMjAgTDQ2NCAxMTkgTDQ2NyAxMTggWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTIiPgogICAgPHBhdGggZD0iTTU0NCAzMzUgTDU0NS41IDM0MSBMNTUxIDM0MiBMNTQ1LjUgMzQzIEw1NDQgMzQ5IEw1NDIuNSAzNDMgTDUzNyAzNDIgTDU0Mi41IDM0MSBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMSI+CiAgICA8cGF0aCBkPSJNNjI5IDE5OCBMNjMwIDIwMSBMNjMzIDIwMiBMNjMwIDIwMyBMNjI5IDIwNiBMNjI4IDIwMyBMNjI1IDIwMiBMNjI4IDIwMSBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMyI+CiAgICA8cGF0aCBkPSJNNzExIDc5IEw3MTIuMiA4MyBMNzE2IDg0IEw3MTIuMiA4NSBMNzExIDg5IEw3MDkuOCA4NSBMNzA2IDg0IEw3MDkuOCA4MyBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMSI+CiAgICA8cGF0aCBkPSJNNzg5IDI4NyBMNzkwIDI5MCBMNzkzIDI5MSBMNzkwIDI5MiBMNzg5IDI5NSBMNzg4IDI5MiBMNzg1IDI5MSBMNzg4IDI5MCBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMiI+CiAgICA8cGF0aCBkPSJNODYxIDEzOCBMODYyLjUgMTQzLjUgTDg2OCAxNDUgTDg2Mi41IDE0Ni41IEw4NjEgMTUyIEw4NTkuNSAxNDYuNSBMODU0IDE0NSBMODU5LjUgMTQzLjUgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTMiPgogICAgPHBhdGggZD0iTTk0NCA2MiBMOTQ1IDY1IEw5NDggNjYgTDk0NSA2NyBMOTQ0IDcwIEw5NDMgNjcgTDk0MCA2NiBMOTQzIDY1IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUxIj4KICAgIDxwYXRoIGQ9Ik0xMDIyIDIzMyBMMTAyMyAyMzYgTDEwMjYgMjM3IEwxMDIzIDIzOCBMMTAyMiAyNDEgTDEwMjEgMjM4IEwxMDE4IDIzNyBMMTAyMSAyMzYgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTIiPgogICAgPHBhdGggZD0iTTExMDcgMTA5IEwxMTA4IDExMiBMMTExMSAxMTMgTDExMDggMTE0IEwxMTA3IDExNyBMMTEwNiAxMTQgTDExMDMgMTEzIEwxMTA2IDExMiBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMyI+CiAgICA8cGF0aCBkPSJNMTE5MSAzMTYgTDExOTIuNSAzMjEgTDExOTcgMzIyIEwxMTkyLjUgMzIzIEwxMTkxIDMyOCBMMTE4OS41IDMyMyBMMTE4NSAzMjIgTDExODkuNSAzMjEgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTEiPgogICAgPHBhdGggZD0iTTEyNzYgMTc0IEwxMjc3IDE3NyBMMTI4MCAxNzggTDEyNzcgMTc5IEwxMjc2IDE4MiBMMTI3NSAxNzkgTDEyNzIgMTc4IEwxMjc1IDE3NyBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMiI+CiAgICA8cGF0aCBkPSJNMTM1MiA3MSBMMTM1My4yIDc1IEwxMzU3IDc2IEwxMzUzLjIgNzcgTDEzNTIgODEgTDEzNTAuOCA3NyBMMTM0NyA3NiBMMTM1MC44IDc1IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUzIj4KICAgIDxwYXRoIGQ9Ik0xNDUxIDI3MSBMMTQ1MiAyNzQgTDE0NTUgMjc1IEwxNDUyIDI3NiBMMTQ1MSAyNzkgTDE0NTAgMjc2IEwxNDQ3IDI3NSBMMTQ1MCAyNzQgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTEiPgogICAgPHBhdGggZD0iTTE1MjQgMTMwIEwxNTI1LjIgMTM0IEwxNTI5IDEzNSBMMTUyNS4yIDEzNiBMMTUyNCAxNDAgTDE1MjIuOCAxMzYgTDE1MTkgMTM1IEwxNTIyLjggMTM0IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUyIj4KICAgIDxwYXRoIGQ9Ik0xMjEgNDY5IEwxMjIgNDcyIEwxMjUgNDczIEwxMjIgNDc0IEwxMjEgNDc3IEwxMjAgNDc0IEwxMTcgNDczIEwxMjAgNDcyIFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUzIj4KICAgIDxwYXRoIGQ9Ik0yMDYgNjE2IEwyMDcuMiA2MjEgTDIxMiA2MjIgTDIwNy4yIDYyMyBMMjA2IDYyOCBMMjA0LjggNjIzIEwyMDAgNjIyIEwyMDQuOCA2MjEgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTEiPgogICAgPHBhdGggZD0iTTI4NyA1MjggTDI4OCA1MzEgTDI5MSA1MzIgTDI4OCA1MzMgTDI4NyA1MzYgTDI4NiA1MzMgTDI4MyA1MzIgTDI4NiA1MzEgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTIiPgogICAgPHBhdGggZD0iTTM2NSA3NDAgTDM2Ni4yIDc0NCBMMzcwIDc0NSBMMzY2LjIgNzQ2IEwzNjUgNzUwIEwzNjMuOCA3NDYgTDM2MCA3NDUgTDM2My44IDc0NCBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMyI+CiAgICA8cGF0aCBkPSJNNDUxIDYwMCBMNDUyIDYwMyBMNDU1IDYwNCBMNDUyIDYwNSBMNDUxIDYwOCBMNDUwIDYwNSBMNDQ3IDYwNCBMNDUwIDYwMyBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMSI+CiAgICA8cGF0aCBkPSJNNTM4IDgwNyBMNTM5LjUgODEyIEw1NDQgODEzIEw1MzkuNSA4MTQgTDUzOCA4MTkgTDUzNi41IDgxNCBMNTMyIDgxMyBMNTM2LjUgODEyIFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUyIj4KICAgIDxwYXRoIGQ9Ik02MjMgNTQ2IEw2MjQgNTQ4IEw2MjYgNTQ5IEw2MjQgNTUwIEw2MjMgNTUyIEw2MjIgNTUwIEw2MjAgNTQ5IEw2MjIgNTQ4IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUzIj4KICAgIDxwYXRoIGQ9Ik03MDIgNjg2IEw3MDMgNjg5IEw3MDYgNjkwIEw3MDMgNjkxIEw3MDIgNjk0IEw3MDEgNjkxIEw2OTggNjkwIEw3MDEgNjg5IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUxIj4KICAgIDxwYXRoIGQ9Ik03ODEgNTA5IEw3ODIgNTEyIEw3ODUgNTEzIEw3ODIgNTE0IEw3ODEgNTE3IEw3ODAgNTE0IEw3NzcgNTEzIEw3ODAgNTEyIFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUyIj4KICAgIDxwYXRoIGQ9Ik04NjUgNzY2IEw4NjYuMiA3NzEgTDg3MSA3NzIgTDg2Ni4yIDc3MyBMODY1IDc3OCBMODYzLjggNzczIEw4NTkgNzcyIEw4NjMuOCA3NzEgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTMiPgogICAgPHBhdGggZD0iTTk0MiA2MjEgTDk0MyA2MjQgTDk0NiA2MjUgTDk0MyA2MjYgTDk0MiA2MjkgTDk0MSA2MjYgTDkzOCA2MjUgTDk0MSA2MjQgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTEiPgogICAgPHBhdGggZD0iTTEwMjcgODM5IEwxMDI4LjIgODQzIEwxMDMyIDg0NCBMMTAyOC4yIDg0NSBMMTAyNyA4NDkgTDEwMjUuOCA4NDUgTDEwMjIgODQ0IEwxMDI1LjggODQzIFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUyIj4KICAgIDxwYXRoIGQ9Ik0xMTE0IDUzOCBMMTExNSA1NDEgTDExMTggNTQyIEwxMTE1IDU0MyBMMTExNCA1NDYgTDExMTMgNTQzIEwxMTEwIDU0MiBMMTExMyA1NDEgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTMiPgogICAgPHBhdGggZD0iTTExOTcgNjk5IEwxMTk4LjUgNzA0IEwxMjAzIDcwNSBMMTE5OC41IDcwNiBMMTE5NyA3MTEgTDExOTUuNSA3MDYgTDExOTEgNzA1IEwxMTk1LjUgNzA0IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUxIj4KICAgIDxwYXRoIGQ9Ik0xMjc4IDU5NSBMMTI3OSA1OTggTDEyODIgNTk5IEwxMjc5IDYwMCBMMTI3OCA2MDMgTDEyNzcgNjAwIEwxMjc0IDU5OSBMMTI3NyA1OTggWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTIiPgogICAgPHBhdGggZD0iTTEzNjEgODIwIEwxMzYyIDgyNCBMMTM2NiA4MjUgTDEzNjIgODI2IEwxMzYxIDgzMCBMMTM2MCA4MjYgTDEzNTYgODI1IEwxMzYwIDgyNCBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMyI+CiAgICA8cGF0aCBkPSJNMTQ0NyA2NTMgTDE0NDggNjU2IEwxNDUxIDY1NyBMMTQ0OCA2NTggTDE0NDcgNjYxIEwxNDQ2IDY1OCBMMTQ0MyA2NTcgTDE0NDYgNjU2IFoiLz4KICA8L2c+CgogIDxnIGNsYXNzPSJzdGFyIHR3aW5rbGUxIj4KICAgIDxwYXRoIGQ9Ik0xNTMzIDc3NSBMMTUzNC4yIDc3OSBMMTUzOCA3ODAgTDE1MzQuMiA3ODEgTDE1MzMgNzg1IEwxNTMxLjggNzgxIEwxNTI4IDc4MCBMMTUzMS44IDc3OSBaIi8+CiAgPC9nPgoKICA8ZyBjbGFzcz0ic3RhciB0d2lua2xlMiI+CiAgICA8cGF0aCBkPSJNNTggODEzIEw1OSA4MTYgTDYyIDgxNyBMNTkgODE4IEw1OCA4MjEgTDU3IDgxOCBMNTQgODE3IEw1NyA4MTYgWiIvPgogIDwvZz4KCiAgPGcgY2xhc3M9InN0YXIgdHdpbmtsZTMiPgogICAgPHBhdGggZD0iTTE1NDIgNDY1IEwxNTQzIDQ2OCBMMTU0NiA0NjkgTDE1NDMgNDcwIEwxNTQyIDQ3MyBMMTU0MSA0NzAgTDE1MzggNDY5IEwxNTQxIDQ2OCBaIi8+CiAgPC9nPgo8L3N2Zz4=");
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center;
+      color: white;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    a {
+      color: #96deff;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    h1, h2 {
+      font-family: "Metamorphous", serif;
+    }
+
+    h2 {
+      margin-top: 3em;
+    }
+
+    h3 {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      margin-top: 1.5em;
+      margin-bottom: 0;
+    }
+
+    p {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      margin-block: 0.4em;
+    }
+
+    img {
+      border-radius: 3px;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>Kaho</h1>
+    <h2>An AI assistant that doesn't try to make you obselete</h2>
+    <p>As PKM knowledge bases grow, users struggle to maintain connections between notes and rediscover relevant information. Existing AI features address this poorly, focusing on content generation rather than supporting the synthesis and linking processes that make note-taking valuable. <b>Kaho is an Obsidian plugin that aims to assist the users' workflows while preserving those processes.</b></p>
+
+    <a href="https://github.com/meow-d/obsidian-ai-assistant">Github</a>
+
+    <h2>Features</h2>
+    <div class="grid">
+      <h3>Wikilink suggestions</h3>
+      <p>Suggests text that can be linked to a note in your vault</p>
+      <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_inlinesuggestions.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
+
+      <h3>Smart suggestions sidebar</h3>
+      <p>Carefully designed AI-powered suggestions while you type (similar notes, tag suggestions, folder suggestions, note split suggestions, and "try revisiting..." suggestions)</p>
+      <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_smartsuggestions.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
+
+      <h3>AI agent</h3>
+      <p>Self explainatory :)</p>
+      <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_agent.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
+
+      <h3>Natural language search</h3>
+      <p>Stop guessing keywords and search in natural language</p>
+      <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_search.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
+
+      <h3>Orphan rescuer</h3>
+      <p>Finds notes with no links, then suggest similar notes to help you get started with linking them.</p>
+      <img src="https://raw.githubusercontent.com/meow-d/obsidian-ai-assistant/refs/heads/main/src/assets/screenshot_orphan.webp" alt="smart suggestions sidebar in Obsidian" loading="lazy" />
+
+  </body>
+</html>
