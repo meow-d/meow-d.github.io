@@ -49,7 +49,7 @@ lsusb -t
 #     |__ Port 010: Dev 019, If 1, Class=Wireless, Driver=[none], 12M
 ```
 
-- Restart.
+- Remember to restart.
 
 ## resources
 - https://github.com/virt-manager/virt-manager/issues/954
