@@ -29,7 +29,8 @@
 - title: diza
   description: deezer
   href: https://dbw.neocities.org/
-  src: /assets/images/buttons/diza.avif
+  src: https://dbw.neocities.org/assets/88x31.gif
+  fallback: /assets/images/buttons/diza.gif
 
 - title: april
   description: "due to budget cuts, we have decided to compress aprl. get dithered, idiot \n\nprotip: if you think 'i bet this would be so small if it was an svg', lossless webp would likely produce insanely small images, at least on squoosh.app!"
